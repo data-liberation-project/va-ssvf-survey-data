@@ -1,0 +1,1783 @@
+fiscal_year,grant_id,provider_name,provider_name_latest,responses_total,q1_1,q1_2,q1_3,q1_4,q1_5,top_2_count,top_2_pct
+2022,12-AK-001,,Catholic Social Services,2,0,0,0,0,2,2,100.0
+2022,12-AL-002,,Housing First Inc,2,0,0,0,1,1,2,100.0
+2022,12-CA-013,,Goodwill of Silicon Valley (dba Goodwill Industries of Santa Clara County),6,1,0,0,0,5,5,83.3
+2022,12-CA-016,,Shelter Inc of Contra Costa County,2,0,0,0,1,1,2,100.0
+2022,12-CA-018,,Volunteers of America of Greater Sacramento and Northern Nevada Inc,19,1,1,1,7,9,16,84.2
+2022,12-CT-021,,Community Renewal Team Inc,6,0,0,0,2,4,6,100.0
+2022,12-FL-024,,Advocate Program Inc,29,8,3,1,3,14,17,58.6
+2022,12-FL-028,,Jewish Family & Childrens Service Of The Suncoast Inc,6,0,1,0,1,4,5,83.3
+2022,12-GA-029,,Central Savannah River Area Economic Opportunity Authority Inc (CSRA EOA),23,0,1,7,4,11,15,65.2
+2022,12-ID-032,,El-Ada Inc,14,1,0,2,5,6,11,78.6
+2022,12-IL-033,,Thresholds,8,2,0,0,1,5,6,75.0
+2022,12-LA-038,,Volunteers of America of Greater New Orleans,17,2,1,0,4,10,14,82.4
+2022,12-LA-039,,Wellspring Alliance for Families Inc.,1,0,0,0,0,1,1,100.0
+2022,12-MA-040,,Volunteers of America of Massachusetts Inc,8,0,0,0,3,5,8,100.0
+2022,12-MD-042,,Alliance Inc,93,7,5,20,14,47,61,65.6
+2022,12-ME-043,,Preble Street,16,0,1,2,0,13,13,81.3
+2022,12-MI-044,,Wayne Metropolitan Community Action Agency,2,0,0,1,1,0,1,50.0
+2022,12-MI-045,,Southwest Counseling Solutions,22,0,4,1,8,9,17,77.3
+2022,12-NC-049,,United Way of Forsyth County Inc.,3,0,0,0,1,2,3,100.0
+2022,12-NC-050,,Passage Home Inc,5,0,0,1,1,3,4,80.0
+2022,12-ND-051,,Community Action Partnership of North Dakota,20,1,0,1,1,17,18,90.0
+2022,12-NJ-053,,Catholic Charities Dioceses of Camden Inc,27,0,0,2,6,19,25,92.6
+2022,12-NM-055,,Goodwill Industries of New Mexico,25,3,0,4,2,16,18,72.0
+2022,12-NY-060,,HELP Social Service Corporation,17,2,1,0,6,8,14,82.4
+2022,12-NY-063,,Westchester Community Opportunity Program Inc. (WestCOP),9,1,0,0,2,6,8,88.9
+2022,12-OH-064,,Mental Health Services for Homeless Persons Inc  dba  FrontLine Service ,34,2,0,3,7,22,29,85.3
+2022,12-TX-071,,Families in Crisis Inc,12,0,1,1,3,7,10,83.3
+2022,12-VA-077,,Virginia Supportive Housing,2,0,0,0,0,2,2,100.0
+2022,12-ZZ-031,,Humility of Mary Shelter Inc,5,1,1,2,0,1,1,20.0
+2022,12-ZZ-041,,Veterans Inc,17,1,0,2,1,13,14,82.4
+2022,13-CA-090,,California Veterans Assistance Foundation Inc,6,1,0,1,0,4,4,66.7
+2022,13-CT-093,,The Workplace Inc,16,2,2,4,1,7,8,50.0
+2022,13-FL-096,,Faith Hope Love Charity Inc,21,1,0,4,2,14,16,76.2
+2022,13-IA-103,,Primary Health Care Inc,3,0,0,1,0,2,2,66.7
+2022,13-IL-104,,The Salvation Army an Illinois Corporation,25,8,2,2,5,8,13,52.0
+2022,13-IL-105,,Heartland Human Care Services Inc,9,1,0,2,1,5,6,66.7
+2022,13-IN-106,,Community Action of Northeast Indiana Inc (dba Brightpoint) ,10,0,0,0,6,4,10,100.0
+2022,13-MD-107,,Three Oaks Homeless Shelter Inc,4,0,0,1,1,2,3,75.0
+2022,13-MI-108,,Northwest Michigan Community Action Agency Inc,3,0,0,0,1,2,3,100.0
+2022,13-MO-110,,Catholic Charities of Kansas City - St Joseph Inc,4,0,0,1,1,2,3,75.0
+2022,13-NH-115,,Harbor Homes Inc,6,1,0,0,1,4,5,83.3
+2022,13-NV-117,,Vietnam Veterans of California Inc (Sacramento Veterans Resource),48,5,8,3,9,23,32,66.7
+2022,13-NY-119,,Catholic Charities of the Roman Catholic Diocese of Syracuse NY,9,0,0,1,0,8,8,88.9
+2022,13-NY-121,,Soldier On of Delaware Inc,14,1,2,3,3,5,8,57.1
+2022,13-OH-124,,Maumee Valley Guidance Center Inc.,3,0,1,0,1,1,2,66.7
+2022,13-OR-125,,Community Action Team Inc,5,0,1,0,0,4,4,80.0
+2022,13-OR-126,,Central Oregon Veterans Outreach,6,0,0,0,1,5,6,100.0
+2022,13-PA-129,,Veterans Leadership Program of Western Pennsylvania Inc,54,2,1,4,16,31,47,87.0
+2022,13-TN-139,,West Tennessee Legal Services Inc.,7,0,0,0,3,4,7,100.0
+2022,13-WA-148,,YWCA of Seattle - King County - Snohomish County,7,1,0,2,1,3,4,57.1
+2022,13-WI-151,,Community Action Coalition for South Central Wisconsin Inc.,9,0,1,0,3,5,8,88.9
+2022,13-ZZ-133,,Operation Stand Down Rhode Island,26,2,1,3,5,15,20,76.9
+2022,13-ZZ-134,,The Alston Wilkes Society (AWS Alston Wilkes Veterans Home),14,0,1,4,2,7,9,64.3
+2022,13-ZZ-145,,University of Vermont and State Agricultural College,16,0,0,1,2,13,15,93.8
+2022,14-AZ-157,,National Community Health Partners,65,2,1,6,17,39,56,86.2
+2022,14-AZ-160,,Catholic Charities Community Services Inc,11,2,1,0,1,7,8,72.7
+2022,14-CA-163,,Carrillo Counseling Services Inc (DBA New Beginnings),18,1,0,0,3,14,17,94.4
+2022,14-CA-167,,East Oakland Community Project,1,0,0,0,0,1,1,100.0
+2022,14-CA-170,,Knowledge Education for Your Success Inc,4,1,0,1,1,1,2,50.0
+2022,14-CT-178,,Columbus House Inc,4,0,0,1,0,3,3,75.0
+2022,14-FL-179,,Big Bend Homeless Coalition Inc,10,2,0,1,4,3,7,70.0
+2022,14-FL-181,,United Way of Broward County,40,4,3,5,8,20,28,70.0
+2022,14-FL-184,,Meridian Behavioral Healthcare Inc,16,3,0,0,3,10,13,81.3
+2022,14-FL-322,,Treasure Coast Homeless Services Council Inc,2,0,0,0,0,2,2,100.0
+2022,14-IA-191,,Family Alliance For Veterans of America Inc,7,0,1,1,1,4,5,71.4
+2022,14-IL-194,,Featherfist Inc,23,2,1,2,7,11,18,78.3
+2022,14-IL-196,,Midwest Shelter for Homeless Veterans Inc,6,0,0,0,1,5,6,100.0
+2022,14-IL-197,,Chestnut Health Systems Inc,14,2,1,1,1,9,10,71.4
+2022,14-IL-198,,Catholic Charities of the Archdiocese of Chicago,17,3,1,0,5,8,13,76.5
+2022,14-IN-199,,Lafayette Transitional Housing Center Inc,4,0,0,0,0,4,4,100.0
+2022,14-IN-200,,InteCare Inc,19,3,2,0,3,11,14,73.7
+2022,14-KS-322,,Catholic Charities Inc. (Diocese of Wichita),6,1,1,0,3,1,4,66.7
+2022,14-LA-205,,Hope Center Inc.,9,1,1,1,4,2,6,66.7
+2022,14-MA-209,,Veterans Northeast Outreach Center Inc,5,0,0,0,1,4,5,100.0
+2022,14-MD-214,,Project PLASE Inc,14,1,1,1,1,10,11,78.6
+2022,14-MD-215,,New Vision House of Hope Inc,10,0,0,1,1,8,9,90.0
+2022,14-MD-216,,Diakonia Inc.,10,3,1,0,2,4,6,60.0
+2022,14-MD-217,,St. James A.M.E. Zion Church-Zion House,2,0,0,0,1,1,2,100.0
+2022,14-MI-220,,Community Action Agency,10,0,0,1,1,8,9,90.0
+2022,14-MI-223,,Community Rebuilders,11,1,0,4,3,3,6,54.5
+2022,14-MS-231,,Mississippi United to End Homelessness Inc.,1,0,0,0,1,0,1,100.0
+2022,14-MS-232,,Hancock Resource Center (HRC),2,0,0,1,0,1,1,50.0
+2022,14-MS-234,,Catholic Charities Inc  (Diocese of Jackson),4,0,0,1,2,1,3,75.0
+2022,14-NE-238,,Northeast Nebraska Community Action Partnership,1,0,0,0,1,0,1,100.0
+2022,14-NJ-242,,Catholic Family and Community Service,15,1,0,2,2,10,12,80.0
+2022,14-NM-246,,New Mexico Veterans Integration Centers,14,0,0,2,1,11,12,85.7
+2022,14-NM-247,,Mesilla Valley Community of Hope,1,0,0,0,1,0,1,100.0
+2022,14-NY-251,,Veterans and Community Housing Coalition ,16,0,0,0,2,14,16,100.0
+2022,14-NY-254,,Economic Opportunity Council of Suffolk Inc,70,1,0,15,23,31,54,77.1
+2022,14-NY-256,,Albany Housing Coalition Inc,2,0,0,0,0,2,2,100.0
+2022,14-NY-259,,Volunteers of America-Greater New York Inc,8,2,1,1,0,4,4,50.0
+2022,14-OH-261,,Licking County Coalition for Housing,2,0,0,1,1,0,1,50.0
+2022,14-OH-262,,Family & Community Services Inc,14,0,0,2,4,8,12,85.7
+2022,14-OH-264,,Community Action Agency of Columbiana County Inc,2,0,0,0,0,2,2,100.0
+2022,14-OH-265,,Community Action Program Corporation of Washington-Morgan Counties Ohio,15,1,2,1,1,10,11,73.3
+2022,14-OH-266,,Faith Mission Inc.,4,0,0,0,1,3,4,100.0
+2022,14-OH-267,,Community Support Services Inc,8,0,0,0,1,7,8,100.0
+2022,14-OK-270,,KI BOIS Community Action Foundation Inc,29,1,1,5,4,18,22,75.9
+2022,14-OK-271,,Goodwill Industries of Central Oklahoma Inc,41,10,3,1,5,22,27,65.9
+2022,14-PA-273,,YWCA of Greater Harrisburg,11,0,0,0,4,7,11,100.0
+2022,14-PA-274,,Utility Emergency Services Fund,24,0,0,3,4,17,21,87.5
+2022,14-PA-276,,Community Action Agency of Delaware County Inc.,4,1,0,0,1,2,3,75.0
+2022,14-PA-277,,Lawrence County Social Services Inc.,12,0,1,1,0,10,10,83.3
+2022,14-PA-280,,Soldier On of Delaware Inc.,15,2,0,2,2,9,11,73.3
+2022,14-PA-281,,Catholic Charities of the Diocese of Allentown,7,0,0,1,0,6,6,85.7
+2022,14-PA-282,,Volunteers of America of Pennsylvania Inc.,1,0,0,0,0,1,1,100.0
+2022,14-TN-284,,Volunteer Behavioral Health Care System,4,0,0,1,2,1,3,75.0
+2022,14-TN-285,,Operation Stand Down Tennessee,35,0,2,2,7,24,31,88.6
+2022,14-TN-287,,Catholic Charities Inc (dba Catholic Charities of the Diocese of Memphis Inc),13,0,0,5,3,5,8,61.5
+2022,14-VA-294,,Total Action Against Poverty In Roanoke Valley,10,0,0,1,2,7,9,90.0
+2022,14-VA-296,,Hampton Roads Community Action Program Inc.,3,0,0,0,2,1,3,100.0
+2022,14-VA-297,,Virginia Beach Community Development Corporation,20,2,1,1,0,16,16,80.0
+2022,14-VA-298,,STOP Incorporated,6,1,0,2,1,2,3,50.0
+2022,14-WI-302,,Indianhead Community Action Agency,5,0,0,1,0,4,4,80.0
+2022,14-WV-303,,The Greater Wheeling Coalition for the Homeless Inc.,2,0,0,0,1,1,2,100.0
+2022,14-WV-304,,Helping Heroes Inc.,3,0,0,0,1,2,3,100.0
+2022,14-WV-305,,West Virginia Community Action Partnerships Inc,19,0,0,3,5,11,16,84.2
+2022,14-ZZ-153,,United Way of Central Alabama,19,2,1,1,2,13,15,78.9
+2022,14-ZZ-260,,St. Vincent de Paul Social Services Inc.,18,2,2,4,3,7,10,55.6
+2022,14-ZZ-308,,Transitional Living Services Inc,7,0,0,2,1,4,5,71.4
+2022,14-ZZ-313,,Housing Counseling Services Inc,38,6,3,3,7,19,26,68.4
+2022,14-ZZ-318,,Operation Renewed Hope,12,0,0,1,6,5,11,91.7
+2022,15-GA-325,,Volunteers of America Southeast Inc,27,1,1,4,7,14,21,77.8
+2022,15-GU-326,,WestCare Pacific Islands Inc,10,0,0,2,1,7,8,80.0
+2022,15-IA-192,,Hawkeye Area Community Action Program Inc,10,0,0,0,2,8,10,100.0
+2022,15-IN-201,,Volunteers of America of Indiana Inc,19,0,0,0,3,16,19,100.0
+2022,15-MI-328,,Alger Marquette Community Action Board,8,0,0,1,1,6,7,87.5
+2022,15-MO-330,,Catholic Charities of Southern Missouri Inc,6,0,0,0,1,5,6,100.0
+2022,15-OH-333,,Lutheran Social Services of Central Ohio,2,0,0,0,1,1,2,100.0
+2022,15-PA-068,,Commission on Economic Opportunity,14,0,0,0,3,11,14,100.0
+2022,15-PA-334,,Veterans Multi-Service Center Inc.,12,1,0,0,2,9,11,91.7
+2022,15-UT-336,,The Road Home,16,0,0,2,4,10,14,87.5
+2022,16-MO-048,,St Patrick Center,44,1,0,4,11,28,39,88.6
+2022,16-NJ-054,,Community Hope Inc,50,8,3,2,7,30,37,74.0
+2022,16-ZZ-037,,Volunteers of America Mid-States Inc,29,1,3,7,6,12,18,62.1
+2022,16-ZZ-058,,Soldier On Inc,21,0,0,5,3,13,16,76.2
+2022,17-NE-052,,Central Nebraska Community Services Inc.,6,0,0,1,1,4,5,83.3
+2022,18-CA-006,,Volunteers of America of Los Angeles Inc,22,3,2,1,3,13,16,72.7
+2022,18-CA-008,,United States Veterans Initiative,21,2,3,3,4,9,13,61.9
+2022,18-CA-011,,WestCare California Inc,34,1,2,2,6,23,29,85.3
+2022,18-CA-171,,Lighthouse Treatment Center,15,0,0,3,2,10,12,80.0
+2022,18-CA-176,,Volunteers of America of Los Angeles Inc.,24,5,5,1,2,11,13,54.2
+2022,18-CA-354,,United States Veterans Initiative,32,2,0,1,1,28,29,90.6
+2022,18-CA-358,,Community Action Partnership of San Luis Obispo County Inc,11,1,1,2,1,6,7,63.6
+2022,18-FL-023,,Homeless Services Network of Central Florida Inc,37,6,3,5,6,17,23,62.2
+2022,18-FL-187,,Volunteers of America of Florida Inc,24,1,1,3,2,17,19,79.2
+2022,18-FL-362,,Tampa Crossroads Inc,6,0,1,2,2,1,3,50.0
+2022,18-HI-190,,United States Veterans Initiative,21,5,3,1,3,9,12,57.1
+2022,18-HI-374,,Catholic Charities Hawaii,3,0,0,0,1,2,3,100.0
+2022,18-KY-379,,Volunteers of America Mid-States Inc,2,0,0,0,2,0,2,100.0
+2022,18-NC-387,,Homeward Bound of Western North Carolina Inc,6,0,1,1,1,3,4,66.7
+2022,18-OR-066,,St Vincent de Paul Society of Lane County Inc,20,2,0,1,4,13,17,85.0
+2022,18-PR-132,,Casa del Peregrino Aguadilla Inc.,5,0,0,1,0,4,4,80.0
+2022,18-SC-069,,One-Eighty Place ,17,2,1,3,2,9,11,64.7
+2022,18-TX-404,,Front Steps Inc.,7,2,2,0,1,2,3,42.9
+2022,18-WI-080,,Center For Veterans Issues Limited,33,0,1,4,7,21,28,84.8
+2022,18-ZZ-034,,Volunteers of America of Illinois,28,1,0,4,7,16,23,82.1
+2022,18-ZZ-036,,The Salvation Army an Illinois Corporation,5,1,0,0,1,3,4,80.0
+2022,18-ZZ-239,,Blue Valley Community Action Inc,27,4,1,2,7,13,20,74.1
+2022,18-ZZ-386,,Restart Inc,21,1,0,1,4,15,19,90.5
+2022,19-AZ-004,,Primavera Foundation,19,3,2,1,4,9,13,68.4
+2022,19-AZ-436,,Community Bridges Inc,16,1,0,3,2,10,12,75.0
+2022,19-CA-005,,Mental Health America of Los Angeles,48,4,2,9,9,24,33,68.8
+2022,19-CA-009,,Vietnam Veterans of California Inc (Sacramento Veterans Resource),110,14,5,17,24,50,74,67.3
+2022,19-CA-010,,Homefirst Services Of Santa Clara County,8,0,1,0,2,5,7,87.5
+2022,19-CA-014,,People Assisting the Homeless (PATH),2,0,0,1,0,1,1,50.0
+2022,19-CA-173,,Vietnam Veterans of San Diego,30,9,8,2,5,6,11,36.7
+2022,19-FL-025,,Purpose Built Families Foundation,119,10,5,9,21,74,95,79.8
+2022,19-MN-046,,Minnesota Assistance Council for Veterans,60,6,0,14,14,26,40,66.7
+2022,19-MO-229,,Phoenix Programs Inc,3,0,0,0,1,2,3,100.0
+2022,19-MS-111,,Region XII Commission on Mental Health & Retardation (dba Pine Belt Mental Health),16,3,0,2,5,6,11,68.8
+2022,19-NC-114,,Asheville-Buncombe Community Christian Ministry Inc,9,0,1,2,1,5,6,66.7
+2022,19-OH-269,,Volunteers of America of Greater Ohio,24,0,3,4,9,8,17,70.8
+2022,19-OR-128,,Access,5,1,0,1,1,2,3,60.0
+2022,19-TX-140,,The Salvation Army a Georgia Corporation,9,0,1,2,2,4,6,66.7
+2022,19-TX-288,,United States Veterans Initiative,3,0,0,0,0,3,3,100.0
+2022,19-WA-078,,Community Psychiatric Clinic Inc,18,0,0,3,4,11,15,83.3
+2022,19-WA-079,,Opportunity Council,11,2,1,1,2,5,7,63.6
+2022,19-ZZ-070,,Centerstone of Tennessee Inc,32,3,1,3,2,23,25,78.1
+2022,19-ZZ-094,,Friendship Place,30,2,2,1,10,15,25,83.3
+2022,19-ZZ-127,,Transition Projects Inc,30,5,0,1,5,19,24,80.0
+2022,19-ZZ-263,,Talbert House,9,0,0,1,2,6,8,88.9
+2022,19-ZZ-317,,Homeless Veterans Fellowship,19,2,0,0,2,15,17,89.5
+2022,19-ZZ-324,,Changing Homelessness Inc,46,8,5,6,12,15,27,58.7
+2022,20-AK-152,,Fairbanks Rescue Mission Inc.,11,0,0,1,1,9,10,90.9
+2022,20-AL-439,,Volunteers of America Southeast Inc,3,0,0,1,1,1,2,66.7
+2022,20-AR-086,,St Francis House Inc,28,1,2,4,3,18,21,75.0
+2022,20-AZ-159,,United States Veterans Initiative,29,4,2,3,3,17,20,69.0
+2022,20-CA-017,,The Salvation Army a California Corporation,14,0,1,2,4,7,11,78.6
+2022,20-CA-437,,Berkeley Food and Housing Project,44,5,3,11,8,17,25,56.8
+2022,20-CA-440,,People Assisting the Homeless,8,2,1,2,1,2,3,37.5
+2022,20-CA-441,,1736 Family Crisis Center,10,0,1,0,2,7,9,90.0
+2022,20-CO-020,,Rocky Mountain Human Services,77,6,6,18,14,33,47,61.0
+2022,20-FL-099,,Society of St Vincent de Paul South Pinellas Inc,42,2,1,3,10,26,36,85.7
+2022,20-GA-188,,Travelers Aid of Metro Atlanta Inc  ,23,5,4,3,2,9,11,47.8
+2022,20-GA-369,,Project Community Connections Inc,27,10,3,3,5,6,11,40.7
+2022,20-IN-442,,Northwest Indiana Community Action Corp.,3,0,0,0,2,1,3,100.0
+2022,20-IN-451,,HVAF of Indiana Inc,24,2,1,1,4,16,20,83.3
+2022,20-KY-204,,Kentucky River Foothills Development Council Inc,11,0,0,1,3,7,10,90.9
+2022,20-LA-207,,Elle Foundation,6,0,1,1,1,3,4,66.7
+2022,20-LA-208,,Start Corporation,24,2,0,2,3,17,20,83.3
+2022,20-MA-211,,Vietnam Veterans Workshop Inc.,22,0,1,6,3,12,15,68.2
+2022,20-MI-221,,Oakland Livingston Human Services Agency,8,0,0,0,1,7,8,100.0
+2022,20-MI-222,,Mid Michigan Community Action Agency Inc.,12,0,0,3,2,7,9,75.0
+2022,20-MI-226,,Volunteers of America Michigan Inc,28,1,2,6,6,13,19,67.9
+2022,20-NC-444,,Catholic Charities Diocese Of Charlotte,5,1,0,1,1,2,3,60.0
+2022,20-NV-056,,United States Veterans Initiative,48,3,3,7,10,25,35,72.9
+2022,20-NV-118,,The Salvation Army a California Corporation,29,4,1,2,3,19,22,75.9
+2022,20-NY-062,,Services for the UnderServed Inc,15,2,0,0,5,8,13,86.7
+2022,20-NY-250,,The Jericho Project,42,2,3,9,8,20,28,66.7
+2022,20-NY-446,,Veterans One-stop Center of WNY Inc,13,0,0,2,5,6,11,84.6
+2022,20-OK-065,,Community Service Council of Greater Tulsa Inc,50,4,4,6,11,25,36,72.0
+2022,20-OR-272,,Easter Seals Oregon,20,1,0,1,4,14,18,90.0
+2022,20-OR-430,,Community Action Partnership of Oregon,14,3,2,0,0,9,9,64.3
+2022,20-OR-447,,Columbiacare Services Inc.,3,0,0,0,0,3,3,100.0
+2022,20-PA-130,,Opportunity House,26,1,1,4,5,15,20,76.9
+2022,20-SC-402,,Eastern Carolina Homelessness Organization Inc,12,3,0,1,4,4,8,66.7
+2022,20-SD-136,,Cornerstone Rescue Mission,28,2,0,3,4,19,23,82.1
+2022,20-TX-141,,West Central Texas Regional Foundation,20,0,3,1,6,10,16,80.0
+2022,20-TX-448,,Career And Recovery Resources Inc,23,0,1,4,6,12,18,78.3
+2022,20-VA-144,,Volunteers of America Chesapeake,29,2,1,4,2,20,22,75.9
+2022,20-WA-146,,Catholic Community Services of Western Washington,12,1,2,1,1,7,8,66.7
+2022,20-WA-338,,HopeSource,23,2,1,2,2,16,18,78.3
+2022,20-ZZ-026,,Northwest Florida Comprehensive Services For Children Inc,176,6,6,20,35,109,144,81.8
+2022,20-ZZ-092,,Volunteers of America Colorado Branch Inc,49,5,5,7,8,24,32,65.3
+2022,20-ZZ-113,,Volunteers of America Northern Rockies,30,2,2,3,7,16,23,76.7
+2022,20-ZZ-147,,Blue Mountain Action Council,11,0,1,0,3,7,10,90.9
+2022,20-ZZ-158,,Vietnam Veterans of California Inc (Sacramento Veterans Resource),26,1,3,4,5,13,18,69.2
+2022,20-ZZ-301,,Goodwill Industries of The Inland Northwest,61,4,2,7,15,33,48,78.7
+2022,S20-NY-600B,,Services for the UnderServed Inc,1,0,1,0,0,0,0,0.0
+2022,S20-WA-500,,Catholic Community Services Of Western Washington,9,0,0,2,3,4,7,77.8
+2020,12-AK-001,Catholic Social Services,Catholic Social Services,21,2,1,2,9,7,16,76.2
+2020,12-AL-002,Housing First Inc,Housing First Inc,13,1,1,3,2,6,8,61.5
+2020,12-CA-013,Goodwill of Silicon Valley (dba Goodwill Industries of Santa Clara County),Goodwill of Silicon Valley (dba Goodwill Industries of Santa Clara County),31,0,1,1,8,21,29,93.5
+2020,12-CA-016,Shelter Inc of Contra Costa County,Shelter Inc of Contra Costa County,19,1,2,2,4,10,14,73.7
+2020,12-CA-018,Volunteers of America of Greater Sacramento and Northern Nevada Inc,Volunteers of America of Greater Sacramento and Northern Nevada Inc,38,4,1,4,9,20,29,76.3
+2020,12-CT-021,Community Renewal Team Inc,Community Renewal Team Inc,15,2,1,2,8,2,10,66.7
+2020,12-FL-024,Advocate Program Inc,Advocate Program Inc,40,2,1,9,7,21,28,70.0
+2020,12-FL-028,Jewish Family & Childrens Service Of The Suncoast Inc,Jewish Family & Childrens Service Of The Suncoast Inc,17,2,2,5,4,4,8,47.1
+2020,12-GA-029,Central Savannah River Area Economic Opportunity Authority Inc (CSRA EOA),Central Savannah River Area Economic Opportunity Authority Inc (CSRA EOA),13,0,0,3,3,7,10,76.9
+2020,12-ID-032,El-Ada Inc,El-Ada Inc,18,1,0,1,6,10,16,88.9
+2020,12-IL-033,Thresholds,Thresholds,7,0,2,2,3,0,3,42.9
+2020,12-LA-038,Volunteers of America of Greater New Orleans,Volunteers of America of Greater New Orleans,18,3,2,2,3,8,11,61.1
+2020,12-LA-039,Wellspring Alliance for Families Inc.,Wellspring Alliance for Families Inc.,11,0,0,2,2,7,9,81.8
+2020,12-MA-040,Volunteers of America of Massachusetts Inc,Volunteers of America of Massachusetts Inc,16,2,0,3,6,5,11,68.8
+2020,12-MD-042,Alliance Inc,Alliance Inc,73,4,6,7,15,41,56,76.7
+2020,12-ME-043,Preble Street,Preble Street,27,2,1,2,9,13,22,81.5
+2020,12-MI-044,Wayne Metropolitan Community Action Agency,Wayne Metropolitan Community Action Agency,1,0,0,0,0,1,1,100.0
+2020,12-MI-045,Southwest Counseling Solutions,Southwest Counseling Solutions,30,4,1,5,8,12,20,66.7
+2020,12-NC-049,United Way of Forsyth County Inc.,United Way of Forsyth County Inc.,5,0,0,0,2,3,5,100.0
+2020,12-NC-050,Passage Home Inc,Passage Home Inc,5,0,0,1,2,2,4,80.0
+2020,12-ND-051,Community Action Partnership of North Dakota,Community Action Partnership of North Dakota,32,1,0,5,6,20,26,81.3
+2020,12-NJ-053,Catholic Charities Dioceses of Camden Inc,Catholic Charities Dioceses of Camden Inc,29,0,1,2,7,19,26,89.7
+2020,12-NM-055,Goodwill Industries of New Mexico,Goodwill Industries of New Mexico,39,3,0,4,11,21,32,82.1
+2020,12-NY-060,HELP Social Service Corporation,HELP Social Service Corporation,20,2,2,6,3,7,10,50.0
+2020,12-NY-063,Westchester Community Opportunity Program Inc. (WestCOP),Westchester Community Opportunity Program Inc. (WestCOP),22,1,0,3,3,15,18,81.8
+2020,12-OH-064,Mental Health Services for Homeless Persons Inc  dba  FrontLine Service ,Mental Health Services for Homeless Persons Inc  dba  FrontLine Service ,25,4,1,6,3,11,14,56.0
+2020,12-TX-071,Families in Crisis Inc,Families in Crisis Inc,14,0,0,3,0,11,11,78.6
+2020,12-TX-075,Catholic Charities Diocese of Fort Worth Inc.,Catholic Charities Diocese of Fort Worth Inc.,3,1,0,0,0,2,2,66.7
+2020,12-VA-077,Virginia Supportive Housing,Virginia Supportive Housing,43,2,2,7,10,22,32,74.4
+2020,12-ZZ-031,Humility of Mary Shelter Inc,Humility of Mary Shelter Inc,24,0,1,5,8,10,18,75.0
+2020,12-ZZ-041,Veterans Inc,Veterans Inc,31,2,0,3,8,18,26,83.9
+2020,13-CA-090,California Veterans Assistance Foundation Inc,California Veterans Assistance Foundation Inc,31,3,1,4,8,15,23,74.2
+2020,13-CT-093,The Workplace Inc,The Workplace Inc,28,1,1,5,4,17,21,75.0
+2020,13-DE-095,Connections Community Support Programs Inc.,Connections Community Support Programs Inc.,7,0,1,1,0,5,5,71.4
+2020,13-FL-096,Faith Hope Love Charity Inc,Faith Hope Love Charity Inc,42,5,4,2,10,21,31,73.8
+2020,13-IA-103,Primary Health Care Inc,Primary Health Care Inc,10,0,1,2,1,6,7,70.0
+2020,13-IL-104,The Salvation Army an Illinois Corporation,The Salvation Army an Illinois Corporation,26,1,1,6,6,12,18,69.2
+2020,13-IL-105,Heartland Human Care Services Inc,Heartland Human Care Services Inc,15,1,1,3,3,7,10,66.7
+2020,13-IN-106,Community Action of Northeast Indiana Inc (dba Brightpoint) ,Community Action of Northeast Indiana Inc (dba Brightpoint) ,13,1,2,4,1,5,6,46.2
+2020,13-MD-107,Three Oaks Homeless Shelter Inc,Three Oaks Homeless Shelter Inc,13,0,0,4,3,6,9,69.2
+2020,13-MI-108,Northwest Michigan Community Action Agency Inc,Northwest Michigan Community Action Agency Inc,6,1,0,1,0,4,4,66.7
+2020,13-MO-110,Catholic Charities of Kansas City - St Joseph Inc,Catholic Charities of Kansas City - St Joseph Inc,11,1,2,0,4,4,8,72.7
+2020,13-NH-115,Harbor Homes Inc,Harbor Homes Inc,14,2,0,0,1,11,12,85.7
+2020,13-NV-117,Vietnam Veterans of California Inc (Sacramento Veterans Resource),Vietnam Veterans of California Inc (Sacramento Veterans Resource),124,3,3,13,25,80,105,84.7
+2020,13-NY-119,Catholic Charities of the Roman Catholic Diocese of Syracuse NY,Catholic Charities of the Roman Catholic Diocese of Syracuse NY,9,0,0,3,2,4,6,66.7
+2020,13-NY-121,Soldier On of Delaware Inc,Soldier On of Delaware Inc,45,2,3,7,13,20,33,73.3
+2020,13-OH-124,Maumee Valley Guidance Center Inc.,Maumee Valley Guidance Center Inc.,2,0,0,0,0,2,2,100.0
+2020,13-OR-125,Community Action Team Inc,Community Action Team Inc,8,0,1,0,1,6,7,87.5
+2020,13-OR-126,Central Oregon Veterans Outreach,Central Oregon Veterans Outreach,8,0,2,1,1,4,5,62.5
+2020,13-PA-129,Veterans Leadership Program of Western Pennsylvania Inc,Veterans Leadership Program of Western Pennsylvania Inc,65,3,1,12,14,35,49,75.4
+2020,13-TN-139,West Tennessee Legal Services Inc.,West Tennessee Legal Services Inc.,3,0,0,1,0,2,2,66.7
+2020,13-WA-148,YWCA of Seattle - King County - Snohomish County,YWCA of Seattle - King County - Snohomish County,9,2,1,3,2,1,3,33.3
+2020,13-ZZ-133,Operation Stand Down Rhode Island,Operation Stand Down Rhode Island,29,3,0,7,8,11,19,65.5
+2020,13-ZZ-134,The Alston Wilkes Society (AWS Alston Wilkes Veterans Home),The Alston Wilkes Society (AWS Alston Wilkes Veterans Home),16,1,3,3,5,4,9,56.3
+2020,13-ZZ-145,University of Vermont and State Agricultural College,University of Vermont and State Agricultural College,22,0,1,5,3,13,16,72.7
+2020,14-AZ-157,National Community Health Partners,National Community Health Partners,98,2,2,13,25,56,81,82.7
+2020,14-AZ-160,Catholic Charities Community Services Inc,Catholic Charities Community Services Inc,15,1,0,1,5,8,13,86.7
+2020,14-CA-163,Carrillo Counseling Services Inc (DBA New Beginnings),Carrillo Counseling Services Inc (DBA New Beginnings),16,0,0,1,6,9,15,93.8
+2020,14-CA-167,East Oakland Community Project,East Oakland Community Project,6,1,0,2,2,1,3,50.0
+2020,14-CA-169,Families in Transition of Santa Cruz County Inc,Families in Transition of Santa Cruz County Inc,3,0,0,0,2,1,3,100.0
+2020,14-CA-170,Knowledge Education for Your Success Inc,Knowledge Education for Your Success Inc,4,0,1,1,1,1,2,50.0
+2020,14-CA-177,Catholic Charities of the Diocese of Stockton,Catholic Charities of the Diocese of Stockton,7,0,0,1,2,4,6,85.7
+2020,14-CT-178,Columbus House Inc,Columbus House Inc,22,0,1,6,2,13,15,68.2
+2020,14-FL-179,Big Bend Homeless Coalition Inc,Big Bend Homeless Coalition Inc,29,0,1,0,4,24,28,96.6
+2020,14-FL-181,United Way of Broward County,United Way of Broward County,61,7,4,13,11,26,37,60.7
+2020,14-FL-184,Meridian Behavioral Healthcare Inc,Meridian Behavioral Healthcare Inc,29,4,0,3,5,17,22,75.9
+2020,14-FL-322,Treasure Coast Homeless Services Council Inc,Treasure Coast Homeless Services Council Inc,4,0,0,1,0,3,3,75.0
+2020,14-GA-189,United Way of Greater Atlanta Inc,United Way of Greater Atlanta Inc,51,5,4,10,13,19,32,62.7
+2020,14-IA-191,Family Alliance For Veterans of America Inc,Family Alliance For Veterans of America Inc,12,0,0,0,3,9,12,100.0
+2020,14-IL-194,Featherfist Inc,Featherfist Inc,28,0,1,5,8,14,22,78.6
+2020,14-IL-196,Midwest Shelter for Homeless Veterans Inc,Midwest Shelter for Homeless Veterans Inc,23,1,1,4,8,9,17,73.9
+2020,14-IL-197,Chestnut Health Systems Inc,Chestnut Health Systems Inc,21,1,0,2,5,13,18,85.7
+2020,14-IL-198,Catholic Charities of the Archdiocese of Chicago,Catholic Charities of the Archdiocese of Chicago,19,2,5,2,3,7,10,52.6
+2020,14-IN-199,Lafayette Transitional Housing Center Inc,Lafayette Transitional Housing Center Inc,7,1,0,1,0,5,5,71.4
+2020,14-IN-200,InteCare Inc,InteCare Inc,41,0,2,5,7,27,34,82.9
+2020,14-KS-322,Catholic Charities Inc. (Diocese of Wichita),Catholic Charities Inc. (Diocese of Wichita),3,0,0,1,0,2,2,66.7
+2020,14-LA-205,Hope Center Inc.,Hope Center Inc.,13,3,0,0,4,6,10,76.9
+2020,14-MA-209,Veterans Northeast Outreach Center Inc,Veterans Northeast Outreach Center Inc,17,1,1,2,3,10,13,76.5
+2020,14-MD-214,Project PLASE Inc,Project PLASE Inc,35,2,5,10,8,10,18,51.4
+2020,14-MD-215,New Vision House of Hope Inc,New Vision House of Hope Inc,19,1,1,5,9,3,12,63.2
+2020,14-MD-216,Diakonia Inc.,Diakonia Inc.,9,0,0,0,1,8,9,100.0
+2020,14-MD-217,St. James A.M.E. Zion Church-Zion House,St. James A.M.E. Zion Church-Zion House,4,0,0,2,0,2,2,50.0
+2020,14-MI-218,Blue Water Center For Independent Living Inc.,Blue Water Center For Independent Living Inc.,7,0,0,2,3,2,5,71.4
+2020,14-MI-219,Training & Treatment Innovations Inc.,Training & Treatment Innovations Inc.,1,0,0,0,0,1,1,100.0
+2020,14-MI-220,Community Action Agency,Community Action Agency,14,0,0,3,2,9,11,78.6
+2020,14-MI-223,Community Rebuilders,Community Rebuilders,13,0,0,6,3,4,7,53.8
+2020,14-MO-228,The Kitchen Inc,The Kitchen Inc,3,0,0,0,2,1,3,100.0
+2020,14-MS-231,Mississippi United to End Homelessness Inc.,Mississippi United to End Homelessness Inc.,1,1,0,0,0,0,0,0.0
+2020,14-MS-232,Hancock Resource Center (HRC),Hancock Resource Center (HRC),5,0,1,0,1,3,4,80.0
+2020,14-MS-234,Catholic Charities Inc  (Diocese of Jackson),Catholic Charities Inc  (Diocese of Jackson),15,2,0,1,1,11,12,80.0
+2020,14-NE-238,Northeast Nebraska Community Action Partnership,Northeast Nebraska Community Action Partnership,7,0,0,0,1,6,7,100.0
+2020,14-NJ-242,Catholic Family and Community Service,Catholic Family and Community Service,30,2,3,6,4,15,19,63.3
+2020,14-NM-246,New Mexico Veterans Integration Centers,New Mexico Veterans Integration Centers,26,1,1,2,1,21,22,84.6
+2020,14-NM-247,Mesilla Valley Community of Hope,Mesilla Valley Community of Hope,4,0,0,1,0,3,3,75.0
+2020,14-NY-249,Utica Center for Development Inc.,Utica Center for Development Inc.,4,0,0,1,0,3,3,75.0
+2020,14-NY-251,Veterans and Community Housing Coalition ,Veterans and Community Housing Coalition ,15,0,0,0,1,14,15,100.0
+2020,14-NY-253,Pathstone Corporation,Pathstone Corporation,2,0,0,0,2,0,2,100.0
+2020,14-NY-254,Economic Opportunity Council of Suffolk Inc,Economic Opportunity Council of Suffolk Inc,64,3,2,6,18,35,53,82.8
+2020,14-NY-256,Albany Housing Coalition Inc,Albany Housing Coalition Inc,12,0,1,2,1,8,9,75.0
+2020,14-NY-259,Volunteers of America-Greater New York Inc,Volunteers of America-Greater New York Inc,13,4,2,3,0,4,4,30.8
+2020,14-OH-261,Licking County Coalition for Housing,Licking County Coalition for Housing,9,1,0,2,1,5,6,66.7
+2020,14-OH-262,Family & Community Services Inc,Family & Community Services Inc,27,0,0,6,4,17,21,77.8
+2020,14-OH-264,Community Action Agency of Columbiana County Inc,Community Action Agency of Columbiana County Inc,10,0,0,1,2,7,9,90.0
+2020,14-OH-265,Community Action Program Corporation of Washington-Morgan Counties Ohio,Community Action Program Corporation of Washington-Morgan Counties Ohio,8,0,0,1,0,7,7,87.5
+2020,14-OH-266,Faith Mission Inc.,Faith Mission Inc.,5,0,0,1,2,2,4,80.0
+2020,14-OH-267,Community Support Services Inc,Community Support Services Inc,10,0,1,1,3,5,8,80.0
+2020,14-OH-268,The Salvation Army a New York Corporation,The Salvation Army a New York Corporation,5,0,1,0,1,3,4,80.0
+2020,14-OK-270,KI BOIS Community Action Foundation Inc,KI BOIS Community Action Foundation Inc,33,1,1,0,4,27,31,93.9
+2020,14-OK-271,Goodwill Industries of Central Oklahoma Inc,Goodwill Industries of Central Oklahoma Inc,28,0,2,5,7,14,21,75.0
+2020,14-PA-273,YWCA of Greater Harrisburg,YWCA of Greater Harrisburg,15,0,2,1,4,8,12,80.0
+2020,14-PA-274,Utility Emergency Services Fund,Utility Emergency Services Fund,30,0,0,2,7,21,28,93.3
+2020,14-PA-276,Community Action Agency of Delaware County Inc.,Community Action Agency of Delaware County Inc.,18,1,1,5,3,8,11,61.1
+2020,14-PA-277,Lawrence County Social Services Inc.,Lawrence County Social Services Inc.,16,1,0,1,4,10,14,87.5
+2020,14-PA-280,Soldier On of Delaware Inc.,Soldier On of Delaware Inc.,22,1,0,3,3,15,18,81.8
+2020,14-PA-281,Catholic Charities of the Diocese of Allentown,Catholic Charities of the Diocese of Allentown,8,0,1,1,0,6,6,75.0
+2020,14-PA-282,Volunteers of America of Pennsylvania Inc.,Volunteers of America of Pennsylvania Inc.,16,2,3,1,4,6,10,62.5
+2020,14-TN-284,Volunteer Behavioral Health Care System,Volunteer Behavioral Health Care System,16,1,1,1,6,7,13,81.3
+2020,14-TN-285,Operation Stand Down Tennessee,Operation Stand Down Tennessee,44,0,2,1,9,32,41,93.2
+2020,14-TN-287,Catholic Charities Inc (dba Catholic Charities of the Diocese of Memphis Inc),Catholic Charities Inc (dba Catholic Charities of the Diocese of Memphis Inc),24,1,2,4,9,8,17,70.8
+2020,14-TX-293,Sabine Valley Regional Mental Health Mental Retardation Center,Sabine Valley Regional Mental Health Mental Retardation Center,14,0,1,1,2,10,12,85.7
+2020,14-VA-294,Total Action Against Poverty In Roanoke Valley,Total Action Against Poverty In Roanoke Valley,10,1,0,4,3,2,5,50.0
+2020,14-VA-296,Hampton Roads Community Action Program Inc.,Hampton Roads Community Action Program Inc.,9,0,1,2,2,4,6,66.7
+2020,14-VA-297,Virginia Beach Community Development Corporation,Virginia Beach Community Development Corporation,23,0,2,2,5,14,19,82.6
+2020,14-VA-298,STOP Incorporated,STOP Incorporated,9,2,1,0,3,3,6,66.7
+2020,14-VI-299,The Methodist Training and Outreach Center Inc.,The Methodist Training and Outreach Center Inc.,4,0,0,0,0,4,4,100.0
+2020,14-WI-302,Indianhead Community Action Agency,Indianhead Community Action Agency,3,0,0,0,1,2,3,100.0
+2020,14-WV-303,The Greater Wheeling Coalition for the Homeless Inc.,The Greater Wheeling Coalition for the Homeless Inc.,2,0,0,1,0,1,1,50.0
+2020,14-WV-304,Helping Heroes Inc.,Helping Heroes Inc.,7,0,0,2,1,4,5,71.4
+2020,14-WV-305,West Virginia Community Action Partnerships Inc,West Virginia Community Action Partnerships Inc,44,4,1,6,8,25,33,75.0
+2020,14-ZZ-153,United Way of Central Alabama,United Way of Central Alabama,23,3,4,6,1,9,10,43.5
+2020,14-ZZ-260,St. Vincent de Paul Social Services Inc.,St. Vincent de Paul Social Services Inc.,13,0,0,1,3,9,12,92.3
+2020,14-ZZ-308,Transitional Living Services Inc,Transitional Living Services Inc,17,0,1,3,3,10,13,76.5
+2020,14-ZZ-313,Housing Counseling Services Inc,Housing Counseling Services Inc,42,6,2,4,13,17,30,71.4
+2020,14-ZZ-318,Operation Renewed Hope,Operation Renewed Hope,9,1,1,0,2,5,7,77.8
+2020,15-GA-325,Volunteers of America Southeast Inc,Volunteers of America Southeast Inc,12,1,1,5,3,2,5,41.7
+2020,15-GU-326,WestCare Pacific Islands Inc,WestCare Pacific Islands Inc,8,0,0,0,4,4,8,100.0
+2020,15-IA-192,Hawkeye Area Community Action Program Inc,Hawkeye Area Community Action Program Inc,20,2,3,4,3,8,11,55.0
+2020,15-IN-201,Volunteers of America of Indiana Inc,Volunteers of America of Indiana Inc,36,3,0,2,6,25,31,86.1
+2020,15-MI-328,Alger Marquette Community Action Board,Alger Marquette Community Action Board,2,0,0,0,0,2,2,100.0
+2020,15-MO-330,Catholic Charities of Southern Missouri Inc,Catholic Charities of Southern Missouri Inc,8,0,1,1,1,5,6,75.0
+2020,15-OH-333,Lutheran Social Services of Central Ohio,Lutheran Social Services of Central Ohio,12,2,0,2,3,5,8,66.7
+2020,15-PA-068,Commission on Economic Opportunity,Commission on Economic Opportunity,25,0,1,3,5,16,21,84.0
+2020,15-PA-334,Veterans Multi-Service Center Inc.,Veterans Multi-Service Center Inc.,18,2,0,0,4,12,16,88.9
+2020,15-UT-336,The Road Home,The Road Home,16,2,0,2,1,11,12,75.0
+2020,16-MO-048,St Patrick Center,St Patrick Center,82,3,5,5,19,50,69,84.1
+2020,16-NJ-054,Community Hope Inc,Community Hope Inc,44,6,1,8,7,22,29,65.9
+2020,16-ZZ-037,Volunteers of America Mid-States Inc,Volunteers of America Mid-States Inc,40,2,3,5,6,24,30,75.0
+2020,16-ZZ-058,Soldier On Inc,Soldier On Inc,33,3,4,7,7,12,19,57.6
+2020,17-NE-052,Central Nebraska Community Services Inc.,Central Nebraska Community Services Inc.,4,0,0,0,0,4,4,100.0
+2020,18-CA-006,Volunteers of America of Los Angeles Inc,Volunteers of America of Los Angeles Inc,42,4,3,5,13,17,30,71.4
+2020,18-CA-008,United States Veterans Initiative,United States Veterans Initiative,49,6,4,8,9,22,31,63.3
+2020,18-CA-011,WestCare California Inc,WestCare California Inc,69,7,3,13,13,33,46,66.7
+2020,18-CA-019,Community Catalysts of California,Community Catalysts of California,43,4,3,7,10,19,29,67.4
+2020,18-CA-091,Swords To Plowshares Veterans Rights Organization,Swords To Plowshares Veterans Rights Organization,20,3,1,1,1,14,15,75.0
+2020,18-CA-171,Lighthouse Treatment Center,Lighthouse Treatment Center,15,4,0,1,0,10,10,66.7
+2020,18-CA-176,Volunteers of America of Los Angeles Inc.,Volunteers of America of Los Angeles Inc.,31,10,2,2,7,10,17,54.8
+2020,18-CA-354,United States Veterans Initiative,United States Veterans Initiative,35,2,4,5,8,16,24,68.6
+2020,18-CA-358,Community Action Partnership of San Luis Obispo County Inc,Community Action Partnership of San Luis Obispo County Inc,14,2,0,1,2,9,11,78.6
+2020,18-CA-420,Volunteers of America Southwest California Inc,Volunteers of America Southwest California Inc,7,1,0,2,2,2,4,57.1
+2020,18-FL-023,Homeless Services Network of Central Florida Inc,Homeless Services Network of Central Florida Inc,90,10,4,8,15,53,68,75.6
+2020,18-FL-187,Volunteers of America of Florida Inc,Volunteers of America of Florida Inc,38,4,2,2,7,23,30,78.9
+2020,18-FL-362,Tampa Crossroads Inc,Tampa Crossroads Inc,35,2,5,6,10,12,22,62.9
+2020,18-HI-190,United States Veterans Initiative,United States Veterans Initiative,25,0,3,3,4,15,19,76.0
+2020,18-HI-374,Catholic Charities Hawaii,Catholic Charities Hawaii,3,0,0,0,1,2,3,100.0
+2020,18-KY-379,Volunteers of America Mid-States Inc,Volunteers of America Mid-States Inc,29,3,3,5,5,13,18,62.1
+2020,18-MI-383,Volunteers of America Michigan Inc,Volunteers of America Michigan Inc,16,1,2,3,3,7,10,62.5
+2020,18-NC-387,Homeward Bound of Western North Carolina Inc,Homeward Bound of Western North Carolina Inc,17,1,1,1,6,8,14,82.4
+2020,18-OR-066,St Vincent de Paul Society of Lane County Inc,St Vincent de Paul Society of Lane County Inc,16,0,0,3,2,11,13,81.3
+2020,18-PR-132,Casa del Peregrino Aguadilla Inc.,Casa del Peregrino Aguadilla Inc.,5,0,1,0,1,3,4,80.0
+2020,18-SC-069,One-Eighty Place ,One-Eighty Place ,32,1,1,3,6,21,27,84.4
+2020,18-TX-074,Family Endeavors Inc,Family Endeavors Inc,145,10,8,17,25,85,110,75.9
+2020,18-TX-292,American GI Forum National Veterans Outreach Program Inc,American GI Forum National Veterans Outreach Program Inc,93,10,8,14,18,43,61,65.6
+2020,18-TX-404,Front Steps Inc.,Front Steps Inc.,5,0,1,1,1,2,3,60.0
+2020,18-TX-433,Lubbock Mental Health and Retardation Center (dba Starcare),Lubbock Mental Health and Retardation Center (dba Starcare),18,0,0,2,3,13,16,88.9
+2020,18-WI-080,Center For Veterans Issues Limited,Center For Veterans Issues Limited,78,4,4,15,20,35,55,70.5
+2020,18-ZZ-034,Volunteers of America of Illinois,Volunteers of America of Illinois,43,7,3,11,11,11,22,51.2
+2020,18-ZZ-036,The Salvation Army an Illinois Corporation,The Salvation Army an Illinois Corporation,36,1,3,5,10,17,27,75.0
+2020,18-ZZ-239,Blue Valley Community Action Inc,Blue Valley Community Action Inc,13,1,1,2,1,8,9,69.2
+2020,18-ZZ-386,Restart Inc,Restart Inc,30,0,1,3,4,22,26,86.7
+2020,19-AZ-004,Primavera Foundation,Primavera Foundation,28,2,2,4,9,11,20,71.4
+2020,19-AZ-436,Community Bridges Inc,Community Bridges Inc,45,2,3,7,11,22,33,73.3
+2020,19-CA-005,Mental Health America of Los Angeles,Mental Health America of Los Angeles,32,3,2,4,8,15,23,71.9
+2020,19-CA-009,Vietnam Veterans of California Inc (Sacramento Veterans Resource),Vietnam Veterans of California Inc (Sacramento Veterans Resource),153,9,6,37,30,71,101,66.0
+2020,19-CA-010,Homefirst Services Of Santa Clara County,Homefirst Services Of Santa Clara County,11,2,1,1,1,6,7,63.6
+2020,19-CA-014,People Assisting the Homeless (PATH),People Assisting the Homeless (PATH),77,8,9,12,14,34,48,62.3
+2020,19-CA-173,Vietnam Veterans of San Diego,Vietnam Veterans of San Diego,73,6,4,11,12,40,52,71.2
+2020,19-FL-025,Purpose Built Families Foundation,Purpose Built Families Foundation,169,14,6,28,30,91,121,71.6
+2020,19-MN-046,Minnesota Assistance Council for Veterans,Minnesota Assistance Council for Veterans,50,0,3,6,21,20,41,82.0
+2020,19-MO-229,Phoenix Programs Inc,Phoenix Programs Inc,22,0,1,5,5,11,16,72.7
+2020,19-MS-111,Region XII Commission on Mental Health & Retardation (dba Pine Belt Mental Health),Region XII Commission on Mental Health & Retardation (dba Pine Belt Mental Health),25,1,0,1,4,19,23,92.0
+2020,19-NC-114,Asheville-Buncombe Community Christian Ministry Inc,Asheville-Buncombe Community Christian Ministry Inc,78,6,4,13,11,44,55,70.5
+2020,19-NC-237,Volunteers of America of the Carolinas Inc,Volunteers of America of the Carolinas Inc,129,2,3,18,21,85,106,82.2
+2020,19-OH-263,Talbert House Inc.,Talbert House Inc.,3,1,0,1,1,0,1,33.3
+2020,19-OH-269,Volunteers of America of Greater Ohio,Volunteers of America of Greater Ohio,79,5,3,17,26,28,54,68.4
+2020,19-OR-128,Access,Access,26,2,1,1,6,16,22,84.6
+2020,19-TX-140,The Salvation Army a Georgia Corporation,The Salvation Army a Georgia Corporation,4,0,0,2,0,2,2,50.0
+2020,19-TX-288,United States Veterans Initiative,United States Veterans Initiative,16,0,1,2,5,8,13,81.3
+2020,19-TX-290,Baker Ripley,Baker Ripley,31,1,4,6,8,12,20,64.5
+2020,19-WA-078,Community Psychiatric Clinic Inc,Community Psychiatric Clinic Inc,53,2,2,8,11,30,41,77.4
+2020,19-WA-079,Opportunity Council,Opportunity Council,7,0,0,2,1,4,5,71.4
+2020,19-ZZ-070,Centerstone of Tennessee Inc,Centerstone of Tennessee Inc,67,6,3,12,7,39,46,68.7
+2020,19-ZZ-094,Friendship Place,Friendship Place,50,2,2,9,10,27,37,74.0
+2020,19-ZZ-127,Transition Projects Inc,Transition Projects Inc,69,3,5,10,13,38,51,73.9
+2020,19-ZZ-263,Talbert House,Talbert House,16,1,1,2,5,7,12,75.0
+2020,19-ZZ-278,Veterans Multi-Service Center Inc,Veterans Multi-Service Center Inc,70,10,8,8,18,26,44,62.9
+2020,19-ZZ-317,Homeless Veterans Fellowship,Homeless Veterans Fellowship,8,0,1,0,2,5,7,87.5
+2020,19-ZZ-324,Changing Homelessness Inc,Changing Homelessness Inc,72,8,5,14,16,29,45,62.5
+2020,20-AK-152,Fairbanks Rescue Mission Inc.,Fairbanks Rescue Mission Inc.,4,0,1,0,0,3,3,75.0
+2020,20-AL-439,Volunteers of America Southeast Inc,Volunteers of America Southeast Inc,7,1,0,0,1,5,6,85.7
+2020,20-AR-086,St Francis House Inc,St Francis House Inc,46,5,2,5,4,30,34,73.9
+2020,20-AZ-159,United States Veterans Initiative,United States Veterans Initiative,26,2,3,3,6,12,18,69.2
+2020,20-CA-017,The Salvation Army a California Corporation,The Salvation Army a California Corporation,27,6,0,8,4,9,13,48.1
+2020,20-CA-359,Good Samaritan Shelter,Good Samaritan Shelter,8,0,0,1,1,6,7,87.5
+2020,20-CA-437,Berkeley Food and Housing Project,Berkeley Food and Housing Project,47,1,1,9,15,21,36,76.6
+2020,20-CA-440,People Assisting the Homeless,People Assisting the Homeless,4,1,0,0,0,3,3,75.0
+2020,20-CA-441,1736 Family Crisis Center,1736 Family Crisis Center,7,0,0,0,1,6,7,100.0
+2020,20-CO-020,Rocky Mountain Human Services,Rocky Mountain Human Services,108,7,11,21,27,42,69,63.9
+2020,20-FL-099,Society of St Vincent de Paul South Pinellas Inc,Society of St Vincent de Paul South Pinellas Inc,86,9,0,13,20,44,64,74.4
+2020,20-GA-188,Travelers Aid of Metro Atlanta Inc  ,Travelers Aid of Metro Atlanta Inc  ,47,4,4,10,10,19,29,61.7
+2020,20-GA-369,Project Community Connections Inc,Project Community Connections Inc,21,1,0,5,3,12,15,71.4
+2020,20-IN-442,Northwest Indiana Community Action Corp.,Northwest Indiana Community Action Corp.,3,0,0,0,2,1,3,100.0
+2020,20-IN-451,HVAF of Indiana Inc,HVAF of Indiana Inc,31,1,2,8,9,11,20,64.5
+2020,20-KY-204,Kentucky River Foothills Development Council Inc,Kentucky River Foothills Development Council Inc,32,2,0,4,8,18,26,81.3
+2020,20-LA-207,Elle Foundation,Elle Foundation,15,0,2,3,5,5,10,66.7
+2020,20-LA-208,Start Corporation,Start Corporation,37,3,2,8,5,19,24,64.9
+2020,20-MA-211,Vietnam Veterans Workshop Inc.,Vietnam Veterans Workshop Inc.,16,1,2,2,4,7,11,68.8
+2020,20-MI-221,Oakland Livingston Human Services Agency,Oakland Livingston Human Services Agency,7,1,0,1,1,4,5,71.4
+2020,20-MI-222,Mid Michigan Community Action Agency Inc.,Mid Michigan Community Action Agency Inc.,7,0,1,1,2,3,5,71.4
+2020,20-MI-226,Volunteers of America Michigan Inc,Volunteers of America Michigan Inc,29,0,2,5,5,17,22,75.9
+2020,20-NC-444,Catholic Charities Diocese Of Charlotte,Catholic Charities Diocese Of Charlotte,3,0,0,0,1,2,3,100.0
+2020,20-NV-056,United States Veterans Initiative,United States Veterans Initiative,79,4,3,14,15,43,58,73.4
+2020,20-NV-118,The Salvation Army a California Corporation,The Salvation Army a California Corporation,16,2,2,4,2,6,8,50.0
+2020,20-NY-062,Services for the UnderServed Inc,Services for the UnderServed Inc,31,3,2,2,6,18,24,77.4
+2020,20-NY-250,The Jericho Project,The Jericho Project,36,2,1,7,4,22,26,72.2
+2020,20-NY-446,Veterans One-stop Center of WNY Inc,Veterans One-stop Center of WNY Inc,43,0,0,5,10,28,38,88.4
+2020,20-OK-065,Community Service Council of Greater Tulsa Inc,Community Service Council of Greater Tulsa Inc,30,2,1,6,4,17,21,70.0
+2020,20-OR-272,Easter Seals Oregon,Easter Seals Oregon,38,0,0,4,8,26,34,89.5
+2020,20-OR-430,Community Action Partnership of Oregon,Community Action Partnership of Oregon,13,0,0,4,4,5,9,69.2
+2020,20-OR-447,Columbiacare Services Inc.,Columbiacare Services Inc.,1,0,0,0,0,1,1,100.0
+2020,20-PA-130,Opportunity House,Opportunity House,21,2,0,0,6,13,19,90.5
+2020,20-SC-402,Eastern Carolina Homelessness Organization Inc,Eastern Carolina Homelessness Organization Inc,30,1,2,2,5,20,25,83.3
+2020,20-SD-136,Cornerstone Rescue Mission,Cornerstone Rescue Mission,31,0,0,2,4,25,29,93.5
+2020,20-TX-072,Caritas of Austin,Caritas of Austin,3,1,1,1,0,0,0,0.0
+2020,20-TX-141,West Central Texas Regional Foundation,West Central Texas Regional Foundation,45,0,1,8,9,27,36,80.0
+2020,20-TX-448,Career And Recovery Resources Inc,Career And Recovery Resources Inc,22,0,3,3,7,9,16,72.7
+2020,20-TX-450,Family Endeavors Inc,Family Endeavors Inc,6,0,1,2,0,3,3,50.0
+2020,20-VA-144,Volunteers of America Chesapeake,Volunteers of America Chesapeake,32,1,3,6,7,15,22,68.8
+2020,20-WA-146,Catholic Community Services of Western Washington,Catholic Community Services of Western Washington,26,1,0,3,7,15,22,84.6
+2020,20-WA-338,HopeSource,HopeSource,24,1,1,1,5,16,21,87.5
+2020,20-ZZ-026,Northwest Florida Comprehensive Services For Children Inc,Northwest Florida Comprehensive Services For Children Inc,249,4,2,18,48,177,225,90.4
+2020,20-ZZ-092,Volunteers of America Colorado Branch Inc,Volunteers of America Colorado Branch Inc,90,11,8,15,19,37,56,62.2
+2020,20-ZZ-113,Volunteers of America Northern Rockies,Volunteers of America Northern Rockies,175,7,7,14,31,116,147,84.0
+2020,20-ZZ-147,Blue Mountain Action Council,Blue Mountain Action Council,30,1,0,4,7,18,25,83.3
+2020,20-ZZ-158,Vietnam Veterans of California Inc (Sacramento Veterans Resource),Vietnam Veterans of California Inc (Sacramento Veterans Resource),109,6,3,9,19,72,91,83.5
+2020,20-ZZ-301,Goodwill Industries of The Inland Northwest,Goodwill Industries of The Inland Northwest,78,4,10,7,19,38,57,73.1
+2020,S20-NY-600A,The Jericho Project,The Jericho Project,1,0,0,0,0,1,1,100.0
+2020,S20-NY-600B,Services for the UnderServed Inc,Services for the UnderServed Inc,1,0,0,0,0,1,1,100.0
+2020,S20-NY-600C,Volunteers of America-Greater New York Inc.,Volunteers of America-Greater New York Inc.,3,0,1,1,0,1,1,33.3
+2020,S20-WA-500,Catholic Community Services Of Western Washington,Catholic Community Services Of Western Washington,7,1,0,0,2,4,6,85.7
+2019,12-AK-001,Catholic Social Services,Catholic Social Services,19,3,1,2,3,10,13,68.4
+2019,12-AL-002,Housing First Inc.,Housing First Inc,9,0,2,2,4,1,5,55.6
+2019,12-AZ-003,United Methodist Outreach Ministries,United Methodist Outreach Ministries,19,0,3,3,8,5,13,68.4
+2019,12-CA-013,Goodwill of Silicon Valley (dba Goodwill Industries of Santa Clara County),Goodwill of Silicon Valley (dba Goodwill Industries of Santa Clara County),43,1,1,1,5,35,40,93.0
+2019,12-CA-016,Shelter Inc. of Contra Costa County,Shelter Inc of Contra Costa County,14,1,1,2,5,5,10,71.4
+2019,12-CA-018,Volunteers of America of Greater Sacramento and Northern Nevada Inc.,Volunteers of America of Greater Sacramento and Northern Nevada Inc,40,2,2,3,10,23,33,82.5
+2019,12-CT-021,Community Renewal Team Inc.,Community Renewal Team Inc,11,1,1,1,2,6,8,72.7
+2019,12-FL-024,Advocate Program Inc.,Advocate Program Inc,26,4,2,3,3,14,17,65.4
+2019,12-FL-028,Jewish Family & Childrens Service Of The Suncoast Inc,Jewish Family & Childrens Service Of The Suncoast Inc,47,5,4,9,9,20,29,61.7
+2019,12-GA-029,Central Savannah River Area Economic Opportunity Authority Inc. (CSRA EOA),Central Savannah River Area Economic Opportunity Authority Inc (CSRA EOA),16,0,0,5,3,8,11,68.8
+2019,12-ID-032,El-Ada Inc.,El-Ada Inc,6,1,1,1,2,1,3,50.0
+2019,12-IL-033,Thresholds,Thresholds,25,2,1,5,6,11,17,68.0
+2019,12-IN-035,United Way of Central Indiana Inc.,United Way of Central Indiana Inc.,65,3,4,9,10,39,49,75.4
+2019,12-LA-038,Volunteers of America of Greater New Orleans,Volunteers of America of Greater New Orleans,51,2,1,11,13,24,37,72.5
+2019,12-LA-039,Wellspring Alliance for Families Inc.,Wellspring Alliance for Families Inc.,10,2,1,2,2,3,5,50.0
+2019,12-MA-040,Volunteers of America of Massachusetts Inc.,Volunteers of America of Massachusetts Inc,22,1,2,4,6,9,15,68.2
+2019,12-MD-042,Alliance Inc,Alliance Inc,110,12,8,21,23,46,69,62.7
+2019,12-ME-043,Preble Street,Preble Street,50,1,0,7,11,31,42,84.0
+2019,12-MI-044,Wayne Metropolitan Community Action Agency,Wayne Metropolitan Community Action Agency,8,0,1,0,3,4,7,87.5
+2019,12-MI-045,Southwest Counseling Solutions,Southwest Counseling Solutions,21,3,3,6,3,6,9,42.9
+2019,12-NC-049,United Way of Forsyth County Inc.,United Way of Forsyth County Inc.,13,1,1,1,0,10,10,76.9
+2019,12-NC-050,Passage Home Inc.,Passage Home Inc,10,0,0,3,2,5,7,70.0
+2019,12-ND-051,Community Action Partnership of North Dakota,Community Action Partnership of North Dakota,15,0,0,3,3,9,12,80.0
+2019,12-NJ-053,Catholic Charities Dioceses of Camden Inc.,Catholic Charities Dioceses of Camden Inc,37,0,1,2,3,31,34,91.9
+2019,12-NM-055,Goodwill Industries of New Mexico,Goodwill Industries of New Mexico,45,7,3,8,4,23,27,60.0
+2019,12-NY-060,HELP Social Service Corporation,HELP Social Service Corporation,61,10,6,11,15,19,34,55.7
+2019,12-NY-063,Westchester Community Opportunity Program Inc. (WestCOP),Westchester Community Opportunity Program Inc. (WestCOP),44,1,1,3,11,28,39,88.6
+2019,12-OH-064,Mental Health Services for Homeless Persons Inc.  d.b.a  FrontLine Service ,Mental Health Services for Homeless Persons Inc  dba  FrontLine Service ,27,1,3,5,4,14,18,66.7
+2019,12-OK-065,Community Service Council of Greater Tulsa Inc.,Community Service Council of Greater Tulsa Inc.,45,5,4,8,11,17,28,62.2
+2019,12-TX-071,Families in Crisis Inc.,Families in Crisis Inc,13,0,1,1,5,6,11,84.6
+2019,12-TX-072,Caritas of Austin,Caritas of Austin,10,1,0,1,0,8,8,80.0
+2019,12-TX-075,Catholic Charities Diocese of Fort Worth Inc.,Catholic Charities Diocese of Fort Worth Inc.,16,0,1,2,4,9,13,81.3
+2019,12-VA-077,Virginia Supportive Housing,Virginia Supportive Housing,12,1,1,3,1,6,7,58.3
+2019,12-ZZ-026,Northwest Florida Comprehensive Services For Children Inc,Northwest Florida Comprehensive Services For Children Inc,64,1,0,4,12,47,59,92.2
+2019,12-ZZ-031,Humility of Mary Shelter Inc.,Humility of Mary Shelter Inc,21,1,2,6,3,9,12,57.1
+2019,12-ZZ-041,Veterans Inc.,Veterans Inc,43,1,4,9,8,21,29,67.4
+2019,13-CA-090,California Veterans Assistance Foundation Inc.,California Veterans Assistance Foundation Inc,15,0,0,2,2,11,13,86.7
+2019,13-CT-093,The Workplace Inc.,The Workplace Inc,30,0,3,4,7,16,23,76.7
+2019,13-DE-095,Connections Community Support Programs Inc.,Connections Community Support Programs Inc.,29,3,0,4,9,13,22,75.9
+2019,13-FL-096,Faith Hope Love Charity Inc.,Faith Hope Love Charity Inc,85,7,4,12,18,44,62,72.9
+2019,13-IA-103,Primary Health Care Inc.,Primary Health Care Inc,15,1,1,0,5,8,13,86.7
+2019,13-IL-104,The Salvation Army an Illinois Corporation,The Salvation Army an Illinois Corporation,32,2,1,7,6,16,22,68.8
+2019,13-IL-105,Heartland Human Care Services Inc.,Heartland Human Care Services Inc,17,1,1,4,1,10,11,64.7
+2019,13-IN-106,Community Action of Northeast Indiana Inc. (dba Brightpoint) ,Community Action of Northeast Indiana Inc (dba Brightpoint) ,18,0,3,2,2,11,13,72.2
+2019,13-MD-107,Three Oaks Homeless Shelter Inc.,Three Oaks Homeless Shelter Inc,17,6,0,2,3,6,9,52.9
+2019,13-MI-108,Northwest Michigan Community Action Agency Inc.,Northwest Michigan Community Action Agency Inc,12,1,1,3,0,7,7,58.3
+2019,13-MO-110,Catholic Charities of Kansas City - St Joseph Inc.,Catholic Charities of Kansas City - St Joseph Inc,8,1,0,0,1,6,7,87.5
+2019,13-NH-115,Harbor Homes Inc.,Harbor Homes Inc,16,0,2,2,5,7,12,75.0
+2019,13-NV-117,Vietnam Veterans of California Inc. (Sacramento Veterans Resource),Vietnam Veterans of California Inc (Sacramento Veterans Resource),82,5,2,9,18,48,66,80.5
+2019,13-NY-119,Catholic Charities of the Roman Catholic Diocese of Syracuse NY,Catholic Charities of the Roman Catholic Diocese of Syracuse NY,13,0,1,0,2,10,12,92.3
+2019,13-NY-121,Soldier On of Delaware Inc.,Soldier On of Delaware Inc,58,4,5,12,11,26,37,63.8
+2019,13-OH-124,Maumee Valley Guidance Center Inc.,Maumee Valley Guidance Center Inc.,6,1,0,0,1,4,5,83.3
+2019,13-OR-125,Community Action Team Inc.,Community Action Team Inc,14,0,1,2,6,5,11,78.6
+2019,13-OR-126,Central Oregon Veterans Outreach,Central Oregon Veterans Outreach,12,2,0,1,1,8,9,75.0
+2019,13-PA-129,Veterans Leadership Program of Western Pennsylvania Inc.,Veterans Leadership Program of Western Pennsylvania Inc,68,2,5,9,16,36,52,76.5
+2019,13-PA-130,Opportunity House,Opportunity House,23,0,0,3,5,15,20,87.0
+2019,13-SD-136,Cornerstone Rescue Mission,Cornerstone Rescue Mission,32,0,0,2,7,23,30,93.8
+2019,13-TN-139,West Tennessee Legal Services Inc.,West Tennessee Legal Services Inc.,4,1,0,1,0,2,2,50.0
+2019,13-VA-144,Volunteers of America Chesapeake,Volunteers of America Chesapeake,18,1,2,2,4,9,13,72.2
+2019,13-WA-148,YWCA of Seattle - King County - Snohomish County,YWCA of Seattle - King County - Snohomish County,40,6,0,6,14,14,28,70.0
+2019,13-WI-151,Community Action Coalition for South Central Wisconsin Inc.,Community Action Coalition for South Central Wisconsin Inc.,10,0,1,1,6,2,8,80.0
+2019,13-ZZ-133,Operation Stand Down Rhode Island,Operation Stand Down Rhode Island,37,1,2,4,10,20,30,81.1
+2019,13-ZZ-134,The Alston Wilkes Society (AWS Alston Wilkes Veterans Home),The Alston Wilkes Society (AWS Alston Wilkes Veterans Home),15,2,1,7,0,5,5,33.3
+2019,13-ZZ-145,University of Vermont and State Agricultural College,University of Vermont and State Agricultural College,16,2,0,3,2,9,11,68.8
+2019,14-AK-152,Fairbanks Rescue Mission Inc.,Fairbanks Rescue Mission Inc.,4,0,0,0,1,3,4,100.0
+2019,14-AZ-157,National Community Health Partners,National Community Health Partners,107,3,3,8,22,71,93,86.9
+2019,14-AZ-160,Catholic Charities Community Services Inc.,Catholic Charities Community Services Inc,16,1,2,0,5,8,13,81.3
+2019,14-CA-163,Carrillo Counseling Services Inc. (DBA New Beginnings),Carrillo Counseling Services Inc (DBA New Beginnings),11,0,0,2,1,8,9,81.8
+2019,14-CA-167,East Oakland Community Project,East Oakland Community Project,18,1,2,4,5,6,11,61.1
+2019,14-CA-169,Families in Transition of Santa Cruz County Inc.,Families in Transition of Santa Cruz County Inc,2,0,0,0,1,1,2,100.0
+2019,14-CA-170,Knowledge Education for Your Success Inc.,Knowledge Education for Your Success Inc,7,1,2,1,1,2,3,42.9
+2019,14-CA-177,Catholic Charities of the Diocese of Stockton,Catholic Charities of the Diocese of Stockton,17,0,0,6,3,8,11,64.7
+2019,14-CT-178,Columbus House Inc.,Columbus House Inc,31,0,1,7,8,15,23,74.2
+2019,14-FL-179,Big Bend Homeless Coalition Inc.,Big Bend Homeless Coalition Inc,30,0,1,4,8,17,25,83.3
+2019,14-FL-181,United Way of Broward County,United Way of Broward County,45,4,3,12,5,21,26,57.8
+2019,14-FL-182,Community Coalition on Homelessness Corporation,Community Coalition on Homelessness Corporation,3,0,0,0,0,3,3,100.0
+2019,14-FL-184,Meridian Behavioral Healthcare Inc.,Meridian Behavioral Healthcare Inc,45,3,2,5,3,32,35,77.8
+2019,14-FL-322,Treasure Coast Homeless Services Council Inc.,Treasure Coast Homeless Services Council Inc,15,1,1,1,3,9,12,80.0
+2019,14-GA-189,United Way of Greater Atlanta Inc.,United Way of Greater Atlanta Inc,92,9,10,28,15,30,45,48.9
+2019,14-IA-191,Family Alliance For Veterans of America Inc.,Family Alliance For Veterans of America Inc,14,0,0,3,5,6,11,78.6
+2019,14-IL-194,Featherfist Inc.,Featherfist Inc,37,1,4,9,13,10,23,62.2
+2019,14-IL-196,Midwest Shelter for Homeless Veterans Inc.,Midwest Shelter for Homeless Veterans Inc,14,0,2,1,3,8,11,78.6
+2019,14-IL-197,Chestnut Health Systems Inc.,Chestnut Health Systems Inc,42,1,0,3,12,26,38,90.5
+2019,14-IL-198,Catholic Charities of the Archdiocese of Chicago,Catholic Charities of the Archdiocese of Chicago,30,0,1,4,7,18,25,83.3
+2019,14-IN-199,Lafayette Transitional Housing Center Inc.,Lafayette Transitional Housing Center Inc,21,0,0,0,5,16,21,100.0
+2019,14-IN-200,InteCare Inc.,InteCare Inc,49,1,5,3,9,31,40,81.6
+2019,14-KS-322,Catholic Charities Inc. (Diocese of Wichita),Catholic Charities Inc. (Diocese of Wichita),8,2,0,2,1,3,4,50.0
+2019,14-KY-204,Kentucky River Foothills Development Council Inc.,Kentucky River Foothills Development Council Inc.,46,1,1,1,7,36,43,93.5
+2019,14-LA-205,Hope Center Inc.,Hope Center Inc.,25,2,2,6,8,7,15,60.0
+2019,14-LA-207,Elle Foundation,Elle Foundation,8,0,1,1,4,2,6,75.0
+2019,14-LA-208,Start Corporation,Start Corporation,24,1,0,1,6,16,22,91.7
+2019,14-MA-209,Veterans Northeast Outreach Center Inc.,Veterans Northeast Outreach Center Inc,27,1,3,3,6,14,20,74.1
+2019,14-MA-211,Vietnam Veterans Workshop Inc.,Vietnam Veterans Workshop Inc.,22,2,0,4,3,13,16,72.7
+2019,14-MD-214,Project PLASE Inc.,Project PLASE Inc,60,3,5,20,10,22,32,53.3
+2019,14-MD-215,New Vision House of Hope Inc.,New Vision House of Hope Inc,33,2,2,6,5,18,23,69.7
+2019,14-MD-216,Diakonia Inc.,Diakonia Inc.,7,1,0,1,1,4,5,71.4
+2019,14-MD-217,St. James A.M.E. Zion Church-Zion House,St. James A.M.E. Zion Church-Zion House,15,0,0,2,1,12,13,86.7
+2019,14-MI-218,Blue Water Center For Independent Living Inc.,Blue Water Center For Independent Living Inc.,14,0,3,1,2,8,10,71.4
+2019,14-MI-219,Training & Treatment Innovations Inc.,Training & Treatment Innovations Inc.,45,6,3,12,8,16,24,53.3
+2019,14-MI-220,Community Action Agency,Community Action Agency,28,1,0,1,4,22,26,92.9
+2019,14-MI-221,Oakland Livingston Human Services Agency,Oakland Livingston Human Services Agency,3,1,0,1,1,0,1,33.3
+2019,14-MI-222,Mid Michigan Community Action Agency Inc.,Mid Michigan Community Action Agency Inc.,5,0,0,0,1,4,5,100.0
+2019,14-MI-223,Community Rebuilders,Community Rebuilders,8,0,0,1,2,5,7,87.5
+2019,14-MI-226,Volunteers of America Michigan Inc.,Volunteers of America Michigan Inc.,41,0,3,11,12,15,27,65.9
+2019,14-MO-228,The Kitchen Inc.,The Kitchen Inc,13,0,1,5,2,5,7,53.8
+2019,14-MS-232,Hancock Resource Center (HRC),Hancock Resource Center (HRC),3,0,0,0,3,0,3,100.0
+2019,14-MS-234,Catholic Charities Inc.  (Diocese of Jackson),Catholic Charities Inc  (Diocese of Jackson),1,1,0,0,0,0,0,0.0
+2019,14-NE-238,Northeast Nebraska Community Action Partnership,Northeast Nebraska Community Action Partnership,3,0,0,0,0,3,3,100.0
+2019,14-NJ-242,Catholic Family and Community Service,Catholic Family and Community Service,32,2,3,6,11,10,21,65.6
+2019,14-NM-246,New Mexico Veterans Integration Centers,New Mexico Veterans Integration Centers,18,3,1,2,2,10,12,66.7
+2019,14-NM-247,Mesilla Valley Community of Hope,Mesilla Valley Community of Hope,14,2,0,3,2,7,9,64.3
+2019,14-NY-249,Utica Center for Development Inc.,Utica Center for Development Inc.,5,0,0,0,1,4,5,100.0
+2019,14-NY-250,The Jericho Project,The Jericho Project,43,4,1,9,6,23,29,67.4
+2019,14-NY-251,Veterans and Community Housing Coalition ,Veterans and Community Housing Coalition ,20,0,0,1,0,19,19,95.0
+2019,14-NY-253,Pathstone Corporation,Pathstone Corporation,23,0,0,0,7,16,23,100.0
+2019,14-NY-254,Economic Opportunity Council of Suffolk Inc.,Economic Opportunity Council of Suffolk Inc,51,1,1,7,9,33,42,82.4
+2019,14-NY-256,Albany Housing Coalition Inc.,Albany Housing Coalition Inc,10,0,1,4,3,2,5,50.0
+2019,14-NY-259,Volunteers of America-Greater New York Inc.,Volunteers of America-Greater New York Inc,26,4,3,5,5,9,14,53.8
+2019,14-OH-261,Licking County Coalition for Housing,Licking County Coalition for Housing,9,0,0,1,2,6,8,88.9
+2019,14-OH-262,Family & Community Services Inc.,Family & Community Services Inc,27,1,1,1,5,19,24,88.9
+2019,14-OH-264,Community Action Agency of Columbiana County Inc.,Community Action Agency of Columbiana County Inc,15,0,1,1,4,9,13,86.7
+2019,14-OH-265,Community Action Program Corporation of Washington-Morgan Counties Ohio,Community Action Program Corporation of Washington-Morgan Counties Ohio,22,0,2,3,3,14,17,77.3
+2019,14-OH-266,Faith Mission Inc.,Faith Mission Inc.,6,2,0,0,2,2,4,66.7
+2019,14-OH-267,Community Support Services Inc.,Community Support Services Inc,5,1,0,1,0,3,3,60.0
+2019,14-OH-268,The Salvation Army a New York Corporation,The Salvation Army a New York Corporation,16,0,0,1,3,12,15,93.8
+2019,14-OK-270,KI BOIS Community Action Foundation Inc.,KI BOIS Community Action Foundation Inc,56,2,1,2,7,44,51,91.1
+2019,14-OK-271,Goodwill Industries of Central Oklahoma Inc.,Goodwill Industries of Central Oklahoma Inc,50,3,6,11,11,19,30,60.0
+2019,14-OR-272,Easter Seals Oregon,Easter Seals Oregon,34,0,1,3,5,25,30,88.2
+2019,14-PA-273,YWCA of Greater Harrisburg,YWCA of Greater Harrisburg,15,0,2,1,2,10,12,80.0
+2019,14-PA-274,Utility Emergency Services Fund,Utility Emergency Services Fund,56,5,3,8,11,29,40,71.4
+2019,14-PA-276,Community Action Agency of Delaware County Inc.,Community Action Agency of Delaware County Inc.,18,2,2,7,6,1,7,38.9
+2019,14-PA-277,Lawrence County Social Services Inc.,Lawrence County Social Services Inc.,35,1,1,1,6,26,32,91.4
+2019,14-PA-280,Soldier On of Delaware Inc.,Soldier On of Delaware Inc.,41,4,0,8,10,19,29,70.7
+2019,14-PA-281,Catholic Charities of the Diocese of Allentown,Catholic Charities of the Diocese of Allentown,13,0,2,3,3,5,8,61.5
+2019,14-PA-282,Volunteers of America of Pennsylvania Inc.,Volunteers of America of Pennsylvania Inc.,19,0,0,3,6,10,16,84.2
+2019,14-TN-283,Memphis Area Legal Services Inc.,Memphis Area Legal Services Inc.,17,0,1,0,5,11,16,94.1
+2019,14-TN-284,Volunteer Behavioral Health Care System,Volunteer Behavioral Health Care System,7,1,1,1,1,3,4,57.1
+2019,14-TN-285,Operation Stand Down Tennessee,Operation Stand Down Tennessee,32,3,0,4,4,21,25,78.1
+2019,14-TN-287,Catholic Charities Inc. (dba Catholic Charities of the Diocese of Memphis Inc.),Catholic Charities Inc (dba Catholic Charities of the Diocese of Memphis Inc),6,1,1,1,2,1,3,50.0
+2019,14-TX-293,Sabine Valley Regional Mental Health Mental Retardation Center,Sabine Valley Regional Mental Health Mental Retardation Center,10,0,1,0,3,6,9,90.0
+2019,14-VA-294,Total Action Against Poverty In Roanoke Valley,Total Action Against Poverty In Roanoke Valley,24,3,2,1,3,15,18,75.0
+2019,14-VA-296,Hampton Roads Community Action Program Inc.,Hampton Roads Community Action Program Inc.,18,2,1,4,0,11,11,61.1
+2019,14-VA-297,Virginia Beach Community Development Corporation,Virginia Beach Community Development Corporation,22,0,1,2,5,14,19,86.4
+2019,14-VA-298,STOP Incorporated,STOP Incorporated,13,1,2,2,4,4,8,61.5
+2019,14-VI-299,The Methodist Training and Outreach Center Inc.,The Methodist Training and Outreach Center Inc.,4,1,0,0,1,2,3,75.0
+2019,14-WI-302,Indianhead Community Action Agency,Indianhead Community Action Agency,3,0,0,0,0,3,3,100.0
+2019,14-WV-303,The Greater Wheeling Coalition for the Homeless Inc.,The Greater Wheeling Coalition for the Homeless Inc.,1,0,0,0,0,1,1,100.0
+2019,14-WV-304,Helping Heroes Inc.,Helping Heroes Inc.,11,1,0,0,1,9,10,90.9
+2019,14-WV-305,WVCAP,West Virginia Community Action Partnerships Inc,56,2,2,11,13,28,41,73.2
+2019,14-ZZ-153,United Way of Central Alabama,United Way of Central Alabama,25,4,1,6,5,9,14,56.0
+2019,14-ZZ-158,Vietnam Veterans of California Inc. (Sacramento Veterans Resource),Vietnam Veterans of California Inc. (Sacramento Veterans Resource),104,6,5,14,21,58,79,76.0
+2019,14-ZZ-260,St. Vincent de Paul Social Services Inc.,St. Vincent de Paul Social Services Inc.,35,1,1,1,8,24,32,91.4
+2019,14-ZZ-308,Transitional Living Services Inc.,Transitional Living Services Inc,14,0,0,1,3,10,13,92.9
+2019,14-ZZ-313,Housing Counseling Services Inc.,Housing Counseling Services Inc,36,5,1,7,7,16,23,63.9
+2019,14-ZZ-318,Operation Renewed Hope,Operation Renewed Hope,17,6,2,2,3,4,7,41.2
+2019,15-GA-325,Volunteers of America Southeast Inc.,Volunteers of America Southeast Inc,34,5,2,12,6,9,15,44.1
+2019,15-GU-326,WestCare Pacific Islands Inc.,WestCare Pacific Islands Inc,17,2,0,3,0,12,12,70.6
+2019,15-IA-192,Hawkeye Area Community Action Program Inc.,Hawkeye Area Community Action Program Inc,26,3,3,1,5,14,19,73.1
+2019,15-IN-201,Volunteers of America of Indiana Inc.,Volunteers of America of Indiana Inc,43,1,2,2,11,27,38,88.4
+2019,15-MI-328,Alger Marquette Community Action Board,Alger Marquette Community Action Board,2,0,0,0,0,2,2,100.0
+2019,15-MO-330,Catholic Charities of Southern Missouri Inc.,Catholic Charities of Southern Missouri Inc,24,2,0,0,7,15,22,91.7
+2019,15-OH-333,Lutheran Social Services of Central Ohio,Lutheran Social Services of Central Ohio,12,0,1,0,3,8,11,91.7
+2019,15-PA-068,Commission on Economic Opportunity,Commission on Economic Opportunity,32,1,3,2,8,18,26,81.3
+2019,15-PA-334,Veterans Multi-Service Center Inc.,Veterans Multi-Service Center Inc.,25,1,2,2,3,17,20,80.0
+2019,15-TX-141,West Central Texas Regional Foundation,West Central Texas Regional Foundation,39,5,1,5,5,23,28,71.8
+2019,15-UT-336,The Road Home,The Road Home,15,0,2,3,3,7,10,66.7
+2019,16-MO-048,St. Patrick Center,St Patrick Center,73,2,2,7,18,44,62,84.9
+2019,16-NJ-054,Community Hope Inc.,Community Hope Inc,47,2,2,7,9,27,36,76.6
+2019,16-ZZ-037,Volunteers of America Mid-States Inc.,Volunteers of America Mid-States Inc,112,7,7,9,18,71,89,79.5
+2019,16-ZZ-058,Soldier On Inc.,Soldier On Inc,54,5,5,11,13,20,33,61.1
+2019,17-NE-052,Central Nebraska Community Services Inc.,Central Nebraska Community Services Inc.,12,2,0,1,3,6,9,75.0
+2019,18-AR-086,St. Francis House Inc.,St. Francis House Inc.,41,0,3,3,7,28,35,85.4
+2019,18-CA-006,Volunteers of America of Los Angeles Inc.,Volunteers of America of Los Angeles Inc,84,11,6,17,15,35,50,59.5
+2019,18-CA-008,United States Veterans Initiative,United States Veterans Initiative,36,2,3,5,7,19,26,72.2
+2019,18-CA-011,WestCare California Inc.,WestCare California Inc,101,8,8,18,18,49,67,66.3
+2019,18-CA-019,Community Catalysts of California,Community Catalysts of California,59,9,8,14,17,11,28,47.5
+2019,18-CA-091,Swords To Plowshares Veterans Rights Organization,Swords To Plowshares Veterans Rights Organization,79,3,4,14,16,42,58,73.4
+2019,18-CA-171,Lighthouse Treatment Center,Lighthouse Treatment Center,17,0,2,3,4,8,12,70.6
+2019,18-CA-176,Volunteers of America of Los Angeles Inc.,Volunteers of America of Los Angeles Inc.,49,6,7,7,8,21,29,59.2
+2019,18-CA-354,United States Veterans Initiative,United States Veterans Initiative,47,1,3,3,10,30,40,85.1
+2019,18-CA-358,Community Action Partnership of San Luis Obispo County Inc.,Community Action Partnership of San Luis Obispo County Inc,23,2,2,0,3,16,19,82.6
+2019,18-CA-359,Good Samaritan Shelter,Good Samaritan Shelter,6,0,1,0,2,3,5,83.3
+2019,18-CA-419,The Salvation Army a California Corporation,The Salvation Army a California Corporation,29,7,3,6,6,7,13,44.8
+2019,18-CA-420,Volunteers of America Southwest California Inc.,Volunteers of America Southwest California Inc,11,2,1,1,3,4,7,63.6
+2019,18-CA-437,Berkeley Food and Housing Project,Berkeley Food and Housing Project,57,9,4,8,15,21,36,63.2
+2019,18-CO-020,Rocky Mountain Human Services,Rocky Mountain Human Services,128,13,11,24,27,53,80,62.5
+2019,18-CO-439,Volunteers of America Colorado Branch Inc.,Volunteers of America Colorado Branch Inc.,34,5,4,3,7,15,22,64.7
+2019,18-FL-023,Homeless Services Network of Central Florida Inc.,Homeless Services Network of Central Florida Inc,88,8,9,11,18,42,60,68.2
+2019,18-FL-187,Volunteers of America of Florida Inc.,Volunteers of America of Florida Inc,74,3,4,5,14,48,62,83.8
+2019,18-FL-362,Tampa Crossroads Inc.,Tampa Crossroads Inc,69,2,8,9,18,32,50,72.5
+2019,18-GA-369,Project Community Connections Inc.,Project Community Connections Inc.,23,2,2,3,2,14,16,69.6
+2019,18-GA-438,Northwest Florida Comprehensive Services For Children Inc,Northwest Florida Comprehensive Services For Children Inc,141,3,1,5,18,114,132,93.6
+2019,18-HI-190,United States Veterans Initiative,United States Veterans Initiative,47,3,1,7,6,30,36,76.6
+2019,18-HI-374,Catholic Charities Hawaii,Catholic Charities Hawaii,14,2,1,2,1,8,9,64.3
+2019,18-KY-379,Volunteers of America Mid-States Inc.,Volunteers of America Mid-States Inc,19,1,1,2,2,13,15,78.9
+2019,18-MI-383,Volunteers of America Michigan Inc.,Volunteers of America Michigan Inc,4,0,0,1,1,2,3,75.0
+2019,18-NC-387,Homeward Bound of Western North Carolina Inc.,Homeward Bound of Western North Carolina Inc,14,1,3,0,2,8,10,71.4
+2019,18-NE-239,Blue Valley Community Action Inc.,Blue Valley Community Action Inc.,11,0,0,3,3,5,8,72.7
+2019,18-NY-062,Services for the UnderServed Inc.,Services for the UnderServed Inc.,58,6,3,8,15,26,41,70.7
+2019,18-OR-066,St. Vincent de Paul Society of Lane County Inc.,St Vincent de Paul Society of Lane County Inc,50,0,0,5,15,30,45,90.0
+2019,18-OR-430,Community Action Partnership of Oregon,Community Action Partnership of Oregon,12,1,2,1,2,6,8,66.7
+2019,18-PR-132,Casa del Peregrino Aguadilla Inc.,Casa del Peregrino Aguadilla Inc.,8,0,0,1,2,5,7,87.5
+2019,18-SC-069,One-Eighty Place ,One-Eighty Place ,27,2,0,3,8,14,22,81.5
+2019,18-SC-402,Eastern Carolina Homelessness Organization Inc.,Eastern Carolina Homelessness Organization Inc.,26,1,1,3,6,15,21,80.8
+2019,18-TX-074,Family Endeavors Inc.,Family Endeavors Inc,141,16,8,23,28,66,94,66.7
+2019,18-TX-292,American GI Forum National Veterans Outreach Program Inc.,American GI Forum National Veterans Outreach Program Inc,107,7,7,14,24,55,79,73.8
+2019,18-TX-404,Front Steps Inc.,Front Steps Inc.,6,0,1,0,0,5,5,83.3
+2019,18-TX-433,Lubbock Mental Health and Retardation Center (dba Starcare),Lubbock Mental Health and Retardation Center (dba Starcare),49,2,0,3,15,29,44,89.8
+2019,18-WI-080,Center For Veterans Issues Limited,Center For Veterans Issues Limited,67,1,13,7,22,24,46,68.7
+2019,18-ZZ-034,Volunteers of America of Illinois,Volunteers of America of Illinois,14,0,2,6,3,3,6,42.9
+2019,18-ZZ-036,The Salvation Army an Illinois Corporation,The Salvation Army an Illinois Corporation,29,3,0,4,6,16,22,75.9
+2019,18-ZZ-113,Volunteers of America Northern Rockies,Volunteers of America Northern Rockies,218,1,6,9,26,176,202,92.7
+2019,18-ZZ-386,Restart Inc,Restart Inc,53,2,1,5,10,35,45,84.9
+2019,19-AZ-004,Primavera Foundation,Primavera Foundation,40,1,2,8,8,21,29,72.5
+2019,19-AZ-159,United States Veterans Initiative,United States Veterans Initiative,21,1,3,5,5,7,12,57.1
+2019,19-AZ-436,Community Bridges Inc.,Community Bridges Inc,65,8,6,3,17,31,48,73.8
+2019,19-CA-005,Mental Health America of Los Angeles,Mental Health America of Los Angeles,48,4,3,6,10,25,35,72.9
+2019,19-CA-009,Vietnam Veterans of California Inc. (Sacramento Veterans Resource),Vietnam Veterans of California Inc (Sacramento Veterans Resource),126,10,7,24,31,54,85,67.5
+2019,19-CA-010,Homefirst Services Of Santa Clara County,Homefirst Services Of Santa Clara County,14,3,1,1,3,6,9,64.3
+2019,19-CA-014,People Assisting the Homeless (PATH),People Assisting the Homeless (PATH),76,7,7,12,16,34,50,65.8
+2019,19-CA-173,Vietnam Veterans of San Diego,Vietnam Veterans of San Diego,60,9,3,9,15,24,39,65.0
+2019,19-FL-025,Purpose Built Families Foundation,Purpose Built Families Foundation,200,22,7,33,36,102,138,69.0
+2019,19-FL-099,Society of St. Vincent de Paul South Pinellas Inc.,Society of St. Vincent de Paul South Pinellas Inc.,140,6,12,19,30,73,103,73.6
+2019,19-GA-188,Travelers Aid of Metro Atlanta Inc.  ,Travelers Aid of Metro Atlanta Inc.  ,44,5,4,10,13,12,25,56.8
+2019,19-MN-046,Minnesota Assistance Council for Veterans,Minnesota Assistance Council for Veterans,53,5,3,11,14,20,34,64.2
+2019,19-MO-229,Phoenix Programs Inc.,Phoenix Programs Inc,20,1,1,3,3,12,15,75.0
+2019,19-MS-111,Region XII Commission on Mental Health & Retardation (dba Pine Belt Mental Health),Region XII Commission on Mental Health & Retardation (dba Pine Belt Mental Health),48,0,5,3,3,37,40,83.3
+2019,19-NC-114,Asheville-Buncombe Community Christian Ministry Inc.,Asheville-Buncombe Community Christian Ministry Inc,24,3,5,4,1,11,12,50.0
+2019,19-NC-237,Volunteers of America of the Carolinas Inc.,Volunteers of America of the Carolinas Inc,89,5,5,8,20,51,71,79.8
+2019,19-NV-056,United States Veterans Initiative,United States Veterans Initiative,83,11,5,7,23,37,60,72.3
+2019,19-NV-118,The Salvation Army a California Corporation,The Salvation Army a California Corporation,21,6,1,1,4,9,13,61.9
+2019,19-OH-263,Talbert House Inc.,Talbert House Inc.,22,0,2,2,7,11,18,81.8
+2019,19-OH-269,Volunteers of America of Greater Ohio,Volunteers of America of Greater Ohio,77,9,7,16,23,22,45,58.4
+2019,19-OR-128,Access,Access,38,7,2,3,4,22,26,68.4
+2019,19-TX-140,The Salvation Army a Georgia Corporation,The Salvation Army a Georgia Corporation,36,0,2,1,7,26,33,91.7
+2019,19-TX-288,United States Veterans Initiative,United States Veterans Initiative,11,1,0,1,2,7,9,81.8
+2019,19-TX-290,Baker Ripley,Baker Ripley,58,15,4,12,12,15,27,46.6
+2019,19-WA-078,Community Psychiatric Clinic Inc.,Community Psychiatric Clinic Inc,29,0,1,3,4,21,25,86.2
+2019,19-WA-079,Opportunity Council,Opportunity Council,11,0,0,0,2,9,11,100.0
+2019,19-WA-146,Catholic Community Services of Western Washington,Catholic Community Services of Western Washington,19,1,2,2,2,12,14,73.7
+2019,19-WA-338,HopeSource,HopeSource,29,2,1,3,4,19,23,79.3
+2019,19-ZZ-070,Centerstone of Tennessee Inc.,Centerstone of Tennessee Inc,92,5,3,5,14,65,79,85.9
+2019,19-ZZ-092,Volunteers of America Colorado Branch Inc.,Volunteers of America Colorado Branch Inc.,87,5,6,15,16,45,61,70.1
+2019,19-ZZ-094,Friendship Place,Friendship Place,51,4,4,11,6,26,32,62.7
+2019,19-ZZ-127,Transition Projects Inc.,Transition Projects Inc,49,7,1,7,7,27,34,69.4
+2019,19-ZZ-147,Blue Mountain Action Council,Blue Mountain Action Council,36,0,0,2,6,28,34,94.4
+2019,19-ZZ-278,Veterans Multi-Service Center Inc.,Veterans Multi-Service Center Inc,98,8,11,8,19,52,71,72.4
+2019,19-ZZ-301,Goodwill Industries of The Inland Northwest,Goodwill Industries of The Inland Northwest,60,4,2,4,13,37,50,83.3
+2019,19-ZZ-317,Homeless Veterans Fellowship,Homeless Veterans Fellowship,19,2,2,0,6,9,15,78.9
+2019,19-ZZ-324,Changing Homelessness Inc.,Changing Homelessness Inc,75,6,3,15,18,33,51,68.0
+2018,12-AK-001,Catholic Social Services,Catholic Social Services,2,0,0,0,0,2,2,100.0
+2018,12-AL-002,Housing First Inc.,Housing First Inc,16,1,2,1,3,9,12,75.0
+2018,12-AZ-003,United Methodist Outreach Ministries,United Methodist Outreach Ministries,14,1,0,3,3,7,10,71.4
+2018,12-AZ-004,Primavera Foundation,Primavera Foundation,33,1,1,3,12,16,28,84.8
+2018,12-CA-007,New Directions Inc.,New Directions Inc.,29,2,2,6,10,9,19,65.5
+2018,12-CA-010,Homefirst Services Of Santa Clara County,Homefirst Services Of Santa Clara County,9,2,0,3,1,3,4,44.4
+2018,12-CA-011,WestCare California Inc.,WestCare California Inc.,1,1,0,0,0,0,0,0.0
+2018,12-CA-013,Goodwill of Silicon Valley (dba Goodwill Industries of Santa Clara County),Goodwill of Silicon Valley (dba Goodwill Industries of Santa Clara County),50,0,0,1,8,41,49,98.0
+2018,12-CA-014,People Assisting The Homeless,People Assisting The Homeless,25,3,5,5,6,6,12,48.0
+2018,12-CA-015,Lifemoves,Lifemoves,20,0,0,4,6,10,16,80.0
+2018,12-CA-016,Shelter Inc. of Contra Costa County,Shelter Inc of Contra Costa County,20,2,1,4,8,5,13,65.0
+2018,12-CA-017,The Salvation Army a California Corporation,The Salvation Army a California Corporation,25,2,2,4,4,13,17,68.0
+2018,12-CA-018,Volunteers of America of Greater Sacramento and Northern Nevada Inc.,Volunteers of America of Greater Sacramento and Northern Nevada Inc,40,1,1,2,5,31,36,90.0
+2018,12-CA-019,Community Catalysts of California,Community Catalysts of California,1,1,0,0,0,0,0,0.0
+2018,12-CT-021,Community Renewal Team Inc.,Community Renewal Team Inc,21,4,4,5,3,5,8,38.1
+2018,12-FL-024,Advocate Program Inc.,Advocate Program Inc,53,5,4,8,14,22,36,67.9
+2018,12-FL-025,Purpose Built Families Foundation,Purpose Built Families Foundation,212,20,20,36,43,93,136,64.2
+2018,12-FL-028,Jewish Family & Childrens Service Of The Suncoast Inc,Jewish Family & Childrens Service Of The Suncoast Inc,41,7,6,9,6,13,19,46.3
+2018,12-GA-029,Central Savannah River Area Economic Opportunity Authority Inc. (CSRA EOA),Central Savannah River Area Economic Opportunity Authority Inc (CSRA EOA),26,0,2,6,6,12,18,69.2
+2018,12-ID-032,El-Ada Inc.,El-Ada Inc,8,0,0,0,4,4,8,100.0
+2018,12-IL-033,Thresholds,Thresholds,21,2,0,5,3,11,14,66.7
+2018,12-IN-035,United Way of Central Indiana Inc.,United Way of Central Indiana Inc.,61,5,0,7,21,28,49,80.3
+2018,12-LA-038,Volunteers of America of Greater New Orleans,Volunteers of America of Greater New Orleans,29,2,0,3,8,16,24,82.8
+2018,12-LA-039,Wellspring Alliance for Families Inc.,Wellspring Alliance for Families Inc.,14,0,0,6,3,5,8,57.1
+2018,12-MA-040,Volunteers of America of Massachusetts Inc.,Volunteers of America of Massachusetts Inc,28,1,5,2,7,13,20,71.4
+2018,12-MD-042,Alliance Inc,Alliance Inc,103,14,9,21,15,44,59,57.3
+2018,12-ME-043,Preble Street,Preble Street,53,0,6,6,13,28,41,77.4
+2018,12-MI-044,Wayne Metropolitan Community Action Agency,Wayne Metropolitan Community Action Agency,11,0,0,2,5,4,9,81.8
+2018,12-MI-045,Southwest Counseling Solutions,Southwest Counseling Solutions,22,1,1,3,7,10,17,77.3
+2018,12-NC-049,United Way of Forsyth County Inc.,United Way of Forsyth County Inc.,17,2,0,1,2,12,14,82.4
+2018,12-NC-050,Passage Home Inc.,Passage Home Inc,15,1,0,2,2,10,12,80.0
+2018,12-ND-051,Community Action Partnership of North Dakota,Community Action Partnership of North Dakota,10,0,0,0,4,6,10,100.0
+2018,12-NJ-053,Catholic Charities Dioceses of Camden Inc.,Catholic Charities Dioceses of Camden Inc,19,0,0,0,5,14,19,100.0
+2018,12-NM-055,Goodwill Industries of New Mexico,Goodwill Industries of New Mexico,53,5,4,10,7,27,34,64.2
+2018,12-NY-060,HELP Social Service Corporation,HELP Social Service Corporation,26,4,2,5,5,10,15,57.7
+2018,12-NY-061,Samaritan Daytop Village Inc.,Samaritan Daytop Village Inc.,39,5,2,5,8,19,27,69.2
+2018,12-NY-063,Westchester Community Opportunity Program Inc. (WestCOP),Westchester Community Opportunity Program Inc. (WestCOP),33,1,2,6,8,16,24,72.7
+2018,12-OH-064,FrontLine,Mental Health Services for Homeless Persons Inc  dba  FrontLine Service ,39,5,7,2,9,16,25,64.1
+2018,12-OK-065,Community Service Council of Greater Tulsa Inc.,Community Service Council of Greater Tulsa Inc.,41,1,2,5,9,24,33,80.5
+2018,12-OR-066,St. Vincent de Paul Society of Lane County Inc.,St. Vincent de Paul Society of Lane County Inc.,1,0,0,0,0,1,1,100.0
+2018,12-PA-067,Project H.O.M.E.,Project H.O.M.E.,37,2,3,6,10,16,26,70.3
+2018,12-TX-071,Families in Crisis Inc.,Families in Crisis Inc,26,3,3,4,3,13,16,61.5
+2018,12-TX-072,Caritas of Austin,Caritas of Austin,11,0,0,5,2,4,6,54.5
+2018,12-TX-075,Catholic Charities Diocese of Fort Worth Inc.,Catholic Charities Diocese of Fort Worth Inc.,45,7,3,4,10,21,31,68.9
+2018,12-TX-076,Career And Recovery Resources Inc,Career And Recovery Resources Inc,58,3,6,7,15,27,42,72.4
+2018,12-VA-077,Virginia Supportive Housing,Virginia Supportive Housing,32,1,6,5,6,14,20,62.5
+2018,12-WA-079,Opportunity Council,Opportunity Council,13,0,0,1,5,7,12,92.3
+2018,12-WI-080,Center for Veterans Issues Ltd.,Center for Veterans Issues Ltd.,1,0,0,0,0,1,1,100.0
+2018,12-ZZ-026,Northwest Florida Comprehensive Services For Children Inc,Northwest Florida Comprehensive Services For Children Inc,79,3,4,4,17,51,68,86.1
+2018,12-ZZ-031,Humility of Mary Shelter Inc.,Humility of Mary Shelter Inc,16,0,1,3,5,7,12,75.0
+2018,12-ZZ-041,Veterans Inc.,Veterans Inc,56,2,5,12,10,27,37,66.1
+2018,12-ZZ-070,Centerstone of Tennessee Inc.,Centerstone of Tennessee Inc.,102,3,2,14,17,66,83,81.4
+2018,13-AZ-087,American National Red Cross Southern Arizona Chapter,American National Red Cross Southern Arizona Chapter,28,0,1,2,8,17,25,89.3
+2018,13-CA-090,California Veterans Assistance Foundation Inc.,California Veterans Assistance Foundation Inc,18,0,1,5,3,9,12,66.7
+2018,13-CT-093,The Workplace Inc.,The Workplace Inc,15,1,1,2,3,8,11,73.3
+2018,13-DE-095,Connections Community Support Programs Inc.,Connections Community Support Programs Inc.,24,2,1,5,6,10,16,66.7
+2018,13-FL-096,Faith Hope Love Charity Inc.,Faith Hope Love Charity Inc,70,3,8,10,18,31,49,70.0
+2018,13-GA-101,Action Ministries Inc.,Action Ministries Inc.,55,6,1,12,15,21,36,65.5
+2018,13-GA-102,Decatur Cooperative Ministry Inc.,Decatur Cooperative Ministry Inc.,44,2,6,11,10,15,25,56.8
+2018,13-IA-103,Primary Health Care Inc.,Primary Health Care Inc,7,1,0,1,2,3,5,71.4
+2018,13-IL-104,The Salvation Army an Illinois Corporation,The Salvation Army an Illinois Corporation,28,1,3,3,7,14,21,75.0
+2018,13-IL-105,Heartland Human Care Services Inc.,Heartland Human Care Services Inc,18,0,0,3,3,12,15,83.3
+2018,13-IN-106,Community Action of Northeast Indiana Inc. (dba Brightpoint),Community Action of Northeast Indiana Inc (dba Brightpoint) ,15,1,0,1,3,10,13,86.7
+2018,13-MD-107,Three Oaks Homeless Shelter Inc.,Three Oaks Homeless Shelter Inc,17,3,4,4,0,6,6,35.3
+2018,13-MI-108,Northwest Michigan Community Action Agency Inc.,Northwest Michigan Community Action Agency Inc,20,0,1,3,5,11,16,80.0
+2018,13-MO-047,Welcome Home Inc.,Welcome Home Inc.,6,0,0,1,2,3,5,83.3
+2018,13-MO-110,Catholic Charities of Kansas City - St Joseph Inc.,Catholic Charities of Kansas City - St Joseph Inc,11,0,1,0,4,6,10,90.9
+2018,13-MS-111,Region XII Commission on Mental Health & Retardation (dba Pine Belt Mental Health),Region XII Commission on Mental Health & Retardation (dba Pine Belt Mental Health),18,0,1,0,4,13,17,94.4
+2018,13-NC-114,Asheville-Buncombe Community Christian Ministry Inc.,Asheville-Buncombe Community Christian Ministry Inc.,27,0,1,6,7,13,20,74.1
+2018,13-NH-115,Harbor Homes Inc.,Harbor Homes Inc,7,0,1,1,2,3,5,71.4
+2018,13-NV-056,United States Veterans Initiative,United States Veterans Initiative,46,3,3,8,10,22,32,69.6
+2018,13-NV-117,Vietnam Veterans of California Inc. (Sacramento Veterans Resource),Vietnam Veterans of California Inc (Sacramento Veterans Resource),46,4,2,7,9,24,33,71.7
+2018,13-NV-118,The Salvation Army a California Corporation,The Salvation Army a California Corporation,13,2,1,0,7,3,10,76.9
+2018,13-NY-119,Catholic Charities of the Roman Catholic Diocese of Syracuse NY,Catholic Charities of the Roman Catholic Diocese of Syracuse NY,12,0,0,1,0,11,11,91.7
+2018,13-NY-121,Soldier On of Delaware Inc.,Soldier On of Delaware Inc,52,2,6,9,7,28,35,67.3
+2018,13-OH-124,Maumee Valley Guidance Center Inc.,Maumee Valley Guidance Center Inc.,6,1,0,1,0,4,4,66.7
+2018,13-OR-125,Community Action Team Inc.,Community Action Team Inc,5,0,0,0,2,3,5,100.0
+2018,13-OR-126,Central Oregon Veterans Outreach,Central Oregon Veterans Outreach,10,0,2,1,2,5,7,70.0
+2018,13-OR-128,Access,Access,18,3,0,1,1,13,14,77.8
+2018,13-PA-129,Veterans Leadership Program of Western Pennsylvania Inc.,Veterans Leadership Program of Western Pennsylvania Inc,77,3,4,13,18,39,57,74.0
+2018,13-PA-130,Opportunity House,Opportunity House,25,0,1,4,4,16,20,80.0
+2018,13-PA-131,Lehigh Valley Center for Independent Living Inc.,Lehigh Valley Center for Independent Living Inc.,2,0,0,0,1,1,2,100.0
+2018,13-SD-136,Cornerstone Rescue Mission,Cornerstone Rescue Mission,15,1,0,2,3,9,12,80.0
+2018,13-TN-139,West Tennessee Legal Services Inc.,West Tennessee Legal Services Inc.,9,0,1,1,4,3,7,77.8
+2018,13-TX-140,The Salvation Army,The Salvation Army,29,3,3,3,3,17,20,69.0
+2018,13-TX-142,Goodwill Industries of Houston Inc.,Goodwill Industries of Houston Inc.,19,2,4,5,3,5,8,42.1
+2018,13-VA-144,Volunteers of America Chesapeake,Volunteers of America Chesapeake,29,1,4,8,4,12,16,55.2
+2018,13-WA-148,YWCA of Seattle - King County - Snohomish County,YWCA of Seattle - King County - Snohomish County,16,3,0,4,2,7,9,56.3
+2018,13-WI-151,Community Action Coalition for South Central Wisconsin Inc.,Community Action Coalition for South Central Wisconsin Inc.,13,0,0,1,4,8,12,92.3
+2018,13-ZZ-092,Volunteers of America Colorado Branch Inc.,Volunteers of America Colorado Branch Inc.,65,4,9,10,12,30,42,64.6
+2018,13-ZZ-094,Friendship Place,Friendship Place,1,0,0,0,0,1,1,100.0
+2018,13-ZZ-123,Ohio Valley Goodwill Industries Rehabilitation Center Inc.,Ohio Valley Goodwill Industries Rehabilitation Center Inc.,27,0,1,3,7,16,23,85.2
+2018,13-ZZ-133,Operation Stand Down Rhode Island,Operation Stand Down Rhode Island,38,1,1,7,8,21,29,76.3
+2018,13-ZZ-134,The Alston Wilkes Society (AWS Alston Wilkes Veterans Home),The Alston Wilkes Society (AWS Alston Wilkes Veterans Home),21,1,3,2,4,11,15,71.4
+2018,13-ZZ-145,University of Vermont and State Agricultural College,University of Vermont and State Agricultural College,32,1,2,2,7,20,27,84.4
+2018,13-ZZ-147,Blue Mountain Action Council,Blue Mountain Action Council,44,2,2,1,8,31,39,88.6
+2018,14-AK-152,Fairbanks Rescue Mission Inc.,Fairbanks Rescue Mission Inc.,5,2,0,0,0,3,3,60.0
+2018,14-AL-155,Family Endeavors Inc.,Family Endeavors Inc.,80,12,5,9,18,36,54,67.5
+2018,14-AR-156,Seven Hills Homeless Center,Seven Hills Homeless Center,7,1,0,2,1,3,4,57.1
+2018,14-AZ-157,National Community Health Partners,National Community Health Partners,74,2,1,7,10,54,64,86.5
+2018,14-AZ-158,Vietnam Veterans of California Inc. (Sacramento Veterans Resource),Vietnam Veterans of California Inc. (Sacramento Veterans Resource),64,3,6,11,14,30,44,68.8
+2018,14-AZ-159,United States Veterans Initiative,United States Veterans Initiative,24,2,2,4,4,12,16,66.7
+2018,14-AZ-160,Catholic Charities Community Services Inc.,Catholic Charities Community Services Inc,31,1,0,6,5,19,24,77.4
+2018,14-CA-163,Carrillo Counseling Services Inc. (DBA New Beginnings),Carrillo Counseling Services Inc (DBA New Beginnings),6,1,0,0,3,2,5,83.3
+2018,14-CA-167,East Oakland Community Project,East Oakland Community Project,14,2,1,1,4,6,10,71.4
+2018,14-CA-169,Families in Transition of Santa Cruz County Inc.,Families in Transition of Santa Cruz County Inc,4,0,0,0,0,4,4,100.0
+2018,14-CA-170,Knowledge Education for Your Success Inc.,Knowledge Education for Your Success Inc,9,0,1,2,2,4,6,66.7
+2018,14-CA-173,Vietnam Veterans of San Diego,Vietnam Veterans of San Diego,1,0,0,0,0,1,1,100.0
+2018,14-CA-177,Catholic Charities of the Diocese of Stockton,Catholic Charities of the Diocese of Stockton,21,2,3,2,5,9,14,66.7
+2018,14-CA-324,1736 Family Crisis Center,1736 Family Crisis Center,9,1,1,1,2,4,6,66.7
+2018,14-CT-178,Columbus House Inc.,Columbus House Inc,26,0,0,1,12,13,25,96.2
+2018,14-FL-179,Big Bend Homeless Coalition Inc.,Big Bend Homeless Coalition Inc,36,0,3,4,3,26,29,80.6
+2018,14-FL-181,United Way of Broward County,United Way of Broward County,46,5,3,12,5,21,26,56.5
+2018,14-FL-182,Community Coalition on Homelessness Corporation,Community Coalition on Homelessness Corporation,11,3,0,2,3,3,6,54.5
+2018,14-FL-184,Meridian Behavioral Healthcare Inc.,Meridian Behavioral Healthcare Inc,58,3,4,9,13,29,42,72.4
+2018,14-FL-185,Family Endeavors Inc.,Family Endeavors Inc.,150,10,9,22,28,81,109,72.7
+2018,14-FL-322,Treasure Coast Homeless Services Council Inc.,Treasure Coast Homeless Services Council Inc,28,1,4,5,9,9,18,64.3
+2018,14-GA-188,Travelers Aid of Metropolitan Atlanta Inc.,Travelers Aid of Metropolitan Atlanta Inc.,51,3,9,9,12,18,30,58.8
+2018,14-GA-189,United Way of Metropolitan Atlanta,United Way of Greater Atlanta Inc,68,5,6,9,18,30,48,70.6
+2018,14-HI-190,United States Veterans Initiative (dba U.S. VETS),United States Veterans Initiative (dba U.S. VETS),1,0,0,1,0,0,0,0.0
+2018,14-IA-191,Family Alliance For Veterans of America Inc.,Family Alliance For Veterans of America Inc,16,1,1,2,6,6,12,75.0
+2018,14-ID-193,South Central Community Action Partnership Inc.,South Central Community Action Partnership Inc.,11,0,0,2,1,8,9,81.8
+2018,14-IL-194,Featherfist Inc.,Featherfist Inc,32,3,3,11,9,6,15,46.9
+2018,14-IL-195,Partners in Community Building Inc.,Partners in Community Building Inc.,6,0,2,1,1,2,3,50.0
+2018,14-IL-196,Midwest Shelter for Homeless Veterans Inc.,Midwest Shelter for Homeless Veterans Inc,19,0,3,5,6,5,11,57.9
+2018,14-IL-197,Chestnut Health Systems Inc.,Chestnut Health Systems Inc,37,2,1,4,5,25,30,81.1
+2018,14-IL-198,Catholic Charities of the Archdiocese of Chicago,Catholic Charities of the Archdiocese of Chicago,14,1,1,4,1,7,8,57.1
+2018,14-IL-308,Transitional Living Services Inc.,Transitional Living Services Inc.,25,0,1,3,7,14,21,84.0
+2018,14-IN-199,Lafayette Transitional Housing Center Inc.,Lafayette Transitional Housing Center Inc,9,0,0,0,2,7,9,100.0
+2018,14-IN-200,InteCare Inc.,InteCare Inc,41,8,3,7,8,15,23,56.1
+2018,14-KS-322,Catholic Charities Inc. (Diocese of Wichita),Catholic Charities Inc. (Diocese of Wichita),9,1,2,4,0,2,2,22.2
+2018,14-KY-204,Kentucky River Foothills Development Council Inc.,Kentucky River Foothills Development Council Inc.,33,1,1,3,4,24,28,84.8
+2018,14-LA-205,Hope Center Inc.,Hope Center Inc.,38,2,1,8,10,17,27,71.1
+2018,14-LA-207,Elle Foundation,Elle Foundation,12,0,0,8,0,4,4,33.3
+2018,14-LA-208,Start Corporation,Start Corporation,25,0,0,1,1,23,24,96.0
+2018,14-MA-209,Veterans Northeast Outreach Center Inc.,Veterans Northeast Outreach Center Inc,33,0,1,5,10,17,27,81.8
+2018,14-MA-211,Vietnam Veterans Workshop Inc.,Vietnam Veterans Workshop Inc.,22,4,1,4,6,7,13,59.1
+2018,14-MD-214,Project PLASE Inc.,Project PLASE Inc,120,9,4,19,34,54,88,73.3
+2018,14-MD-215,New Vision House of Hope Inc.,New Vision House of Hope Inc,30,0,5,8,7,10,17,56.7
+2018,14-MD-216,Diakonia Inc.,Diakonia Inc.,8,0,1,2,1,4,5,62.5
+2018,14-MD-217,St. James A.M.E. Zion Church-Zion House,St. James A.M.E. Zion Church-Zion House,8,0,1,1,2,4,6,75.0
+2018,14-MI-218,Blue Water Center For Independent Living Inc.,Blue Water Center For Independent Living Inc.,28,3,2,7,4,12,16,57.1
+2018,14-MI-219,Training & Treatment Innovations Inc.,Training & Treatment Innovations Inc.,27,2,0,3,10,12,22,81.5
+2018,14-MI-220,Community Action Agency,Community Action Agency,10,0,1,0,0,9,9,90.0
+2018,14-MI-221,Oakland Livingston Human Services Agency,Oakland Livingston Human Services Agency,14,1,0,6,5,2,7,50.0
+2018,14-MI-222,Mid Michigan Community Action Agency Inc.,Mid Michigan Community Action Agency Inc.,8,1,0,0,2,5,7,87.5
+2018,14-MI-223,Community Rebuilders,Community Rebuilders,11,1,0,3,2,5,7,63.6
+2018,14-MI-226,Volunteers of America Michigan Inc.,Volunteers of America Michigan Inc.,51,2,1,10,11,27,38,74.5
+2018,14-MN-227,Tri-County Action Program Inc.,Tri-County Action Program Inc.,6,0,0,1,4,1,5,83.3
+2018,14-MO-228,The Kitchen Inc.,The Kitchen Inc,11,0,0,3,3,5,8,72.7
+2018,14-MO-229,Phoenix Programs Inc.,Phoenix Programs Inc.,12,0,0,1,3,8,11,91.7
+2018,14-MS-231,Mississippi United to End Homelessness Inc.,Mississippi United to End Homelessness Inc.,8,0,1,1,2,4,6,75.0
+2018,14-MS-232,Hancock Resource Center (HRC),Hancock Resource Center (HRC),10,2,1,3,2,2,4,40.0
+2018,14-MS-233,Soldier On of Delaware Inc.,Soldier On of Delaware Inc.,30,4,3,4,6,13,19,63.3
+2018,14-MS-234,Catholic Charities Inc.  (Diocese of Jackson),Catholic Charities Inc  (Diocese of Jackson),9,0,0,2,2,5,7,77.8
+2018,14-NC-236,Community Link Programs of Travelers Aid Society of Central Carolinas Inc.,Community Link Programs of Travelers Aid Society of Central Carolinas Inc.,40,10,1,8,4,17,21,52.5
+2018,14-NE-238,Northeast Nebraska Community Action Partnership,Northeast Nebraska Community Action Partnership,11,1,0,1,2,7,9,81.8
+2018,14-NH-240,Southwestern Community Services Inc.,Southwestern Community Services Inc.,8,0,0,0,5,3,8,100.0
+2018,14-NJ-242,Catholic Family and Community Service,Catholic Family and Community Service,58,2,9,12,7,28,35,60.3
+2018,14-NM-246,New Mexico Veterans Integration Centers,New Mexico Veterans Integration Centers,15,3,0,3,5,4,9,60.0
+2018,14-NM-247,Mesilla Valley Community of Hope,Mesilla Valley Community of Hope,7,0,0,1,2,4,6,85.7
+2018,14-NY-249,Utica Center for Development Inc.,Utica Center for Development Inc.,5,0,0,4,0,1,1,20.0
+2018,14-NY-250,The Jericho Project,The Jericho Project,44,3,2,10,7,22,29,65.9
+2018,14-NY-251,Veterans and Community Housing Coalition,Veterans and Community Housing Coalition ,37,0,0,3,5,29,34,91.9
+2018,14-NY-253,Pathstone Corporation,Pathstone Corporation,4,0,1,0,1,2,3,75.0
+2018,14-NY-254,Economic Opportunity Council of Suffolk Inc.,Economic Opportunity Council of Suffolk Inc,38,1,4,5,4,24,28,73.7
+2018,14-NY-256,Albany Housing Coalition Inc.,Albany Housing Coalition Inc,26,1,0,6,4,15,19,73.1
+2018,14-NY-259,Volunteers of America-Greater New York Inc.,Volunteers of America-Greater New York Inc,17,2,0,3,6,6,12,70.6
+2018,14-OH-260,St. Vincent de Paul Social Services Inc.,St. Vincent de Paul Social Services Inc.,2,2,0,0,0,0,0,0.0
+2018,14-OH-261,Licking County Coalition for Housing,Licking County Coalition for Housing,12,0,2,2,2,6,8,66.7
+2018,14-OH-262,Family & Community Services Inc.,Family & Community Services Inc,32,0,2,1,5,24,29,90.6
+2018,14-OH-264,Community Action Agency of Columbiana County Inc.,Community Action Agency of Columbiana County Inc,3,0,0,1,0,2,2,66.7
+2018,14-OH-265,Community Action Program Corporation of Washington-Morgan Counties Ohio,Community Action Program Corporation of Washington-Morgan Counties Ohio,22,0,0,0,4,18,22,100.0
+2018,14-OH-266,Faith Mission Inc.,Faith Mission Inc.,17,1,0,2,4,10,14,82.4
+2018,14-OH-267,Community Support Services Inc.,Community Support Services Inc,9,0,0,1,4,4,8,88.9
+2018,14-OH-268,The Salvation Army a New York Corporation,The Salvation Army a New York Corporation,12,0,0,1,1,10,11,91.7
+2018,14-OH-269,Volunteers of America of Greater Ohio,Volunteers of America of Greater Ohio,15,0,3,4,3,5,8,53.3
+2018,14-OK-270,KI BOIS Community Action Foundation Inc.,KI BOIS Community Action Foundation Inc,71,1,2,4,9,55,64,90.1
+2018,14-OK-271,Goodwill Industries of Central Oklahoma Inc.,Goodwill Industries of Central Oklahoma Inc,40,2,3,3,5,27,32,80.0
+2018,14-OR-272,Easter Seals Oregon,Easter Seals Oregon,14,1,0,0,4,9,13,92.9
+2018,14-PA-273,YWCA of Greater Harrisburg,YWCA of Greater Harrisburg,12,1,2,4,0,5,5,41.7
+2018,14-PA-274,Utility Emergency Services Fund,Utility Emergency Services Fund,52,0,7,16,12,17,29,55.8
+2018,14-PA-276,Community Action Agency of Delaware County Inc.,Community Action Agency of Delaware County Inc.,21,0,1,6,3,11,14,66.7
+2018,14-PA-277,Lawrence County Social Services Inc.,Lawrence County Social Services Inc.,50,2,0,9,13,26,39,78.0
+2018,14-PA-279,Community Hope Inc.,Community Hope Inc.,63,3,1,6,19,34,53,84.1
+2018,14-PA-280,Soldier On of Delaware Inc.,Soldier On of Delaware Inc.,15,2,1,3,3,6,9,60.0
+2018,14-PA-281,Catholic Charities of the Diocese of Allentown,Catholic Charities of the Diocese of Allentown,12,0,1,2,3,6,9,75.0
+2018,14-PA-282,Volunteers of America of Pennsylvania Inc.,Volunteers of America of Pennsylvania Inc.,15,1,2,4,0,8,8,53.3
+2018,14-TN-283,Memphis Area Legal Services Inc.,Memphis Area Legal Services Inc.,7,0,2,0,1,4,5,71.4
+2018,14-TN-284,Volunteer Behavioral Health Care System,Volunteer Behavioral Health Care System,6,2,0,0,1,3,4,66.7
+2018,14-TN-285,Operation Stand Down Tennessee,Operation Stand Down Tennessee,25,2,2,4,6,11,17,68.0
+2018,14-TN-287,Catholic Charities Inc. (dba Catholic Charities of the Diocese of Memphis Inc.),Catholic Charities Inc (dba Catholic Charities of the Diocese of Memphis Inc),22,2,1,2,2,15,17,77.3
+2018,14-TX-288,United States Veterans Initiative,United States Veterans Initiative,19,0,1,3,3,12,15,78.9
+2018,14-TX-290,Neighborhood Centers Inc.,Neighborhood Centers Inc.,80,4,10,18,19,29,48,60.0
+2018,14-TX-292,American GI Forum National Veterans Outreach Program Inc.,American GI Forum National Veterans Outreach Program Inc.,2,0,0,0,1,1,2,100.0
+2018,14-TX-293,Sabine Valley Regional Mental Health Mental Retardation Center,Sabine Valley Regional Mental Health Mental Retardation Center,12,0,0,3,3,6,9,75.0
+2018,14-VA-294,Total Action Against Poverty In Roanoke Valley,Total Action Against Poverty In Roanoke Valley,24,2,2,5,4,11,15,62.5
+2018,14-VA-296,Hampton Roads Community Action Program Inc.,Hampton Roads Community Action Program Inc.,14,1,0,3,0,10,10,71.4
+2018,14-VA-297,Virginia Beach Community Development Corporation,Virginia Beach Community Development Corporation,12,0,2,2,5,3,8,66.7
+2018,14-VA-298,STOP Incorporated,STOP Incorporated,17,1,2,6,3,5,8,47.1
+2018,14-VI-299,The Methodist Training and Outreach Center Inc.,The Methodist Training and Outreach Center Inc.,5,0,0,2,2,1,3,60.0
+2018,14-WI-302,Indianhead Community Action Agency,Indianhead Community Action Agency,7,0,1,0,3,3,6,85.7
+2018,14-WV-303,The Greater Wheeling Coalition for the Homeless Inc.,The Greater Wheeling Coalition for the Homeless Inc.,4,0,1,0,1,2,3,75.0
+2018,14-WV-304,Helping Heroes Inc.,Helping Heroes Inc.,11,1,0,1,2,7,9,81.8
+2018,14-WV-305,WVCAP,West Virginia Community Action Partnerships Inc,76,3,5,15,10,43,53,69.7
+2018,14-ZZ-153,United Way of Central Alabama,United Way of Central Alabama,35,2,3,7,9,14,23,65.7
+2018,14-ZZ-260,St. Vincent de Paul Social Services Inc.,St. Vincent de Paul Social Services Inc.,31,1,0,3,8,19,27,87.1
+2018,14-ZZ-301,Goodwill Industries of The Inland Northwest,Goodwill Industries of The Inland Northwest,42,2,3,7,9,21,30,71.4
+2018,14-ZZ-313,Housing Counseling Services Inc.,Housing Counseling Services Inc,28,3,1,5,6,13,19,67.9
+2018,14-ZZ-314,United States Veterans Initiative,United States Veterans Initiative,20,2,3,3,2,10,12,60.0
+2018,14-ZZ-317,Homeless Veterans Fellowship,Homeless Veterans Fellowship,17,0,1,0,4,12,16,94.1
+2018,14-ZZ-318,Operation Renewed Hope,Operation Renewed Hope,14,3,0,2,2,7,9,64.3
+2018,15-GA-325,Volunteers of America Southeast Inc.,Volunteers of America Southeast Inc,34,1,2,13,8,10,18,52.9
+2018,15-GU-326,WestCare Pacific Islands Inc.,WestCare Pacific Islands Inc,22,0,0,1,3,18,21,95.5
+2018,15-IA-192,Hawkeye Area Community Action Program Inc.,Hawkeye Area Community Action Program Inc,18,0,0,5,5,8,13,72.2
+2018,15-IN-201,Volunteers of America of Indiana Inc.,Volunteers of America of Indiana Inc,42,2,5,7,8,20,28,66.7
+2018,15-MI-328,Alger Marquette Community Action Board,Alger Marquette Community Action Board,6,0,0,2,2,2,4,66.7
+2018,15-MO-330,Catholic Charities of Southern Missouri Inc.,Catholic Charities of Southern Missouri Inc,23,1,2,1,4,15,19,82.6
+2018,15-OH-333,Lutheran Social Services of Central Ohio,Lutheran Social Services of Central Ohio,11,1,0,2,4,4,8,72.7
+2018,15-PA-068,Commission on Economic Opportunity,Commission on Economic Opportunity,34,0,0,1,6,27,33,97.1
+2018,15-PA-334,Veterans Multi-Service Center Inc.,Veterans Multi-Service Center Inc.,24,0,1,2,3,18,21,87.5
+2018,15-TX-141,West Central Texas Regional Foundation,West Central Texas Regional Foundation,44,7,1,9,13,14,27,61.4
+2018,15-UT-336,The Road Home,The Road Home,17,0,0,3,7,7,14,82.4
+2018,15-WA-338,HopeSource,HopeSource,32,0,6,5,7,14,21,65.6
+2018,15-ZZ-127,Transition Projects Inc.,Transition Projects Inc.,20,1,3,4,1,11,12,60.0
+2018,15-ZZ-340,Chautauqua Opportunities Inc.,Chautauqua Opportunities Inc.,73,0,5,6,17,45,62,84.9
+2018,16-CA-005,Mental Health America of Los Angeles,Mental Health America of Los Angeles,26,1,1,4,8,12,20,76.9
+2018,16-CA-009,Vietnam Veterans of California Inc. (Sacramento Veterans Resource),Vietnam Veterans of California Inc. (Sacramento Veterans Resource),1,0,0,0,0,1,1,100.0
+2018,16-MO-048,St. Patrick Center,St Patrick Center,112,4,2,11,18,77,95,84.8
+2018,16-NJ-054,Community Hope Inc.,Community Hope Inc,57,1,1,8,12,35,47,82.5
+2018,16-TX-074,Family Endeavors Inc.,Family Endeavors Inc.,1,0,0,0,0,1,1,100.0
+2018,16-ZZ-036,Salvation Army an Illinois Corporation,Salvation Army an Illinois Corporation,1,0,0,1,0,0,0,0.0
+2018,16-ZZ-037,Volunteers of America Mid-States Inc.,Volunteers of America Mid-States Inc,110,5,8,22,18,57,75,68.2
+2018,16-ZZ-058,Soldier On Inc.,Soldier On Inc,62,4,5,22,10,21,31,50.0
+2018,16-ZZ-278,Veterans Multi-Service Center Inc.,Veterans Multi-Service Center Inc.,69,4,5,12,23,25,48,69.6
+2018,17-NE-052,Central Nebraska Community Services Inc.,Central Nebraska Community Services Inc.,9,0,0,1,6,2,8,88.9
+2018,18-AR-086,St. Francis House Inc.,St. Francis House Inc.,38,3,1,6,9,19,28,73.7
+2018,18-AZ-436,Community Bridges Inc.,Community Bridges Inc.,54,1,1,6,11,35,46,85.2
+2018,18-CA-006,Volunteers of America of Los Angeles Inc.,Volunteers of America of Los Angeles Inc,61,5,6,9,18,23,41,67.2
+2018,18-CA-008,United States Veterans Initiative,United States Veterans Initiative,31,5,2,5,2,17,19,61.3
+2018,18-CA-009,Vietnam Veterans of California Inc. (Sacramento Veterans Resource),Vietnam Veterans of California Inc. (Sacramento Veterans Resource),44,1,4,7,11,21,32,72.7
+2018,18-CA-011,WestCare California Inc.,WestCare California Inc,92,6,3,13,19,51,70,76.1
+2018,18-CA-019,Community Catalysts of California,Community Catalysts of California,64,19,5,10,12,18,30,46.9
+2018,18-CA-091,Swords To Plowshares Veterans Rights Organization,Swords To Plowshares Veterans Rights Organization,75,3,1,16,20,35,55,73.3
+2018,18-CA-171,Lighthouse Treatment Center,Lighthouse Treatment Center,29,0,3,5,7,14,21,72.4
+2018,18-CA-173,Vietnam Veterans of San Diego,Vietnam Veterans of San Diego,72,7,6,14,12,33,45,62.5
+2018,18-CA-176,Volunteers of America of Los Angeles Inc.,Volunteers of America of Los Angeles Inc.,50,8,0,10,12,20,32,64.0
+2018,18-CA-344,Homefirst Services Of Santa Clara County,Homefirst Services Of Santa Clara County,13,0,2,2,0,9,9,69.2
+2018,18-CA-354,United States Veterans Initiative,United States Veterans Initiative,10,1,2,3,2,2,4,40.0
+2018,18-CA-358,Community Action Partnership of San Luis Obispo County Inc.,Community Action Partnership of San Luis Obispo County Inc,11,1,1,0,2,7,9,81.8
+2018,18-CA-359,Good Samaritan Shelter,Good Samaritan Shelter,10,1,0,0,3,6,9,90.0
+2018,18-CA-412,Sunnyvale Community Services,Sunnyvale Community Services,1,0,0,0,0,1,1,100.0
+2018,18-CA-414,Vietnam Veterans of California Inc. (Sacramento Veterans Resource),Vietnam Veterans of California Inc. (Sacramento Veterans Resource),5,1,0,0,1,3,4,80.0
+2018,18-CA-419,The Salvation Army a California Corporation,The Salvation Army a California Corporation,28,3,3,2,7,13,20,71.4
+2018,18-CA-420,Volunteers of America Southwest California Inc.,Volunteers of America Southwest California Inc,13,5,0,3,3,2,5,38.5
+2018,18-CA-437,Berkeley Food and Housing Project,Berkeley Food and Housing Project,31,0,0,5,2,24,26,83.9
+2018,18-CO-360,Volunteers of America Colorado Branch Inc.,Volunteers of America Colorado Branch Inc.,24,4,3,2,5,10,15,62.5
+2018,18-CO-439,Volunteers of America Colorado Branch Inc.,Volunteers of America Colorado Branch Inc.,9,2,1,2,2,2,4,44.4
+2018,18-FL-023,Homeless Services Network of Central Florida Inc.,Homeless Services Network of Central Florida Inc,82,10,8,7,10,47,57,69.5
+2018,18-FL-099,Society of St. Vincent de Paul South Pinellas Inc.,Society of St. Vincent de Paul South Pinellas Inc.,149,9,10,21,32,77,109,73.2
+2018,18-FL-187,Volunteers of America of Florida Inc.,Volunteers of America of Florida Inc,75,3,3,10,13,46,59,78.7
+2018,18-FL-362,Tampa Crossroads Inc.,Tampa Crossroads Inc,76,4,1,8,14,49,63,82.9
+2018,18-FL-364,The Salvation Army a Georgia Corporation,The Salvation Army a Georgia Corporation,4,0,0,1,1,2,3,75.0
+2018,18-FL-368,Purpose Built Families Foundation,Purpose Built Families Foundation,110,10,5,17,25,53,78,70.9
+2018,18-GA-369,Project Community Connections Inc.,Project Community Connections Inc.,20,4,2,2,5,7,12,60.0
+2018,18-GA-370,Travelers Aid of Metropolitan Atlanta Inc.,Travelers Aid of Metropolitan Atlanta Inc.,19,4,2,3,5,5,10,52.6
+2018,18-GA-438,Northwest Florida Comprehensive Services For Children Inc,Northwest Florida Comprehensive Services For Children Inc,32,1,1,7,7,16,23,71.9
+2018,18-HI-190,United States Veterans Initiative,United States Veterans Initiative,58,4,2,8,12,32,44,75.9
+2018,18-HI-374,Catholic Charities Hawaii,Catholic Charities Hawaii,13,0,2,3,1,7,8,61.5
+2018,18-KY-379,Volunteers of America Mid-States Inc.,Volunteers of America Mid-States Inc,30,1,3,5,4,17,21,70.0
+2018,18-MI-383,Volunteers of America Michigan Inc.,Volunteers of America Michigan Inc,19,0,1,5,5,8,13,68.4
+2018,18-MN-046,Minnesota Assistance Council for Veterans,Minnesota Assistance Council for Veterans,26,0,0,6,5,15,20,76.9
+2018,18-NC-235,Family Endeavors Inc.,Family Endeavors Inc.,111,12,7,23,25,44,69,62.2
+2018,18-NC-237,Volunteers of America of the Carolinas Inc.,Volunteers of America of the Carolinas Inc.,92,2,6,12,16,56,72,78.3
+2018,18-NC-387,Homeward Bound of Western North Carolina Inc.,Homeward Bound of Western North Carolina Inc,18,0,1,3,3,11,14,77.8
+2018,18-NE-239,Blue Valley Community Action Inc.,Blue Valley Community Action Inc.,16,1,0,2,4,9,13,81.3
+2018,18-NY-062,Services for the UnderServed Inc.,Services for the UnderServed Inc.,61,8,2,8,14,29,43,70.5
+2018,18-OH-263,Talbert House Inc.,Talbert House Inc.,18,0,3,1,6,8,14,77.8
+2018,18-OH-396,Volunteers of America of Greater Ohio,Volunteers of America of Greater Ohio,24,1,2,6,4,11,15,62.5
+2018,18-OH-397,Volunteers of America of Greater Ohio,Volunteers of America of Greater Ohio,21,3,0,4,4,10,14,66.7
+2018,18-OR-066,St. Vincent de Paul Society of Lane County Inc.,St Vincent de Paul Society of Lane County Inc,34,2,4,2,7,19,26,76.5
+2018,18-OR-399,Transition Projects Inc.,Transition Projects Inc.,20,1,0,3,3,13,16,80.0
+2018,18-OR-430,Community Action Partnership of Oregon,Community Action Partnership of Oregon,22,1,0,3,3,15,18,81.8
+2018,18-PR-132,Casa del Peregrino Aguadilla Inc.,Casa del Peregrino Aguadilla Inc.,16,1,0,8,5,2,7,43.8
+2018,18-SC-069,One-Eighty Place,One-Eighty Place ,44,6,3,8,7,20,27,61.4
+2018,18-SC-402,Eastern Carolina Homelessness Organization Inc.,Eastern Carolina Homelessness Organization Inc.,22,0,2,3,10,7,17,77.3
+2018,18-TN-403,Centerstone of Tennessee Inc.,Centerstone of Tennessee Inc.,42,1,0,3,8,30,38,90.5
+2018,18-TX-074,Family Endeavors Inc.,Family Endeavors Inc,174,11,10,31,40,82,122,70.1
+2018,18-TX-292,American GI Forum National Veterans Outreach Program Inc.,American GI Forum National Veterans Outreach Program Inc,116,11,11,27,19,48,67,57.8
+2018,18-TX-404,Front Steps Inc.,Front Steps Inc.,15,2,0,3,4,6,10,66.7
+2018,18-TX-433,Lubbock Mental Health and Retardation Center (dba Starcare),Lubbock Mental Health and Retardation Center (dba Starcare),27,0,1,1,3,22,25,92.6
+2018,18-WA-078,Community Psychiatric Clinic Inc.,Community Psychiatric Clinic Inc.,32,0,1,5,5,21,26,81.3
+2018,18-WA-146,Catholic Community Services of Western Washington,Catholic Community Services of Western Washington,23,0,2,9,4,8,12,52.2
+2018,18-WA-300,Metropolitan Development Council,Metropolitan Development Council,34,1,3,6,8,16,24,70.6
+2018,18-WA-408,Goodwill Industries of The Inland Northwest,Goodwill Industries of The Inland Northwest,28,1,1,6,2,18,20,71.4
+2018,18-WI-080,Center For Veterans Issues Limited,Center For Veterans Issues Limited,61,6,2,6,14,33,47,77.0
+2018,18-WI-411,Center For Veterans Issues Limited,Center For Veterans Issues Limited,18,2,2,1,6,7,13,72.2
+2018,18-ZZ-020,Rocky Mountain Human Services (dba Denver Options Inc.),Rocky Mountain Human Services (dba Denver Options Inc.),117,17,8,30,30,32,62,53.0
+2018,18-ZZ-034,Volunteers of America of Illinois,Volunteers of America of Illinois,23,1,2,5,6,9,15,65.2
+2018,18-ZZ-036,The Salvation Army an Illinois Corporation,The Salvation Army an Illinois Corporation,55,5,5,7,10,28,38,69.1
+2018,18-ZZ-094,Friendship Place,Friendship Place,38,3,5,8,9,13,22,57.9
+2018,18-ZZ-113,Volunteers of America Northern Rockies,Volunteers of America Northern Rockies,244,8,6,14,38,178,216,88.5
+2018,18-ZZ-324,Changing Homelessness Inc.,Changing Homelessness Inc.,99,5,7,22,14,51,65,65.7
+2018,18-ZZ-386,Restart Inc,Restart Inc,44,2,3,2,10,27,37,84.1
+2018,C15-CA-506A,Housing Resource Center of Monterey County,Housing Resource Center of Monterey County,4,0,0,1,0,3,3,75.0
+2018,C15-CA-604A,California Veterans Assistance Foundation Inc.,California Veterans Assistance Foundation Inc.,15,1,0,1,1,12,13,86.7
+2018,C15-CA-608A,United States Veterans Initiative,United States Veterans Initiative,3,0,0,0,1,2,3,100.0
+2018,C15-CA-609A,United States Veterans Initiative,United States Veterans Initiative,1,0,0,1,0,0,0,0.0
+2018,C15-FL-507A,Homeless Services Network of Central Florida Inc,Homeless Services Network of Central Florida Inc,1,0,0,1,0,0,0,0.0
+2018,C15-GA-500B,Travelers Aid of Metropolitan Atlanta Inc.,Travelers Aid of Metropolitan Atlanta Inc.,1,0,1,0,0,0,0,0.0
+2018,C15-IL-511A,Catholic Charities of the Archdiocese of Chicago,Catholic Charities of the Archdiocese of Chicago,3,1,0,1,0,1,1,33.3
+2018,C15-MA-500A,Vietnam Veterans Workshop Inc.,Vietnam Veterans Workshop Inc.,19,2,3,3,5,6,11,57.9
+2018,C15-MA-506A,Veterans Inc.,Veterans Inc.,2,0,0,0,0,2,2,100.0
+2018,C15-NC-507A,Volunteers of America of the Carolinas Inc.,Volunteers of America of the Carolinas Inc.,60,4,2,6,8,40,48,80.0
+2018,C15-NC-511B,Family Endeavors Inc.,Family Endeavors Inc.,4,0,1,1,2,0,2,50.0
+2018,C15-NV-500B,United States Veterans Initiative,United States Veterans Initiative,5,0,0,0,0,5,5,100.0
+2018,C15-NY-600B,HELP Social Service Corporation,HELP Social Service Corporation,25,2,3,5,8,7,15,60.0
+2018,C15-OH-500A,Ohio Valley Goodwill Industries Rehabilitation Center Inc.,Ohio Valley Goodwill Industries Rehabilitation Center Inc.,3,1,0,0,1,1,2,66.7
+2018,C15-OH-500B,Talbert House Inc.,Talbert House Inc.,12,0,2,2,4,4,8,66.7
+2018,C15-OR-500A,St. Vincent de Paul Society of Lane County Inc.,St. Vincent de Paul Society of Lane County Inc.,1,0,0,1,0,0,0,0.0
+2018,C15-PA-500A,Impact Services Corporation,Impact Services Corporation,1,0,0,0,0,1,1,100.0
+2018,C15-TN-504A,Centerstone of Tennessee Inc.,Centerstone of Tennessee Inc.,1,0,0,0,0,1,1,100.0
+2018,C15-TX-601A,Family Endeavors Inc.,Family Endeavors Inc.,1,1,0,0,0,0,0,0.0
+2018,C15-WA-500A,Community Psychiatric Clinic,Community Psychiatric Clinic,2,0,0,0,0,2,2,100.0
+2018,C15-WA-502A,Goodwill Industries of the Inland Northwest,Goodwill Industries of the Inland Northwest,1,0,0,0,0,1,1,100.0
+2018,C15-WI-501A,Center for Veterans Issues Ltd.,Center for Veterans Issues Ltd.,1,0,0,0,0,1,1,100.0
+2018,C2015-CA-500B,Sunnyvale Community Services,Sunnyvale Community Services,1,0,0,0,0,1,1,100.0
+2018,C2015-CA-600A,Volunteers of America of Los Angeles Inc.,Volunteers of America of Los Angeles Inc.,1,0,1,0,0,0,0,0.0
+2018,C2015-CA-600C,People Assisting the Homeless (PATH),People Assisting the Homeless (PATH),11,1,0,3,1,6,7,63.6
+2018,C2015-CA-600E,Mental Health America of Los Angeles,Mental Health America of Los Angeles,25,2,1,5,5,12,17,68.0
+2018,C2015-MT-500B,Volunteers of America Northern Rockies,Volunteers of America Northern Rockies,4,1,0,0,1,2,3,75.0
+2018,C2015-NV-500D,HELP Social Service Corporation,HELP Social Service Corporation,26,5,3,6,4,8,12,46.2
+2018,C2015-NV-500E,United States Veterans Initiative (dba U.S. VETS - Las Vegas),United States Veterans Initiative (dba U.S. VETS - Las Vegas),10,3,0,0,2,5,7,70.0
+2018,C2015-OR-502B,Access,Access,29,1,1,3,4,20,24,82.8
+2018,C2015-TX-607B,Volunteers of America Texas,Volunteers of America Texas,7,2,1,0,1,3,4,57.1
+2018,C2015-TX-607H,Family Endeavors Inc.,Family Endeavors Inc.,1,0,0,0,0,1,1,100.0
+2018,C2015-WA-501E,Metropolitan Development Council,Metropolitan Development Council,30,2,2,8,4,14,18,60.0
+2017,12-AK-001,Catholic Social Services,Catholic Social Services,11,0,0,0,5,6,11,100.0
+2017,12-AL-002,"Housing First, Inc.",Housing First Inc,5,0,0,1,1,3,4,80.0
+2017,12-AZ-003,United Methodist Outreach Ministries,United Methodist Outreach Ministries,6,0,0,0,1,5,6,100.0
+2017,12-AZ-004,Primavera Foundation,Primavera Foundation,9,0,1,1,3,4,7,77.8
+2017,12-CA-006,"Volunteers of America of Los Angeles, Inc.","Volunteers of America of Los Angeles, Inc.",26,0,1,2,1,22,23,88.5
+2017,12-CA-007,"New Directions, Inc.",New Directions Inc.,11,1,1,2,3,4,7,63.6
+2017,12-CA-010,Emergency Housing Consortium of Santa Clara County,Homefirst Services Of Santa Clara County,7,3,0,0,3,1,4,57.1
+2017,12-CA-011,"WestCare California, Inc.",WestCare California Inc.,30,0,0,2,6,22,28,93.3
+2017,12-CA-013,Goodwill Industries of Santa Clara County,Goodwill of Silicon Valley (dba Goodwill Industries of Santa Clara County),21,0,0,1,3,17,20,95.2
+2017,12-CA-014,PATH (People Assisting the Homeless),People Assisting The Homeless,10,0,1,1,3,5,8,80.0
+2017,12-CA-015,InnVision Shelter Network (formerly Shelter Network of San Mateo),Lifemoves,11,1,1,1,3,5,8,72.7
+2017,12-CA-016,"Shelter, Inc. of Contra Costa County",Shelter Inc of Contra Costa County,8,1,0,1,2,4,6,75.0
+2017,12-CA-017,"Salvation Army, a California Corporation",The Salvation Army a California Corporation,12,1,2,3,3,3,6,50.0
+2017,12-CA-018,"Volunteers of America of Greater Sacramento and Northern Nevada, Inc.",Volunteers of America of Greater Sacramento and Northern Nevada Inc,13,0,0,2,2,9,11,84.6
+2017,12-CA-019,Community Catalysts of California,Community Catalysts of California,22,3,0,5,6,8,14,63.6
+2017,12-CT-021,"Community Renewal Team, Inc.",Community Renewal Team Inc,8,0,2,3,0,3,3,37.5
+2017,12-FL-023,"Homeless Services Network of Central Florida, Inc.","Homeless Services Network of Central Florida, Inc.",7,1,0,2,0,4,4,57.1
+2017,12-FL-024,"Advocate Program, Inc.",Advocate Program Inc,32,1,0,5,4,22,26,81.3
+2017,12-FL-025,"Carrfour Supportive Housing, Inc.",Purpose Built Families Foundation,102,4,4,11,20,63,83,81.4
+2017,12-FL-028,"Jewish Family & Childrens Service of Sarasota-Manatee, Inc.",Jewish Family & Childrens Service Of The Suncoast Inc,12,1,1,2,1,7,8,66.7
+2017,12-GA-029,"Central Savannah River Area Economic Opportunity Authority, Inc. (CSRA EOA)",Central Savannah River Area Economic Opportunity Authority Inc (CSRA EOA),6,0,0,1,1,4,5,83.3
+2017,12-ID-032,"El-Ada, Inc.",El-Ada Inc,5,0,0,0,3,2,5,100.0
+2017,12-IL-033,Thresholds,Thresholds,11,0,0,0,3,8,11,100.0
+2017,12-IL-034,Volunteers of America of Illinois,Volunteers of America of Illinois,3,0,0,1,1,1,2,66.7
+2017,12-IN-035,"United Way of Central Indiana, Inc.",United Way of Central Indiana Inc.,23,0,0,3,2,18,20,87.0
+2017,12-LA-038,Volunteers of America of Greater New Orleans,Volunteers of America of Greater New Orleans,15,0,0,1,3,11,14,93.3
+2017,12-LA-039,"Wellspring Alliance for Families, Inc.",Wellspring Alliance for Families Inc.,9,0,1,3,2,3,5,55.6
+2017,12-MA-040,"Volunteers of America of Massachusetts, Inc.",Volunteers of America of Massachusetts Inc,12,2,1,0,4,5,9,75.0
+2017,12-MD-042,"Alliance, Inc.",Alliance Inc,33,2,3,6,7,15,22,66.7
+2017,12-ME-043,Preble Street,Preble Street,14,0,0,2,4,8,12,85.7
+2017,12-MI-044,Wayne Metropolitan Community Action Agency,Wayne Metropolitan Community Action Agency,4,0,2,1,1,0,1,25.0
+2017,12-MI-045,Southwest Counseling Solutions,Southwest Counseling Solutions,7,0,3,0,1,3,4,57.1
+2017,12-MN-046,Minnesota Assistance Council for Veterans,Minnesota Assistance Council for Veterans,24,3,0,4,4,13,17,70.8
+2017,12-NC-049,"United Way of Forsyth County, Inc.",United Way of Forsyth County Inc.,10,0,0,1,2,7,9,90.0
+2017,12-NC-050,Passage Home Inc.,Passage Home Inc,5,0,1,0,2,2,4,80.0
+2017,12-ND-051,North Dakota Coalition of Homeless People Inc.,Community Action Partnership of North Dakota,5,0,0,0,2,3,5,100.0
+2017,12-NJ-053,"Catholic Charities Dioceses of Camden, Inc.",Catholic Charities Dioceses of Camden Inc,15,1,1,1,1,11,12,80.0
+2017,12-NM-055,Goodwill Industries of New Mexico,Goodwill Industries of New Mexico,31,3,0,3,7,18,25,80.6
+2017,12-NY-060,HELP Social Service Corporation,HELP Social Service Corporation,12,0,1,0,2,9,11,91.7
+2017,12-NY-061,"Samaritan Village, Inc.",Samaritan Daytop Village Inc.,18,0,1,3,3,11,14,77.8
+2017,12-NY-063,"Westchester Community Opportunity Program, Inc. (WestCOP)",Westchester Community Opportunity Program Inc. (WestCOP),17,1,0,2,3,11,14,82.4
+2017,12-OH-064,FrontLine,Mental Health Services for Homeless Persons Inc  dba  FrontLine Service ,22,4,1,4,5,8,13,59.1
+2017,12-OK-065,"Community Service Council of Greater Tulsa, Inc.",Community Service Council of Greater Tulsa Inc.,24,2,3,2,7,10,17,70.8
+2017,12-OR-066,"St. Vincent de Paul Society of Lane County, Inc.",St. Vincent de Paul Society of Lane County Inc.,7,0,0,0,1,6,7,100.0
+2017,12-PA-067,Project H.O.M.E.,Project H.O.M.E.,37,2,1,4,8,22,30,81.1
+2017,12-SC-069,One-Eighty Place (formerly Crisis Ministries),One-Eighty Place (formerly Crisis Ministries),15,1,2,1,6,5,11,73.3
+2017,12-TX-071,"Families in Crisis, Inc.",Families in Crisis Inc,12,1,0,0,2,9,11,91.7
+2017,12-TX-072,Caritas of Austin,Caritas of Austin,4,0,0,2,1,1,2,50.0
+2017,12-TX-075,"Catholic Charities Diocese of Fort Worth, Inc.",Catholic Charities Diocese of Fort Worth Inc.,22,2,0,4,6,10,16,72.7
+2017,12-TX-076,"Career and Recovery Resources, Inc.",Career And Recovery Resources Inc,23,0,1,4,6,12,18,78.3
+2017,12-VA-077,Virginia Supportive Housing,Virginia Supportive Housing,8,1,0,1,1,5,6,75.0
+2017,12-WA-078,Community Psychiatric Clinic,Community Psychiatric Clinic,12,0,0,1,3,8,11,91.7
+2017,12-WA-079,Opportunity Council,Opportunity Council,8,0,0,0,0,8,8,100.0
+2017,12-WI-080,Center for Veterans Issues Limited,Center for Veterans Issues Ltd.,21,1,2,4,2,12,14,66.7
+2017,12-ZZ-020,"Rocky Mountain Human Services (dba Denver Options, Inc.)","Rocky Mountain Human Services (dba Denver Options, Inc.)",29,2,2,8,6,11,17,58.6
+2017,12-ZZ-026,"Northwest Florida Comprehensive Services for Children, Inc.",Northwest Florida Comprehensive Services For Children Inc,26,0,2,2,6,16,22,84.6
+2017,12-ZZ-031,"Humility of Mary Shelter, Inc.",Humility of Mary Shelter Inc,11,0,2,3,2,4,6,54.5
+2017,12-ZZ-041,Veterans  Inc.,Veterans Inc,24,0,0,1,3,20,23,95.8
+2017,12-ZZ-070,Centerstone of Tennessee,Centerstone of Tennessee Inc.,22,0,0,0,2,20,22,100.0
+2017,13-AR-086,"St. Francis House, Inc.","St. Francis House, Inc.",13,0,2,0,4,7,11,84.6
+2017,13-AZ-087,American National Red Cross Southern Arizona Chapter,American National Red Cross Southern Arizona Chapter,39,2,1,1,7,28,35,89.7
+2017,13-CA-090,"California Veterans Assistance Foundation, Inc.",California Veterans Assistance Foundation Inc,7,2,3,1,1,0,1,14.3
+2017,13-CT-093,"The Workplace, Inc.",The Workplace Inc,17,1,2,0,5,9,14,82.4
+2017,13-DE-095,"Connections Community Support Programs, Inc.",Connections Community Support Programs Inc.,13,0,2,1,2,8,10,76.9
+2017,13-FL-096,"Faith, Hope, Love, Charity, Inc.",Faith Hope Love Charity Inc,41,4,1,3,13,20,33,80.5
+2017,13-FL-098,Salvation Army a Georgia Corporation,Salvation Army a Georgia Corporation,3,0,0,0,2,1,3,100.0
+2017,13-GA-101,Action Ministries Inc.,Action Ministries Inc.,12,1,1,4,0,6,6,50.0
+2017,13-GA-102,"Decatur Cooperative Ministry, Inc.",Decatur Cooperative Ministry Inc.,23,1,1,4,4,13,17,73.9
+2017,13-IA-103,"Primary Health Care, Inc.",Primary Health Care Inc,9,1,0,2,2,4,6,66.7
+2017,13-IL-104,"Salvation Army, an Illinois Corporation",The Salvation Army an Illinois Corporation,30,2,1,6,6,15,21,70.0
+2017,13-IL-105,"Heartland Human Care Services, Inc.",Heartland Human Care Services Inc,11,2,0,1,3,5,8,72.7
+2017,13-IN-106,Community Action of Northeast Indiana,Community Action of Northeast Indiana Inc (dba Brightpoint) ,13,0,0,0,2,11,13,100.0
+2017,13-MD-107,"Three Oaks Homeless Shelter, Inc.",Three Oaks Homeless Shelter Inc,15,0,1,1,3,10,13,86.7
+2017,13-MI-108,Northwest Michigan Community Action Agency Inc.,Northwest Michigan Community Action Agency Inc,9,0,0,0,2,7,9,100.0
+2017,13-MO-047,"Welcome Home, Inc.",Welcome Home Inc.,5,0,0,0,1,4,5,100.0
+2017,13-MO-110,Catholic Charities of Kansas City - St Joseph  Inc.,Catholic Charities of Kansas City - St Joseph Inc,13,1,1,1,3,7,10,76.9
+2017,13-MS-111,Region XII Commission on Mental Health & Retardation (Pine Belt Mental Health),Region XII Commission on Mental Health & Retardation (dba Pine Belt Mental Health),17,0,2,3,2,10,12,70.6
+2017,13-NC-114,Asheville Buncombe Community Christian Ministry,Asheville-Buncombe Community Christian Ministry Inc.,8,1,0,0,1,6,7,87.5
+2017,13-NH-115,Harbor Homes Inc,Harbor Homes Inc,12,0,0,2,3,7,10,83.3
+2017,13-NV-056,U.S.VETS  Las Vegas,United States Veterans Initiative,29,1,4,8,6,10,16,55.2
+2017,13-NV-117,"Vietnam Veterans of California, Inc. (Sacramento Veterans Resource)",Vietnam Veterans of California Inc (Sacramento Veterans Resource),17,3,2,2,5,5,10,58.8
+2017,13-NV-118,"Salvation Army, a California Corporation",The Salvation Army a California Corporation,11,0,0,3,3,5,8,72.7
+2017,13-NY-119,Catholic Charities of the Roman Catholic Diocese of Syracuse NY,Catholic Charities of the Roman Catholic Diocese of Syracuse NY,8,0,0,1,2,5,7,87.5
+2017,13-NY-121,"Soldier On of Delaware, Inc.",Soldier On of Delaware Inc,10,1,1,2,2,4,6,60.0
+2017,13-NY-122,Hudson River Housing  Inc.,Hudson River Housing  Inc.,3,0,0,0,2,1,3,100.0
+2017,13-OH-123,"Ohio Valley Goodwill Industries Rehabilitation Center, Inc.","Ohio Valley Goodwill Industries Rehabilitation Center, Inc.",9,0,1,2,1,5,6,66.7
+2017,13-OH-124,Maumee Valley Guidance Center,Maumee Valley Guidance Center Inc.,4,0,0,0,1,3,4,100.0
+2017,13-OR-125,Community Action Team Inc.,Community Action Team Inc,9,0,0,0,3,6,9,100.0
+2017,13-OR-126,Central Oregon Veterans Outreach,Central Oregon Veterans Outreach,6,0,0,0,0,6,6,100.0
+2017,13-OR-128,Access,Access,1,0,0,0,0,1,1,100.0
+2017,13-PA-129,"Veterans Leadership Program of Western Pennsylvania, Inc.",Veterans Leadership Program of Western Pennsylvania Inc,29,0,3,1,6,19,25,86.2
+2017,13-PA-130,Opportunity House,Opportunity House,6,0,0,0,0,6,6,100.0
+2017,13-PA-131,"Lehigh Valley Center for Independent Living, Inc.",Lehigh Valley Center for Independent Living Inc.,4,0,0,0,2,2,4,100.0
+2017,13-PR-132,"Casa del Peregrino Aguadilla, Inc.","Casa del Peregrino Aguadilla, Inc.",13,1,0,4,2,6,8,61.5
+2017,13-SD-136,Cornerstone Rescue Mission,Cornerstone Rescue Mission,34,1,0,3,9,21,30,88.2
+2017,13-TN-139,"West Tennessee Legal Services, Inc.",West Tennessee Legal Services Inc.,6,1,0,0,0,5,5,83.3
+2017,13-TX-140,"Salvation Army, a Georgia Corporation",The Salvation Army,26,0,1,3,4,18,22,84.6
+2017,13-TX-142,"Goodwill Industries of Houston, Inc.",Goodwill Industries of Houston Inc.,35,4,5,7,2,17,19,54.3
+2017,13-VA-144,Volunteers of America Chesapeake,Volunteers of America Chesapeake,10,1,0,1,2,6,8,80.0
+2017,13-WA-146,Catholic Community Services of Western Washington,Catholic Community Services of Western Washington,10,1,0,2,4,3,7,70.0
+2017,13-WA-148,YWCA of Seattle - King County - Snohomish County,YWCA of Seattle - King County - Snohomish County,7,2,0,0,2,3,5,71.4
+2017,13-WI-150,"Veterans Assistance Foundation, Inc.","Veterans Assistance Foundation, Inc.",20,3,0,2,6,9,15,75.0
+2017,13-WI-151,"Community Action Coalition for South Central Wisconsin, Inc.",Community Action Coalition for South Central Wisconsin Inc.,14,0,1,1,2,10,12,85.7
+2017,13-ZZ-092,"Volunteers of America Colorado Branch, Inc.",Volunteers of America Colorado Branch Inc.,41,1,5,2,6,27,33,80.5
+2017,13-ZZ-094,Friendship Place,Friendship Place,9,0,1,2,2,4,6,66.7
+2017,13-ZZ-133,Operation Stand Down Rhode Island,Operation Stand Down Rhode Island,12,0,0,0,4,8,12,100.0
+2017,13-ZZ-134,"The Alston Wilkes Society (AWS, Alston Wilkes Veterans Home)",The Alston Wilkes Society (AWS Alston Wilkes Veterans Home),9,1,0,0,1,7,8,88.9
+2017,13-ZZ-145,University of Vermont and State Agricultural College,University of Vermont and State Agricultural College,20,0,1,3,4,12,16,80.0
+2017,13-ZZ-147,Blue Mountain Action Council,Blue Mountain Action Council,36,2,2,2,7,23,30,83.3
+2017,14-AL-154,"Aletheia House, Inc.","Aletheia House, Inc.",53,0,0,7,9,37,46,86.8
+2017,14-AL-155,"Family Endeavors, Inc.",Family Endeavors Inc.,75,9,5,14,18,29,47,62.7
+2017,14-AR-156,Seven Hills Homeless Center,Seven Hills Homeless Center,15,1,1,1,1,11,12,80.0
+2017,14-AZ-157,National Community Health Partners,National Community Health Partners,27,1,2,4,3,17,20,74.1
+2017,14-AZ-158,"Vietnam Veterans of California, Inc. (Sacramento Veterans Resource)",Vietnam Veterans of California Inc. (Sacramento Veterans Resource),37,1,3,4,8,21,29,78.4
+2017,14-AZ-159,United States Veterans Initiative,United States Veterans Initiative,48,1,0,3,12,32,44,91.7
+2017,14-AZ-160,"Catholic Charities Community Services, Inc.",Catholic Charities Community Services Inc,18,0,1,2,4,11,15,83.3
+2017,14-CA-161,Housing Resource Center of Monterey County,Housing Resource Center of Monterey County,2,0,0,0,0,2,2,100.0
+2017,14-CA-164,East Bay Community Recovery Project,East Bay Community Recovery Project,15,0,3,2,3,7,10,66.7
+2017,14-CA-167,East Oakland Community Project,East Oakland Community Project,19,4,3,2,1,9,10,52.6
+2017,14-CA-169,Families in Transition of Santa Cruz County Inc,Families in Transition of Santa Cruz County Inc,3,0,0,0,0,3,3,100.0
+2017,14-CA-170,"Knowledge, Education for Your Success, Inc.",Knowledge Education for Your Success Inc,13,1,1,2,0,9,9,69.2
+2017,14-CA-171,Lighthouse Treatment Center,Lighthouse Treatment Center,5,0,0,0,3,2,5,100.0
+2017,14-CA-173,Vietnam Veterans of San Diego,Vietnam Veterans of San Diego,13,1,1,0,4,7,11,84.6
+2017,14-CA-175,Berkeley Food and Housing Project,Berkeley Food and Housing Project,44,0,1,9,9,25,34,77.3
+2017,14-CA-176,Volunteers of America of Los Angeles Inc,Volunteers of America of Los Angeles Inc,16,3,0,2,3,8,11,68.8
+2017,14-CA-177,Catholic Charities of the Diocese of Stockton,Catholic Charities of the Diocese of Stockton,3,0,0,1,0,2,2,66.7
+2017,14-CA-324,1736 Family Crisis Center,1736 Family Crisis Center,26,2,3,7,4,10,14,53.8
+2017,14-CT-178,"Columbus House, Inc.",Columbus House Inc,21,1,1,1,5,13,18,85.7
+2017,14-FL-179,"Big Bend Homeless Coalition, Inc.",Big Bend Homeless Coalition Inc,12,0,0,0,3,9,12,100.0
+2017,14-FL-181,United Way of Broward County,United Way of Broward County,26,6,1,5,4,10,14,53.8
+2017,14-FL-182,Community Coalition on Homelessness Corporation,Community Coalition on Homelessness Corporation,5,1,0,1,0,3,3,60.0
+2017,14-FL-184,"Meridian Behavioral Healthcare, Inc.",Meridian Behavioral Healthcare Inc,19,1,0,2,3,13,16,84.2
+2017,14-FL-185,Family Endeavors,Family Endeavors Inc.,71,5,2,9,12,43,55,77.5
+2017,14-FL-187,"Volunteers of America of Florida, Inc.","Volunteers of America of Florida, Inc.",22,3,0,5,5,9,14,63.6
+2017,14-FL-322,"Treasure Coast Homeless Services Council, Inc.",Treasure Coast Homeless Services Council Inc,8,1,0,0,1,6,7,87.5
+2017,14-GA-188,"Travelers Aid of Metropolitan Atlanta, Inc.",Travelers Aid of Metropolitan Atlanta Inc.,21,0,1,5,4,11,15,71.4
+2017,14-GA-189,United Way of Metropolitan Atlanta,United Way of Greater Atlanta Inc,38,10,4,4,12,8,20,52.6
+2017,14-HI-190,United States Veterans Initiative (dba U.S. VETS),United States Veterans Initiative (dba U.S. VETS),13,1,0,1,2,9,11,84.6
+2017,14-IA-191,Family Alliance for Veterans of America,Family Alliance For Veterans of America Inc,6,0,1,0,1,4,5,83.3
+2017,14-ID-193,"South Central Community Action Partnership, Inc.",South Central Community Action Partnership Inc.,6,0,1,1,0,4,4,66.7
+2017,14-IL-194,"Featherfist, Inc.",Featherfist Inc,21,0,2,5,2,12,14,66.7
+2017,14-IL-195,"Partners in Community Building, Inc.",Partners in Community Building Inc.,4,0,0,2,0,2,2,50.0
+2017,14-IL-196,"Midwest Shelter for Homeless Veterans, Inc.",Midwest Shelter for Homeless Veterans Inc,20,1,2,0,7,10,17,85.0
+2017,14-IL-197,"Chestnut Health Systems, Inc.",Chestnut Health Systems Inc,19,1,1,2,0,15,15,78.9
+2017,14-IL-198,Catholic Charities of the Archdiocese of Chicago,Catholic Charities of the Archdiocese of Chicago,9,0,2,1,1,5,6,66.7
+2017,14-IN-199,"Lafayette Transitional Housing Center, Inc.",Lafayette Transitional Housing Center Inc,5,0,0,2,1,2,3,60.0
+2017,14-IN-200,"InteCare, Inc.",InteCare Inc,16,0,1,1,2,12,14,87.5
+2017,14-KS-322,"Catholic Charities, Inc. (Diocese of Wichita)",Catholic Charities Inc. (Diocese of Wichita),9,1,0,2,3,3,6,66.7
+2017,14-KY-204,"Kentucky River Foothills Development Council, Inc.",Kentucky River Foothills Development Council Inc.,22,0,0,1,6,15,21,95.5
+2017,14-LA-205,Hope Center Inc,Hope Center Inc.,13,4,0,1,5,3,8,61.5
+2017,14-LA-207,Elle Foundation,Elle Foundation,3,0,1,1,0,1,1,33.3
+2017,14-LA-208,Start Corporation,Start Corporation,4,0,0,0,2,2,4,100.0
+2017,14-MA-209,"Veterans Northeast Outreach Center, Inc.",Veterans Northeast Outreach Center Inc,23,1,1,4,2,15,17,73.9
+2017,14-MA-210,"Lynn Housing Authority Development Group, Inc.","Lynn Housing Authority Development Group, Inc.",6,0,0,2,2,2,4,66.7
+2017,14-MA-211,Vietnam Veterans Workshop Inc.,Vietnam Veterans Workshop Inc.,9,1,0,2,3,3,6,66.7
+2017,14-MA-211 ,Vietnam Veterans Workshop Inc.,Vietnam Veterans Workshop Inc.,1,0,0,0,1,0,1,100.0
+2017,14-MD-214,"Project PLASE, Inc.",Project PLASE Inc,26,4,2,3,7,10,17,65.4
+2017,14-MD-215,"New Vision House of Hope, Inc.",New Vision House of Hope Inc,26,1,4,3,7,11,18,69.2
+2017,14-MD-216,Diakonia Inc.,Diakonia Inc.,3,0,0,0,0,3,3,100.0
+2017,14-MD-217,St. James A.M.E. Zion Church-Zion House,St. James A.M.E. Zion Church-Zion House,6,0,0,1,2,3,5,83.3
+2017,14-MI-218,Bluewater Center for Independent Living,Blue Water Center For Independent Living Inc.,12,0,3,1,3,5,8,66.7
+2017,14-MI-219,"Training & Treatment Innovations, Inc.",Training & Treatment Innovations Inc.,23,0,0,4,3,16,19,82.6
+2017,14-MI-220,Community Action Agency,Community Action Agency,20,0,0,2,4,14,18,90.0
+2017,14-MI-221,Oakland Livingston Human Services Agency,Oakland Livingston Human Services Agency,12,2,0,0,2,8,10,83.3
+2017,14-MI-222,"Mid Michigan Community Action Agency, Inc.",Mid Michigan Community Action Agency Inc.,6,0,0,1,3,2,5,83.3
+2017,14-MI-223,Community Rebuilders,Community Rebuilders,12,1,0,3,2,6,8,66.7
+2017,14-MI-224,Housing Services for Eaton County,Housing Services for Eaton County,5,0,0,1,0,4,4,80.0
+2017,14-MI-226,Volunteers of America Michigan Inc.,Volunteers of America Michigan Inc.,23,0,1,1,3,18,21,91.3
+2017,14-MN-227,"Tri-County Action Program, Inc.",Tri-County Action Program Inc.,5,1,0,0,1,3,4,80.0
+2017,14-MO-228,"The Kitchen, Inc.",The Kitchen Inc,7,1,0,2,0,4,4,57.1
+2017,14-MO-229,"Phoenix Programs, Inc.",Phoenix Programs Inc.,4,0,0,1,2,1,3,75.0
+2017,14-MS-231,"Mississippi United to End Homelessness, Inc.",Mississippi United to End Homelessness Inc.,6,0,0,1,1,4,5,83.3
+2017,14-MS-232,Hancock Resource Center (HRC),Hancock Resource Center (HRC),8,1,0,1,1,5,6,75.0
+2017,14-MS-233,"Soldier On of Delaware, Inc.",Soldier On of Delaware Inc.,38,5,2,6,10,15,25,65.8
+2017,14-MS-234,Catholic Charities  Inc. (Diocese of Jackson),Catholic Charities Inc  (Diocese of Jackson),1,1,0,0,0,0,0,0.0
+2017,14-NC-235,Family Endeavors  Inc.,Family Endeavors  Inc.,28,3,4,11,2,8,10,35.7
+2017,14-NC-236,"Community Link Programs of Travelers Aid Society of Central Carolinas, Inc.",Community Link Programs of Travelers Aid Society of Central Carolinas Inc.,12,0,1,5,2,4,6,50.0
+2017,14-NE-238,Northeast Nebraska Community Action Partnership,Northeast Nebraska Community Action Partnership,4,0,0,0,2,2,4,100.0
+2017,14-NE-239,"Blue Valley Community Action, Inc.","Blue Valley Community Action, Inc.",6,0,0,1,2,3,5,83.3
+2017,14-NH-240,"Southwestern Community Services, Inc.",Southwestern Community Services Inc.,6,0,0,0,2,4,6,100.0
+2017,14-NJ-242,Catholic Family and Community Service,Catholic Family and Community Service,23,4,2,3,4,10,14,60.9
+2017,14-NJ-243,North Hudson Community Action Corporation,North Hudson Community Action Corporation,10,0,1,1,0,8,8,80.0
+2017,14-NM-246,New Mexico Veterans Integration Centers,New Mexico Veterans Integration Centers,22,3,0,1,5,13,18,81.8
+2017,14-NM-247,Mesilla Valley Community of Hope,Mesilla Valley Community of Hope,6,0,1,0,2,3,5,83.3
+2017,14-NV-248,HELP Social Service Corporation,HELP Social Service Corporation,9,0,1,1,2,5,7,77.8
+2017,14-NY-249,"Utica Center for Development, Inc.",Utica Center for Development Inc.,7,2,0,1,0,4,4,57.1
+2017,14-NY-250,The Jericho Project,The Jericho Project,24,1,0,6,4,13,17,70.8
+2017,14-NY-251,"Saratoga County Rural Preservation Company, Inc.",Veterans and Community Housing Coalition ,27,1,1,0,2,23,25,92.6
+2017,14-NY-254,"Economic Opportunity Council of Suffolk, Inc.",Economic Opportunity Council of Suffolk Inc,19,1,0,3,1,14,15,78.9
+2017,14-NY-256,Albany Housing Coalition Inc,Albany Housing Coalition Inc,10,0,0,1,1,8,9,90.0
+2017,14-NY-259,"Volunteers of America-Greater New York, Inc.",Volunteers of America-Greater New York Inc,14,0,0,3,2,9,11,78.6
+2017,14-OH-260,"St. Vincent de Paul Social Services, Inc.",St. Vincent de Paul Social Services Inc.,13,2,0,2,3,6,9,69.2
+2017,14-OH-261,Licking County Coalition for Housing,Licking County Coalition for Housing,5,0,0,0,1,4,5,100.0
+2017,14-OH-262,"Family & Community Services, Inc.",Family & Community Services Inc,15,0,1,0,1,13,14,93.3
+2017,14-OH-263,"Talbert House, Inc.","Talbert House, Inc.",10,2,1,0,3,4,7,70.0
+2017,14-OH-264,"Community Action Agency of Columbiana County, Inc.",Community Action Agency of Columbiana County Inc,3,0,0,0,1,2,3,100.0
+2017,14-OH-265,"Community Action Program Corporation of Washington-Morgan Counties, Ohio",Community Action Program Corporation of Washington-Morgan Counties Ohio,10,0,0,0,1,9,10,100.0
+2017,14-OH-266,"Faith Mission, Inc.",Faith Mission Inc.,3,1,0,0,0,2,2,66.7
+2017,14-OH-267,"Community Support Services, Inc.",Community Support Services Inc,8,0,0,0,3,5,8,100.0
+2017,14-OH-268,"Salvation Army, a New York Corporation",The Salvation Army a New York Corporation,15,0,0,0,2,13,15,100.0
+2017,14-OH-269,Volunteers of America of Greater Ohio,Volunteers of America of Greater Ohio,7,0,0,1,3,3,6,85.7
+2017,14-OK-270,KI BOIS Community Action Foundation Inc.,KI BOIS Community Action Foundation Inc,46,1,3,3,5,34,39,84.8
+2017,14-OK-271,"Goodwill Industries of Central Oklahoma, Inc.",Goodwill Industries of Central Oklahoma Inc,19,0,2,2,4,11,15,78.9
+2017,14-OR-272,Easter Seals Oregon,Easter Seals Oregon,9,0,0,1,0,8,8,88.9
+2017,14-PA-273,YWCA of Greater Harrisburg,YWCA of Greater Harrisburg,5,1,0,0,0,4,4,80.0
+2017,14-PA-274,Utility Emergency Services Fund,Utility Emergency Services Fund,13,0,2,3,3,5,8,61.5
+2017,14-PA-276,"Community Action Agency of Delaware County, Inc.",Community Action Agency of Delaware County Inc.,13,1,0,1,2,9,11,84.6
+2017,14-PA-277,"Lawrence County Social Services, Inc.",Lawrence County Social Services Inc.,23,0,0,1,2,20,22,95.7
+2017,14-PA-279,"Community Hope, Inc.",Community Hope Inc.,11,1,0,2,3,5,8,72.7
+2017,14-PA-280,"Soldier On of Delaware, Inc.",Soldier On of Delaware Inc.,9,0,0,0,5,4,9,100.0
+2017,14-PA-281,Catholic Charities of the Diocese of Allentown,Catholic Charities of the Diocese of Allentown,3,0,0,0,1,2,3,100.0
+2017,14-PA-282,"Volunteers of America of Pennsylvania, Inc.",Volunteers of America of Pennsylvania Inc.,6,0,2,1,1,2,3,50.0
+2017,14-TN-283,"Memphis Area Legal Services, Inc.",Memphis Area Legal Services Inc.,8,1,1,0,1,5,6,75.0
+2017,14-TN-284,Volunteer Behavioral Health Care System,Volunteer Behavioral Health Care System,4,0,0,2,2,0,2,50.0
+2017,14-TN-285,Operation Stand Down Tennessee,Operation Stand Down Tennessee,22,0,0,3,7,12,19,86.4
+2017,14-TN-287,"Catholic Charities, Inc. (dba Catholic Charities of the Diocese of Memphis, Inc.)",Catholic Charities Inc (dba Catholic Charities of the Diocese of Memphis Inc),7,0,0,1,1,5,6,85.7
+2017,14-TX-288,United States Veterans Initiative,United States Veterans Initiative,9,0,0,2,1,6,7,77.8
+2017,14-TX-290,Neighborhood Centers Inc.,Neighborhood Centers Inc.,55,7,0,8,9,31,40,72.7
+2017,14-TX-292,"American GI Forum National Veterans Outreach Program, Inc.",American GI Forum National Veterans Outreach Program Inc.,55,2,6,10,20,17,37,67.3
+2017,14-TX-293,Sabine Valley Regional Mental Health Mental Retardation Center,Sabine Valley Regional Mental Health Mental Retardation Center,2,0,1,1,0,0,0,0.0
+2017,14-VA-294,Total Action Against Poverty In Roanoke Valley,Total Action Against Poverty In Roanoke Valley,12,3,0,1,2,6,8,66.7
+2017,14-VA-296,Hampton Roads Community Action Program,Hampton Roads Community Action Program Inc.,19,0,0,4,3,12,15,78.9
+2017,14-VA-297,Virginia Beach Community Development Corporation,Virginia Beach Community Development Corporation,9,0,1,1,2,5,7,77.8
+2017,14-VA-298,Southeastern Tidewater Opportunity Project of Hampton Roads,STOP Incorporated,3,0,0,0,1,2,3,100.0
+2017,14-VI-299,"The Methodist Training and Outreach Center, Inc.",The Methodist Training and Outreach Center Inc.,4,0,0,2,1,1,2,50.0
+2017,14-WA-300,Metropolitan Development Council,Metropolitan Development Council,18,1,1,3,2,11,13,72.2
+2017,14-WI-302,Indianhead Community Action Agency,Indianhead Community Action Agency,5,0,0,1,1,3,4,80.0
+2017,14-WV-303,"The Greater Wheeling Coalition for the Homeless, Inc.",The Greater Wheeling Coalition for the Homeless Inc.,5,1,0,0,1,3,4,80.0
+2017,14-WV-304,"Helping Heroes, Inc.",Helping Heroes Inc.,7,0,0,0,4,3,7,100.0
+2017,14-WV-305,West Virginia Community Action Partnerships,West Virginia Community Action Partnerships Inc,31,0,1,3,3,24,27,87.1
+2017,14-ZZ-153,United Way of Central Alabama,United Way of Central Alabama,11,3,0,2,1,5,6,54.5
+2017,14-ZZ-301,Goodwill Industries of the Inland Northwest,Goodwill Industries of The Inland Northwest,22,4,1,0,3,14,17,77.3
+2017,14-ZZ-308,"Transitional Living Services, Inc.",Transitional Living Services Inc,11,1,1,1,1,7,8,72.7
+2017,14-ZZ-310,Healing BALM of Northeast Florida Inc.,Healing BALM of Northeast Florida Inc.,1,0,0,0,0,1,1,100.0
+2017,14-ZZ-311,"Together, Inc. of Metropolitan Omaha","Together, Inc. of Metropolitan Omaha",2,0,0,0,1,1,2,100.0
+2017,14-ZZ-313,Housing Counseling Services,Housing Counseling Services Inc,31,2,3,6,3,17,20,64.5
+2017,14-ZZ-314,United States Veterans Initiative (dba U.S. VETS),United States Veterans Initiative,21,0,6,1,3,11,14,66.7
+2017,14-ZZ-317,Homeless Veterans Fellowship,Homeless Veterans Fellowship,10,1,0,1,2,6,8,80.0
+2017,14-ZZ-318,Operation Renewed Hope,Operation Renewed Hope,2,0,0,0,2,0,2,100.0
+2017,14-ZZ-321,Community Action Partnership,Community Action Partnership,2,0,0,0,0,2,2,100.0
+2017,15-CA-091,Swords to Plowshares Veterans Rights Organization,Swords to Plowshares Veterans Rights Organization,21,0,1,4,1,15,16,76.2
+2017,15-CA-322,Victory Village,Victory Village,1,1,0,0,0,0,0,0.0
+2017,15-FL-324,Changing Homelessness,Changing Homelessness,15,6,3,0,3,3,6,40.0
+2017,15-GA-325,Volunteers of America Southeast  Inc.,Volunteers of America Southeast Inc,14,0,2,5,3,4,7,50.0
+2017,15-GU-326,"WestCare Pacific Islands, Inc.",WestCare Pacific Islands Inc,10,1,3,2,2,2,4,40.0
+2017,15-IA-192,"Hawkeye Area Community Action Program, Inc.",Hawkeye Area Community Action Program Inc,9,0,0,1,3,5,8,88.9
+2017,15-IN-201,"Volunteers of America of Indiana, Inc.",Volunteers of America of Indiana Inc,23,0,2,1,1,19,20,87.0
+2017,15-MI-328,Alger Marquette Community Action Board,Alger Marquette Community Action Board,4,1,0,1,0,2,2,50.0
+2017,15-MO-330,Catholic Charities of Southern Missouri Inc.,Catholic Charities of Southern Missouri Inc,2,1,0,0,0,1,1,50.0
+2017,15-NY-252,"Black Veterans for Social Justice, Inc.","Black Veterans for Social Justice, Inc.",8,1,0,1,1,5,6,75.0
+2017,15-OH-333,Lutheran Social Services of Central Ohio,Lutheran Social Services of Central Ohio,6,0,0,0,1,5,6,100.0
+2017,15-PA-068,Commission on Economic Opportunity,Commission on Economic Opportunity,18,0,0,1,1,16,17,94.4
+2017,15-PA-334,"Veterans Multi-Service & Education Center, Inc.",Veterans Multi-Service Center Inc.,18,0,0,2,2,14,16,88.9
+2017,15-TX-141,West Central Texas Regional Foundation,West Central Texas Regional Foundation,42,1,1,4,12,24,36,85.7
+2017,15-UT-336,The Road Home,The Road Home,23,0,3,3,6,11,17,73.9
+2017,15-WA-338,HopeSource,HopeSource,14,0,0,0,4,10,14,100.0
+2017,15-ZZ-127,"Transition Projects, Inc.",Transition Projects Inc.,8,3,0,0,4,1,5,62.5
+2017,15-ZZ-340,"Chautauqua Opportunities, Inc.",Chautauqua Opportunities Inc.,6,0,0,0,1,5,6,100.0
+2017,16-CA-005,Mental Health America of Los Angeles,Mental Health America of Los Angeles,29,0,6,7,3,13,16,55.2
+2017,16-CA-008,United States Veterans Initiative,United States Veterans Initiative,37,1,0,3,8,25,33,89.2
+2017,16-CA-009,"Vietnam Veterans of California, Inc. (Sacramento Veterans Resource)",Vietnam Veterans of California Inc. (Sacramento Veterans Resource),33,1,1,8,6,17,23,69.7
+2017,16-FL-099,Society of St Vincent de Paul South Pinellas Inc,Society of St Vincent de Paul South Pinellas Inc,43,0,0,5,9,29,38,88.4
+2017,16-MO-048,St. Patrick Center,St Patrick Center,37,0,1,1,7,28,35,94.6
+2017,16-NC-237,"Volunteers of America of the Carolinas, Inc.","Volunteers of America of the Carolinas, Inc.",33,2,3,4,4,20,24,72.7
+2017,16-NJ-054,"Community Hope, Inc.",Community Hope Inc,32,3,0,2,6,21,27,84.4
+2017,16-NY-057,"Veterans Outreach Center, Inc.","Veterans Outreach Center, Inc.",34,0,4,7,6,17,23,67.6
+2017,16-NY-062,"Services for the UnderServed, Inc.","Services for the UnderServed, Inc.",30,4,3,5,2,16,18,60.0
+2017,16-TX-074,"Family Endeavors, Inc.",Family Endeavors Inc.,81,7,4,20,15,35,50,61.7
+2017,16-ZZ-036,"Salvation Army, an Illinois Corporation",Salvation Army an Illinois Corporation,22,1,2,5,3,11,14,63.6
+2017,16-ZZ-037,"Volunteers of America Mid-States, Inc.",Volunteers of America Mid-States Inc,51,4,3,8,12,24,36,70.6
+2017,16-ZZ-058,"Soldier On, Inc.",Soldier On Inc,22,1,1,6,3,11,14,63.6
+2017,16-ZZ-278,"Veterans Multi-Service & Education Center, Inc.",Veterans Multi-Service Center Inc.,28,1,2,5,3,17,20,71.4
+2017,17-NE-052,Central Nebraska Community Services,Central Nebraska Community Services Inc.,16,0,0,2,10,4,14,87.5
+2017,17-ZZ-113,Volunteers of America Northern Rockies,Volunteers of America Northern Rockies,40,0,4,2,12,22,34,85.0
+2017,C15-CA-500A,HomeFirst Services of Santa Clara County (formerly EHC LifeBuilders),HomeFirst Services of Santa Clara County (formerly EHC LifeBuilders),9,1,2,1,2,3,5,55.6
+2017,C15-CA-501A,Swords to Plowshares Veterans Rights Organization,Swords to Plowshares Veterans Rights Organization,25,1,4,1,6,13,19,76.0
+2017,C15-CA-501B,Hamilton Families,Hamilton Families,2,0,0,0,1,1,2,100.0
+2017,C15-CA-502A,Swords to Plowshares Veterans Rights Organization,Swords to Plowshares Veterans Rights Organization,6,0,1,0,4,1,5,83.3
+2017,C15-CA-506A,Housing Resource Center of Monterey County,Housing Resource Center of Monterey County,7,1,0,0,2,4,6,85.7
+2017,C15-CA-514B,"WestCare California, Inc.","WestCare California, Inc.",21,3,1,4,6,7,13,61.9
+2017,C15-CA-601A,Vietnam Veterans of San Diego,Vietnam Veterans of San Diego,22,3,0,4,4,11,15,68.2
+2017,C15-CA-601B,"Interfaith Community Services, Inc.","Interfaith Community Services, Inc.",24,0,0,4,2,18,20,83.3
+2017,C15-CA-602B,Volunteers of America of Los Angeles Inc,Volunteers of America of Los Angeles Inc,16,3,2,3,2,6,8,50.0
+2017,C15-CA-604A,California Veterans Assistance Foundation Inc,California Veterans Assistance Foundation Inc.,3,0,1,1,1,0,1,33.3
+2017,C15-CA-606A,United States Veterans Initiative (U.S.VETS-Long Beach),United States Veterans Initiative (U.S.VETS-Long Beach),1,0,0,0,0,1,1,100.0
+2017,C15-CA-608A,United States Veterans Initiative,United States Veterans Initiative,4,0,0,0,0,4,4,100.0
+2017,C15-CA-608B,Lighthouse Treatment Center,Lighthouse Treatment Center,7,0,1,0,1,5,6,85.7
+2017,C15-CA-609A,United States Veterans Initiative,United States Veterans Initiative,6,0,0,1,2,3,5,83.3
+2017,C15-CA-614A,"Community Action Partnership of San Luis Obispo County, Inc.","Community Action Partnership of San Luis Obispo County, Inc.",26,2,2,1,3,18,21,80.8
+2017,C15-CA-614B,Good Samaritan Shelter,Good Samaritan Shelter,2,0,0,0,0,2,2,100.0
+2017,C15-CO-503A,"Volunteers of America Colorado Branch, Inc.","Volunteers of America Colorado Branch, Inc.",13,2,2,2,3,4,7,53.8
+2017,C15-CO-504A,Denver Options Inc. dba Rocky Mountain Human Services,Denver Options Inc. dba Rocky Mountain Human Services,23,2,2,7,8,4,12,52.2
+2017,C15-FL-501B,Tampa CrossRoads,Tampa CrossRoads,38,4,1,4,11,18,29,76.3
+2017,C15-FL-502A,Society of St Vincent de Paul South Pinellas Inc,Society of St Vincent de Paul South Pinellas Inc,30,1,1,3,2,23,25,83.3
+2017,C15-FL-504A,Salvation Army  a Georgia Corporation,Salvation Army  a Georgia Corporation,3,0,0,0,1,2,3,100.0
+2017,C15-FL-507A,"Homeless Services Network of Central Florida, Inc.",Homeless Services Network of Central Florida Inc,14,0,2,1,4,7,11,78.6
+2017,C15-FL-510A,Changing Homelessness,Changing Homelessness,9,0,1,0,2,6,8,88.9
+2017,C15-FL-513A,"Volunteers of America of Florida, Inc.","Volunteers of America of Florida, Inc.",17,0,1,4,2,10,12,70.6
+2017,C15-FL-600A,"Carrfour Supportive Housing, Inc.","Carrfour Supportive Housing, Inc.",25,1,1,5,9,9,18,72.0
+2017,C15-GA-500A,"Project Community Connections, Inc.","Project Community Connections, Inc.",8,1,0,0,0,7,7,87.5
+2017,C15-GA-500B,"Travelers Aid of Metropolitan Atlanta, Inc.",Travelers Aid of Metropolitan Atlanta Inc.,14,0,1,1,3,9,12,85.7
+2017,C15-GA-508A,"Project Community Connections, Inc.","Project Community Connections, Inc.",7,0,1,0,2,4,6,85.7
+2017,C15-GA-508B,"Travelers Aid of Metropolitan Atlanta, Inc.","Travelers Aid of Metropolitan Atlanta, Inc.",6,0,2,1,3,0,3,50.0
+2017,C15-HI-501A,United States Veterans Initiative,United States Veterans Initiative,17,1,1,3,3,9,12,70.6
+2017,C15-HI-501B,Catholic Charities Hawaii,Catholic Charities Hawaii,6,0,0,1,3,2,5,83.3
+2017,C15-IL-511A,Catholic Charities of the Archdiocese of Chicago,Catholic Charities of the Archdiocese of Chicago,4,0,0,0,1,3,4,100.0
+2017,C15-IN-503A,"United Way of Central Indiana, Inc.","United Way of Central Indiana, Inc.",16,0,2,2,3,9,12,75.0
+2017,C15-KS-501A,ReStart  Inc.,ReStart  Inc.,21,2,2,0,3,14,17,81.0
+2017,C15-KS-501B,"Salvation Army, an Illinois Corporation","Salvation Army, an Illinois Corporation",2,0,0,0,1,1,2,100.0
+2017,C15-KY-501A,"Volunteers of America Mid-States, Inc.","Volunteers of America Mid-States, Inc.",11,0,0,3,2,6,8,72.7
+2017,C15-MA-500A,New England Center and Home for Veterans,Vietnam Veterans Workshop Inc.,12,1,1,2,2,6,8,66.7
+2017,C15-MA-506A,"Veterans, Inc.",Veterans Inc.,10,1,1,1,1,6,7,70.0
+2017,C15-MI-501A,Volunteers of America Michigan Inc.,Volunteers of America Michigan Inc.,13,1,2,2,2,6,8,61.5
+2017,C15-MN-500A,Minnesota Assistance Council for Veterans,Minnesota Assistance Council for Veterans,2,0,0,1,0,1,1,50.0
+2017,C15-MO-604A,"Salvation Army, an Illinois Corporation","Salvation Army, an Illinois Corporation",9,1,1,0,2,5,7,77.8
+2017,C15-MO-604B,"ReStart, Inc.","ReStart, Inc.",22,0,0,1,6,15,21,95.5
+2017,C15-NC-501A,Homeward Bound of Western North Carolina,Homeward Bound of Western North Carolina,14,2,2,0,2,8,10,71.4
+2017,C15-NC-507A,"Volunteers of America of the Carolinas, Inc.",Volunteers of America of the Carolinas Inc.,20,0,0,1,5,14,19,95.0
+2017,C15-NC-511B,"Family Endeavors, Inc.",Family Endeavors Inc.,27,2,1,6,9,9,18,66.7
+2017,C15-NV-500B,U.S.VETS  Las Vegas,United States Veterans Initiative,16,1,1,1,4,9,13,81.3
+2017,C15-NY-600A,"Services for the UnderServed, Inc.","Services for the UnderServed, Inc.",8,0,0,0,1,7,8,100.0
+2017,C15-NY-600B,HELP Social Service Corporation,HELP Social Service Corporation,9,3,0,0,2,4,6,66.7
+2017,C15-NY-603A,"Services for the UnderServed, Inc.","Services for the UnderServed, Inc.",8,2,1,1,2,2,4,50.0
+2017,C15-OH-500A,Ohio Valley Goodwill Industries,Ohio Valley Goodwill Industries Rehabilitation Center Inc.,2,0,0,0,1,1,2,100.0
+2017,C15-OH-500B,"Talbert House, Inc.",Talbert House Inc.,2,0,1,0,1,0,1,50.0
+2017,C15-OH-502B,Volunteers of America of Greater Ohio,Volunteers of America of Greater Ohio,7,1,0,0,3,3,6,85.7
+2017,C15-OH-505A,Volunteers of America of Greater Ohio,Volunteers of America of Greater Ohio,6,0,0,1,2,3,5,83.3
+2017,C15-OR-500A,"St. Vincent de Paul Society of Lane County, Inc.",St. Vincent de Paul Society of Lane County Inc.,12,1,2,1,1,7,8,66.7
+2017,C15-OR-501A,"Transition Projects, Inc.","Transition Projects, Inc.",21,0,4,4,1,12,13,61.9
+2017,C15-PA-500A,Impact Services Corporation,Impact Services Corporation,11,1,0,2,2,6,8,72.7
+2017,C15-PR-503A,"Casa del Peregrino Aguadilla, Inc.","Casa del Peregrino Aguadilla, Inc.",1,0,0,1,0,0,0,0.0
+2017,C15-SC-503A,"Eastern Carolina Homeless Organization, Inc.","Eastern Carolina Homeless Organization, Inc.",5,0,1,1,1,2,3,60.0
+2017,C15-TN-504A,Centerstone of Tennessee Inc.,Centerstone of Tennessee Inc.,11,1,0,2,0,8,8,72.7
+2017,C15-TX-503A,Front Steps Inc.,Front Steps Inc.,16,1,3,2,2,8,10,62.5
+2017,C15-TX-601A,"Family Endeavors, Inc.",Family Endeavors Inc.,35,2,3,6,7,17,24,68.6
+2017,C15-TX-603A,"American GI Forum National Veterans Outreach Program, Inc.","American GI Forum National Veterans Outreach Program, Inc.",16,0,5,2,3,6,9,56.3
+2017,C15-WA-500A,Community Psychiatric Clinic,Community Psychiatric Clinic,15,0,1,4,1,9,10,66.7
+2017,C15-WA-502A,Goodwill Industries of the Inland Northwest,Goodwill Industries of the Inland Northwest,8,0,1,0,0,7,7,87.5
+2017,C15-WA-503A,Catholic Community Services of Western Washington,Catholic Community Services of Western Washington,15,1,2,1,5,6,11,73.3
+2017,C15-WA-503B,Metropolitan Development Council,Metropolitan Development Council,5,0,2,0,0,3,3,60.0
+2017,C15-WI-501A,"Center for Veterans Issues, Ltd.",Center for Veterans Issues Ltd.,10,1,1,2,2,4,6,60.0
+2017,C2015-CA-500B,Sunnyvale Community Services,Sunnyvale Community Services,5,1,0,1,1,2,3,60.0
+2017,C2015-CA-504A,"Vietnam Veterans of California, Inc. (Sacramento Veterans Resource)","Vietnam Veterans of California, Inc. (Sacramento Veterans Resource)",7,0,2,1,2,2,4,57.1
+2017,C2015-CA-508A,"Vietnam Veterans of California, Inc. (Sacramento Veterans Resource)","Vietnam Veterans of California, Inc. (Sacramento Veterans Resource)",2,0,0,0,1,1,2,100.0
+2017,C2015-CA-600A,"Volunteers of America of Los Angeles, Inc.",Volunteers of America of Los Angeles Inc.,21,2,0,2,7,10,17,81.0
+2017,C2015-CA-600B,"New Directions, Inc.","New Directions, Inc.",20,4,2,3,1,10,11,55.0
+2017,C2015-CA-600E,Mental Health America of Los Angeles,Mental Health America of Los Angeles,11,2,3,1,4,1,5,45.5
+2017,C2015-CA-600H,"Salvation Army, a California Corporation","Salvation Army, a California Corporation",40,1,1,5,10,23,33,82.5
+2017,C2015-CA-601B,Volunteers of America Southwest California Inc.,Volunteers of America Southwest California Inc.,7,0,0,0,1,6,7,100.0
+2017,C2015-CA-601D,Community Catalysts of California,Community Catalysts of California,8,2,1,2,3,0,3,37.5
+2017,C2015-DC-500B,Friendship Place,Friendship Place,2,0,0,0,1,1,2,100.0
+2017,C2015-FL-519A,Society of St Vincent de Paul South Pinellas Inc,Society of St Vincent de Paul South Pinellas Inc,16,0,0,2,1,13,14,87.5
+2017,C2015-IL-510C,Volunteers of America of Illinois,Volunteers of America of Illinois,1,0,0,1,0,0,0,0.0
+2017,C2015-MT-500B,Volunteers of America Northern Rockies,Volunteers of America Northern Rockies,52,1,1,5,7,38,45,86.5
+2017,C2015-NV-500D,HELP Social Service Corporation,HELP Social Service Corporation,26,0,0,1,4,21,25,96.2
+2017,C2015-NV-500E,U.S.VETS  Las Vegas,United States Veterans Initiative (dba U.S. VETS - Las Vegas),11,1,1,0,3,6,9,81.8
+2017,C2015-OR-502B,Access,Access,14,0,2,4,2,6,8,57.1
+2017,C2015-OR-505A,Community Action Partnership of Oregon (CAPO),Community Action Partnership of Oregon (CAPO),15,2,0,2,4,7,11,73.3
+2017,C2015-SC-502B,One-Eighty Place (formerly Crisis Ministries),One-Eighty Place (formerly Crisis Ministries),12,1,0,2,4,5,9,75.0
+2017,C2015-TX-607B,Volunteers of America,Volunteers of America Texas,6,0,0,3,1,2,3,50.0
+2017,C2015-TX-607G,Lubbock Regional Mental Health Mental Retardation Center (dba StarCare Specialty Health System),Lubbock Regional Mental Health Mental Retardation Center (dba StarCare Specialty Health System),3,0,0,1,0,2,2,66.7
+2017,C2015-TX-607H,"Family Endeavors, Inc.",Family Endeavors Inc.,39,1,4,4,8,22,30,76.9
+2017,C2015-WA-501E,Metropolitan Development Council,Metropolitan Development Council,20,1,1,1,4,13,17,85.0
+2016,12-AK-001,Catholic Social Services,Catholic Social Services,2,0,0,0,1,1,2,100.0
+2016,12-AL-002,Housing First  Inc.,Housing First Inc,11,2,2,1,3,3,6,54.5
+2016,12-AZ-003,United Methodist Outreach Ministries,United Methodist Outreach Ministries,8,1,0,2,1,4,5,62.5
+2016,12-AZ-004,Primavera Foundation,Primavera Foundation,5,0,0,0,2,3,5,100.0
+2016,12-CA-006,Volunteers of America of Los Angeles  Inc.,"Volunteers of America of Los Angeles, Inc.",9,1,0,1,0,7,7,77.8
+2016,12-CA-007,New Directions  Inc.,New Directions Inc.,1,0,0,0,0,1,1,100.0
+2016,12-CA-011,WestCare California  Inc.,WestCare California Inc.,5,0,0,1,1,3,4,80.0
+2016,12-CA-013,Goodwill Industries of Santa Clara County,Goodwill of Silicon Valley (dba Goodwill Industries of Santa Clara County),2,0,0,1,1,0,1,50.0
+2016,12-CA-014,PATH (People Assisting the Homeless),People Assisting The Homeless,2,0,0,0,0,2,2,100.0
+2016,12-CA-015,InnVision Shelter Network (formerly Shelter Network of San Mateo),Lifemoves,19,2,1,4,5,7,12,63.2
+2016,12-CA-016,"Shelter, Inc. of Contra Costa County",Shelter Inc of Contra Costa County,9,1,1,0,3,4,7,77.8
+2016,12-CA-017,Salvation Army  a California Corporation,The Salvation Army a California Corporation,10,1,1,3,2,3,5,50.0
+2016,12-CA-018,"Volunteers of America of Greater Sacramento and Northern Nevada, Inc.",Volunteers of America of Greater Sacramento and Northern Nevada Inc,11,0,0,1,3,7,10,90.9
+2016,12-CA-019,Community Catalysts of California,Community Catalysts of California,15,0,4,3,3,5,8,53.3
+2016,12-CT-021,Community Renewal Team  Inc.,Community Renewal Team Inc,6,1,0,2,1,2,3,50.0
+2016,12-FL-023,Homeless Services Network of Central Florida  Inc.,"Homeless Services Network of Central Florida, Inc.",1,0,0,0,0,1,1,100.0
+2016,12-FL-024,Advocate Program  Inc.,Advocate Program Inc,17,2,0,1,4,10,14,82.4
+2016,12-FL-025,Carrfour Supportive Housing  Inc.,Purpose Built Families Foundation,31,0,4,7,5,15,20,64.5
+2016,12-GA-029,Central Savannah River Area Economic Opportunity Authority  Inc. (CSRA EOA),Central Savannah River Area Economic Opportunity Authority Inc (CSRA EOA),3,0,0,0,1,2,3,100.0
+2016,12-HI-030,Catholic Charities Hawaii,Catholic Charities Hawaii,3,0,0,1,0,2,2,66.7
+2016,12-ID-032,El-Ada  Inc.,El-Ada Inc,1,0,0,0,1,0,1,100.0
+2016,12-IL-033,Thresholds,Thresholds,2,0,0,1,0,1,1,50.0
+2016,12-IN-035,United Way of Central Indiana  Inc.,United Way of Central Indiana Inc.,14,1,0,1,1,11,12,85.7
+2016,12-LA-038,Volunteers of America of Greater New Orleans,Volunteers of America of Greater New Orleans,13,1,0,2,9,1,10,76.9
+2016,12-LA-039,Wellspring Alliance for Families  Inc.,Wellspring Alliance for Families Inc.,1,0,0,0,0,1,1,100.0
+2016,12-MA-040,Volunteers of America of Massachusetts  Inc.,Volunteers of America of Massachusetts Inc,9,3,1,1,1,3,4,44.4
+2016,12-MD-042,Alliance  Inc.,Alliance Inc,2,0,1,0,0,1,1,50.0
+2016,12-ME-043,Preble Street,Preble Street,8,1,0,1,4,2,6,75.0
+2016,12-MI-044,Wayne Metropolitan Community Action Agency,Wayne Metropolitan Community Action Agency,3,0,0,0,1,2,3,100.0
+2016,12-MI-045,Southwest Counseling Solutions,Southwest Counseling Solutions,11,0,0,1,3,7,10,90.9
+2016,12-MN-046,Minnesota Assistance Council for Veterans,Minnesota Assistance Council for Veterans,5,0,0,0,2,3,5,100.0
+2016,12-NC-049,United Way of Forsyth County  Inc.,United Way of Forsyth County Inc.,15,2,1,4,2,6,8,53.3
+2016,12-NC-050,Passage Home Inc.,Passage Home Inc,1,1,0,0,0,0,0,0.0
+2016,12-ND-051,North Dakota Coalition of Homeless People  Inc.,Community Action Partnership of North Dakota,4,0,1,1,0,2,2,50.0
+2016,12-NE-052,Central Nebraska Community Action,Central Nebraska Community Action,1,0,0,0,1,0,1,100.0
+2016,12-NJ-053,Catholic Charities Dioceses of Camden  Inc.,Catholic Charities Dioceses of Camden Inc,3,0,1,0,1,1,2,66.7
+2016,12-NM-055,Goodwill Industries of New Mexico,Goodwill Industries of New Mexico,19,2,2,2,2,11,13,68.4
+2016,12-NY-060,HELP Social Service Corporation,HELP Social Service Corporation,2,0,0,0,0,2,2,100.0
+2016,12-NY-061,Samaritan Village  Inc.,Samaritan Daytop Village Inc.,6,3,0,1,0,2,2,33.3
+2016,12-NY-063,Westchester Community Opportunity Program  Inc. (WestCOP),Westchester Community Opportunity Program Inc. (WestCOP),9,0,2,1,4,2,6,66.7
+2016,12-OH-064,FrontLine,Mental Health Services for Homeless Persons Inc  dba  FrontLine Service ,12,0,0,0,6,6,12,100.0
+2016,12-OK-065,Community Service Council of Greater Tulsa  Inc.,Community Service Council of Greater Tulsa Inc.,5,1,0,1,0,3,3,60.0
+2016,12-OR-066,St. Vincent de Paul Society of Lane County  Inc.,St. Vincent de Paul Society of Lane County Inc.,9,0,0,1,2,6,8,88.9
+2016,12-PA-067,Project H.O.M.E.,Project H.O.M.E.,11,0,1,0,4,6,10,90.9
+2016,12-SC-069,One-Eighty Place (formerly Crisis Ministries),One-Eighty Place (formerly Crisis Ministries),13,0,1,2,7,3,10,76.9
+2016,12-TX-071,Families in Crisis  Inc.,Families in Crisis Inc,3,0,1,0,0,2,2,66.7
+2016,12-TX-072,Caritas of Austin,Caritas of Austin,6,1,0,2,2,1,3,50.0
+2016,12-TX-075,Catholic Charities Diocese of Fort Worth  Inc.,Catholic Charities Diocese of Fort Worth Inc.,6,1,0,1,4,0,4,66.7
+2016,12-TX-076,"Career and Recovery Resources, Inc.",Career And Recovery Resources Inc,12,0,0,6,5,1,6,50.0
+2016,12-VA-077,Virginia Supportive Housing,Virginia Supportive Housing,15,2,1,1,5,6,11,73.3
+2016,12-WA-078,Community Psychiatric Clinic,Community Psychiatric Clinic,7,0,0,0,1,6,7,100.0
+2016,12-WA-079,Opportunity Council,Opportunity Council,1,0,0,1,0,0,0,0.0
+2016,12-WI-080,Center for Veterans Issues  Ltd.,Center for Veterans Issues Ltd.,10,0,1,1,2,6,8,80.0
+2016,12-WV-081,Roark-Sullivan Lifeway Center  Inc.,Roark-Sullivan Lifeway Center  Inc.,1,0,0,0,0,1,1,100.0
+2016,12-ZZ-020,Rocky Mountain Human Services (dba Denver Options  Inc.),"Rocky Mountain Human Services (dba Denver Options, Inc.)",22,1,7,1,7,6,13,59.1
+2016,12-ZZ-031,Humility of Mary Shelter  Inc.,Humility of Mary Shelter Inc,4,0,0,0,2,2,4,100.0
+2016,12-ZZ-041,Veterans  Inc.,Veterans Inc,13,1,0,1,1,10,11,84.6
+2016,12-ZZ-070,Centerstone of Tennessee,Centerstone of Tennessee Inc.,3,0,0,0,0,3,3,100.0
+2016,13-AR-086,St. Francis House  Inc.,"St. Francis House, Inc.",13,0,2,0,3,8,11,84.6
+2016,13-AZ-087,American National Red Cross Southern Arizona Chapter,American National Red Cross Southern Arizona Chapter,16,0,1,3,3,9,12,75.0
+2016,13-CA-090,"California Veterans Assistance Foundation, Inc.",California Veterans Assistance Foundation Inc,1,0,0,0,1,0,1,100.0
+2016,13-CT-093,"The Workplace, Inc.",The Workplace Inc,10,0,2,1,2,5,7,70.0
+2016,13-DE-095,"Connections Community Support Programs, Inc.",Connections Community Support Programs Inc.,4,0,1,1,0,2,2,50.0
+2016,13-FL-096,Faith  Hope  Love  Charity  Inc.,Faith Hope Love Charity Inc,4,1,0,1,2,0,2,50.0
+2016,13-FL-098,"Salvation Army, a Georgia Corporation",Salvation Army a Georgia Corporation,5,0,0,0,1,4,5,100.0
+2016,13-GA-101,Action Ministries  Inc.,Action Ministries Inc.,3,0,0,0,1,2,3,100.0
+2016,13-GA-102,"Decatur Cooperative Ministry, Inc.",Decatur Cooperative Ministry Inc.,7,3,0,1,2,1,3,42.9
+2016,13-IA-103,Primary Health Care  Inc.,Primary Health Care Inc,5,0,0,0,1,4,5,100.0
+2016,13-IL-104,Salvation Army  an Illinois Corporation,The Salvation Army an Illinois Corporation,8,1,1,1,1,4,5,62.5
+2016,13-IL-105,Heartland Human Care Services  Inc.,Heartland Human Care Services Inc,10,2,1,2,1,4,5,50.0
+2016,13-IN-106,Community Action of Northeast Indiana,Community Action of Northeast Indiana Inc (dba Brightpoint) ,4,0,0,2,2,0,2,50.0
+2016,13-MD-107,Three Oaks Homeless Shelter  Inc.,Three Oaks Homeless Shelter Inc,11,0,1,3,4,3,7,63.6
+2016,13-MI-108,Northwest Michigan Community Action Agency  Inc.,Northwest Michigan Community Action Agency Inc,1,0,0,0,0,1,1,100.0
+2016,13-MO-047,Welcome Home  Inc.,Welcome Home Inc.,5,0,1,0,1,3,4,80.0
+2016,13-MO-110,Catholic Charities of Kansas City - St Joseph  Inc.,Catholic Charities of Kansas City - St Joseph Inc,1,0,1,0,0,0,0,0.0
+2016,13-MS-111,Region XII Commission on Mental Health,Region XII Commission on Mental Health & Retardation (dba Pine Belt Mental Health),6,0,0,0,1,5,6,100.0
+2016,13-NC-114,Asheville Buncombe Community Christian Ministry,Asheville-Buncombe Community Christian Ministry Inc.,1,0,0,0,0,1,1,100.0
+2016,13-NV-117,Vietnam Veterans of California  Inc. (Sacramento Veterans Resource),Vietnam Veterans of California Inc (Sacramento Veterans Resource),15,2,1,1,3,8,11,73.3
+2016,13-NV-118,Salvation Army  a California Corporation,The Salvation Army a California Corporation,15,1,1,1,6,6,12,80.0
+2016,13-NY-119,Catholic Charities of the Roman Catholic Diocese of Syracuse NY,Catholic Charities of the Roman Catholic Diocese of Syracuse NY,7,0,0,1,2,4,6,85.7
+2016,13-NY-120,Institute for Community Living  Inc.,Institute for Community Living  Inc.,2,0,0,2,0,0,0,0.0
+2016,13-NY-121,Soldier On of Delaware  Inc.,Soldier On of Delaware Inc,6,0,0,2,2,2,4,66.7
+2016,13-NY-122,Hudson River Housing  Inc.,Hudson River Housing  Inc.,5,0,0,1,1,3,4,80.0
+2016,13-OH-123,Ohio Valley Goodwill Industries Rehabilitation Center  Inc.,"Ohio Valley Goodwill Industries Rehabilitation Center, Inc.",4,0,0,0,0,4,4,100.0
+2016,13-OH-124,Maumee Valley Guidance Center,Maumee Valley Guidance Center Inc.,4,0,0,0,1,3,4,100.0
+2016,13-OR-125,"Community Action Team, Inc.",Community Action Team Inc,3,0,0,0,1,2,3,100.0
+2016,13-OR-126,Central Oregon Veterans Outreach,Central Oregon Veterans Outreach,1,0,0,0,0,1,1,100.0
+2016,13-PA-129,"Veterans Leadership Program of Western Pennsylvania, Inc.",Veterans Leadership Program of Western Pennsylvania Inc,14,0,0,0,5,9,14,100.0
+2016,13-PA-130,Opportunity House,Opportunity House,3,0,0,0,0,3,3,100.0
+2016,13-PA-131,Lehigh Valley Center for Independent Living  Inc.,Lehigh Valley Center for Independent Living Inc.,1,0,0,0,0,1,1,100.0
+2016,13-PR-132,"Casa del Peregrino Aguadilla, Inc.","Casa del Peregrino Aguadilla, Inc.",6,1,0,1,2,2,4,66.7
+2016,13-SD-136,Cornerstone Rescue Mission,Cornerstone Rescue Mission,6,0,0,1,0,5,5,83.3
+2016,13-TX-140,Salvation Army  a Georgia Corporation,The Salvation Army,12,0,0,1,1,10,11,91.7
+2016,13-TX-142,Goodwill Industries of Houston  Inc.,Goodwill Industries of Houston Inc.,43,8,5,12,7,11,18,41.9
+2016,13-VA-144,Volunteers of America Chesapeake,Volunteers of America Chesapeake,4,0,1,0,2,1,3,75.0
+2016,13-WA-146,Catholic Community Services of Western Washington,Catholic Community Services of Western Washington,5,0,1,1,2,1,3,60.0
+2016,13-WA-148,YWCA of Seattle - King County - Snohomish County,YWCA of Seattle - King County - Snohomish County,4,0,2,0,0,2,2,50.0
+2016,13-WI-150,Veterans Assistance Foundation  Inc.,"Veterans Assistance Foundation, Inc.",5,0,1,0,1,3,4,80.0
+2016,13-WI-151,Community Action Coalition for South Central Wisconsin  Inc.,Community Action Coalition for South Central Wisconsin Inc.,1,0,0,0,0,1,1,100.0
+2016,13-ZZ-092,Volunteers of America Colorado Branch  Inc.,Volunteers of America Colorado Branch Inc.,33,2,5,6,4,16,20,60.6
+2016,13-ZZ-094,Friendship Place,Friendship Place,12,1,2,2,3,4,7,58.3
+2016,13-ZZ-133,Operation Stand Down Rhode Island,Operation Stand Down Rhode Island,10,1,0,2,6,1,7,70.0
+2016,13-ZZ-134,The Alston Wilkes Society (AWS  Alston Wilkes Veterans Home),The Alston Wilkes Society (AWS Alston Wilkes Veterans Home),15,1,5,1,4,4,8,53.3
+2016,13-ZZ-138,Appalachian Regional Coalition on Homelessness (ARCH),Appalachian Regional Coalition on Homelessness (ARCH),18,1,2,3,5,7,12,66.7
+2016,13-ZZ-145,University of Vermont and State Agricultural College,University of Vermont and State Agricultural College,4,0,0,0,1,3,4,100.0
+2016,13-ZZ-147,Blue Mountain Action Council,Blue Mountain Action Council,9,0,0,2,1,6,7,77.8
+2016,14-AK-152,Fairbanks Rescue Mission  Inc.,Fairbanks Rescue Mission Inc.,2,0,0,0,0,2,2,100.0
+2016,14-AL-155,Family Endeavors  Inc.,Family Endeavors Inc.,52,3,3,15,12,19,31,59.6
+2016,14-AR-156,Seven Hills Homeless Center,Seven Hills Homeless Center,6,0,2,0,2,2,4,66.7
+2016,14-AZ-157,National Community Health Partners,National Community Health Partners,33,0,1,5,14,13,27,81.8
+2016,14-AZ-158,Vietnam Veterans of California  Inc. (Sacramento Veterans Resource),Vietnam Veterans of California Inc. (Sacramento Veterans Resource),18,2,1,2,3,10,13,72.2
+2016,14-AZ-159,United States Veterans Initiative,United States Veterans Initiative,40,4,4,8,9,15,24,60.0
+2016,14-AZ-160,Catholic Charities Community Services  Inc.,Catholic Charities Community Services Inc,5,0,0,1,1,3,4,80.0
+2016,14-CA-161,Housing Resource Center of Monterey County,Housing Resource Center of Monterey County,2,0,1,0,0,1,1,50.0
+2016,14-CA-163,Carrillo Counseling Services  Inc. (DBA New Beginnings),Carrillo Counseling Services Inc (DBA New Beginnings),2,0,0,0,0,2,2,100.0
+2016,14-CA-164,East Bay Community Recovery Project,East Bay Community Recovery Project,8,0,0,2,3,3,6,75.0
+2016,14-CA-167,East Oakland Community Project,East Oakland Community Project,1,0,1,0,0,0,0,0.0
+2016,14-CA-169,Families in Transition of Santa Cruz County  Inc.,Families in Transition of Santa Cruz County Inc,4,0,0,0,2,2,4,100.0
+2016,14-CA-170,Knowledge  Education for Your Success  Inc.,Knowledge Education for Your Success Inc,3,0,0,0,0,3,3,100.0
+2016,14-CA-171,Lighthouse Treatment Center,Lighthouse Treatment Center,5,0,1,1,1,2,3,60.0
+2016,14-CA-173,Vietnam Veterans of San Diego,Vietnam Veterans of San Diego,17,1,2,5,2,7,9,52.9
+2016,14-CA-175,Berkeley Food and Housing Project,Berkeley Food and Housing Project,47,0,1,9,12,25,37,78.7
+2016,14-CA-176,Volunteers of America of Los Angeles  Inc.,Volunteers of America of Los Angeles Inc,15,1,0,3,5,6,11,73.3
+2016,14-CA-177,Catholic Charities of the Diocese of Stockton,Catholic Charities of the Diocese of Stockton,15,0,1,2,0,12,12,80.0
+2016,14-CA-324,1736 Family Crisis Center,1736 Family Crisis Center,14,0,4,2,3,5,8,57.1
+2016,14-CT-178,Columbus House  Inc.,Columbus House Inc,21,1,0,4,4,12,16,76.2
+2016,14-FL-179,Big Bend Homeless Coalition  Inc.,Big Bend Homeless Coalition Inc,14,0,0,1,6,7,13,92.9
+2016,14-FL-180,Clarks House  Inc.,Clarks House  Inc.,6,0,0,0,1,5,6,100.0
+2016,14-FL-181,United Way of Broward County,United Way of Broward County,6,0,0,0,1,5,6,100.0
+2016,14-FL-182,Community Coalition on Homelessness Corporation,Community Coalition on Homelessness Corporation,3,0,0,1,1,1,2,66.7
+2016,14-FL-184,Meridian Behavioral Healthcare  Inc.,Meridian Behavioral Healthcare Inc,13,1,1,0,3,8,11,84.6
+2016,14-FL-185,Family Endeavors,Family Endeavors Inc.,1,0,1,0,0,0,0,0.0
+2016,14-FL-187,Volunteers of America of Florida  Inc.,"Volunteers of America of Florida, Inc.",4,0,1,0,0,3,3,75.0
+2016,14-FL-322,Treasure Coast Homeless Services Council  Inc.,Treasure Coast Homeless Services Council Inc,8,0,1,1,0,6,6,75.0
+2016,14-GA-188,Travelers Aid of Metropolitan Atlanta  Inc.,Travelers Aid of Metropolitan Atlanta Inc.,10,1,1,5,2,1,3,30.0
+2016,14-GA-189,United Way of Metropolitan Atlanta,United Way of Greater Atlanta Inc,32,4,6,7,7,8,15,46.9
+2016,14-HI-190,United States Veterans Initiative (dba U.S. VETS),United States Veterans Initiative (dba U.S. VETS),6,1,0,1,2,2,4,66.7
+2016,14-ID-193,South Central Community Action Partnership  Inc.,South Central Community Action Partnership Inc.,7,0,0,0,3,4,7,100.0
+2016,14-IL-194,"Featherfist, Inc.",Featherfist Inc,8,0,1,3,1,3,4,50.0
+2016,14-IL-196,Midwest Shelter for Homeless Veterans  Inc.,Midwest Shelter for Homeless Veterans Inc,5,1,0,1,1,2,3,60.0
+2016,14-IL-197,Chestnut Health Systems  Inc.,Chestnut Health Systems Inc,14,0,0,0,7,7,14,100.0
+2016,14-IL-198,Catholic Charities of the Archdiocese of Chicago,Catholic Charities of the Archdiocese of Chicago,2,0,0,1,1,0,1,50.0
+2016,14-IN-199,Lafayette Transitional Housing Center  Inc.,Lafayette Transitional Housing Center Inc,6,0,0,2,1,3,4,66.7
+2016,14-IN-200,InteCare  Inc.,InteCare Inc,4,0,0,0,0,4,4,100.0
+2016,14-KS-322,Catholic Charities  Inc. (Diocese of Wichita),Catholic Charities Inc. (Diocese of Wichita),2,0,0,0,1,1,2,100.0
+2016,14-KY-204,Kentucky River Foothills Development Council  Inc.,Kentucky River Foothills Development Council Inc.,9,0,0,0,2,7,9,100.0
+2016,14-LA-205,Hope Center  Inc.,Hope Center Inc.,5,0,0,1,2,2,4,80.0
+2016,14-LA-207,Elle Foundation,Elle Foundation,8,0,1,3,1,3,4,50.0
+2016,14-LA-208,Start Corporation,Start Corporation,1,0,0,0,0,1,1,100.0
+2016,14-MA-209,Veterans Northeast Outreach Center  Inc.,Veterans Northeast Outreach Center Inc,21,2,2,1,7,9,16,76.2
+2016,14-MA-210,Lynn Housing Authority Development Group  Inc.,"Lynn Housing Authority Development Group, Inc.",10,0,1,0,1,8,9,90.0
+2016,14-MA-211,Vietnam Veterans Workshop Inc.,Vietnam Veterans Workshop Inc.,5,0,2,1,1,1,2,40.0
+2016,14-MD-214,Project PLASE  Inc.,Project PLASE Inc,11,3,4,0,2,2,4,36.4
+2016,14-MD-215,New Vision House of Hope  Inc.,New Vision House of Hope Inc,6,0,0,1,3,2,5,83.3
+2016,14-MD-216,Diakonia Inc.,Diakonia Inc.,3,1,0,0,0,2,2,66.7
+2016,14-MD-217,St. James A.M.E. Zion Church-Zion House,St. James A.M.E. Zion Church-Zion House,5,0,0,0,2,3,5,100.0
+2016,14-MI-218,Bluewater Center for Independent Living,Blue Water Center For Independent Living Inc.,4,2,0,0,0,2,2,50.0
+2016,14-MI-219,Training,Training & Treatment Innovations Inc.,8,1,1,1,4,1,5,62.5
+2016,14-MI-220,Community Action Agency,Community Action Agency,3,0,1,1,1,0,1,33.3
+2016,14-MI-221,Oakland Livingston Human Services Agency,Oakland Livingston Human Services Agency,2,0,0,0,2,0,2,100.0
+2016,14-MI-222,Mid Michigan Community Action Agency  Inc.,Mid Michigan Community Action Agency Inc.,5,0,1,1,2,1,3,60.0
+2016,14-MI-223,Community Rebuilders,Community Rebuilders,1,0,0,0,0,1,1,100.0
+2016,14-MI-224,Housing Services for Eaton County,Housing Services for Eaton County,1,0,0,0,1,0,1,100.0
+2016,14-MI-226,Volunteers of America Michigan,Volunteers of America Michigan Inc.,7,0,2,1,2,2,4,57.1
+2016,14-MN-227,Tri-County Action Program  Inc.,Tri-County Action Program Inc.,1,0,0,1,0,0,0,0.0
+2016,14-MO-228,The Kitchen  Inc.,The Kitchen Inc,1,1,0,0,0,0,0,0.0
+2016,14-MO-229,Phoenix Programs  Inc.,Phoenix Programs Inc.,2,0,0,0,0,2,2,100.0
+2016,14-MS-231,Mississippi United to End Homelessness  Inc.,Mississippi United to End Homelessness Inc.,15,0,1,2,3,9,12,80.0
+2016,14-MS-233,Soldier On of Delaware  Inc.,Soldier On of Delaware Inc.,3,0,0,0,0,3,3,100.0
+2016,14-MS-234,Catholic Charities  Inc. (Diocese of Jackson),Catholic Charities Inc  (Diocese of Jackson),4,0,0,2,1,1,2,50.0
+2016,14-NC-235,Family Endeavors  Inc.,Family Endeavors  Inc.,16,1,1,2,7,5,12,75.0
+2016,14-NC-236,Community Link Programs of Travelers Aid Society of Central Carolinas  Inc.,Community Link Programs of Travelers Aid Society of Central Carolinas Inc.,8,1,1,2,1,3,4,50.0
+2016,14-NE-239,Blue Valley Community Action  Inc.,"Blue Valley Community Action, Inc.",3,0,0,0,2,1,3,100.0
+2016,14-NH-240,Southwestern Community Services  Inc.,Southwestern Community Services Inc.,2,0,0,0,1,1,2,100.0
+2016,14-NJ-242,Catholic Family and Community Service,Catholic Family and Community Service,14,1,1,3,1,8,9,64.3
+2016,14-NJ-243,North Hudson Community Action Corporation,North Hudson Community Action Corporation,5,0,0,0,2,3,5,100.0
+2016,14-NM-246,New Mexico Veterans Integration Centers,New Mexico Veterans Integration Centers,12,1,0,3,0,8,8,66.7
+2016,14-NM-247,Mesilla Valley Community of Hope,Mesilla Valley Community of Hope,3,0,0,0,1,2,3,100.0
+2016,14-NY-250,The Jericho Project,The Jericho Project,4,0,0,0,0,4,4,100.0
+2016,14-NY-251,Saratoga County Rural Preservation Company  Inc.,Veterans and Community Housing Coalition ,4,0,0,0,0,4,4,100.0
+2016,14-NY-254,Economic Opportunity Council of Suffolk  Inc.,Economic Opportunity Council of Suffolk Inc,7,0,0,3,0,4,4,57.1
+2016,14-NY-256,Albany Housing Coalition  Inc.,Albany Housing Coalition Inc,4,0,1,0,1,2,3,75.0
+2016,14-NY-259,Volunteers of America-Greater New York  Inc.,Volunteers of America-Greater New York Inc,10,0,0,0,3,7,10,100.0
+2016,14-OH-260,St. Vincent de Paul Social Services  Inc.,St. Vincent de Paul Social Services Inc.,6,1,1,1,3,0,3,50.0
+2016,14-OH-261,Licking County Coalition for Housing,Licking County Coalition for Housing,3,1,0,0,0,2,2,66.7
+2016,14-OH-262,Family & Community Services  Inc.,Family & Community Services Inc,3,0,0,0,1,2,3,100.0
+2016,14-OH-263,Talbert House  Inc.,"Talbert House, Inc.",1,0,0,0,0,1,1,100.0
+2016,14-OH-264,Community Action Agency of Columbiana County  Inc.,Community Action Agency of Columbiana County Inc,1,0,0,0,1,0,1,100.0
+2016,14-OH-265,Community Action Program Corporation of Washington-Morgan Counties  Ohio,Community Action Program Corporation of Washington-Morgan Counties Ohio,3,0,0,0,1,2,3,100.0
+2016,14-OH-266,Faith Mission  Inc.,Faith Mission Inc.,1,0,0,0,0,1,1,100.0
+2016,14-OH-267,Community Support Services  Inc.,Community Support Services Inc,3,0,0,0,0,3,3,100.0
+2016,14-OH-268,"Salvation Army, a New York Corporation",The Salvation Army a New York Corporation,3,0,0,1,1,1,2,66.7
+2016,14-OH-269,Volunteers of America of Greater Ohio,Volunteers of America of Greater Ohio,10,3,1,3,0,3,3,30.0
+2016,14-OK-270,KI BOIS Community Action Foundation Inc.,KI BOIS Community Action Foundation Inc,15,0,0,0,5,10,15,100.0
+2016,14-OK-271,Goodwill Industries of Central Oklahoma  Inc.,Goodwill Industries of Central Oklahoma Inc,9,0,0,0,3,6,9,100.0
+2016,14-OR-272,Easter Seals Oregon,Easter Seals Oregon,4,0,0,2,2,0,2,50.0
+2016,14-PA-273,YWCA of Greater Harrisburg,YWCA of Greater Harrisburg,5,1,0,1,1,2,3,60.0
+2016,14-PA-274,Utility Emergency Services Fund,Utility Emergency Services Fund,9,0,0,1,2,6,8,88.9
+2016,14-PA-276,Community Action Agency of Delaware County  Inc.,Community Action Agency of Delaware County Inc.,4,0,0,0,1,3,4,100.0
+2016,14-PA-277,Lawrence County Social Services  Inc.,Lawrence County Social Services Inc.,10,0,2,0,3,5,8,80.0
+2016,14-PA-279,Community Hope  Inc.,Community Hope Inc.,4,0,0,0,1,3,4,100.0
+2016,14-PA-280,Soldier On of Delaware  Inc.,Soldier On of Delaware Inc.,4,0,0,1,1,2,3,75.0
+2016,14-PA-281,Catholic Charities of the Diocese of Allentown,Catholic Charities of the Diocese of Allentown,1,0,0,0,1,0,1,100.0
+2016,14-PA-282,Volunteers of America of Pennsylvania  Inc.,Volunteers of America of Pennsylvania Inc.,5,1,0,2,0,2,2,40.0
+2016,14-TN-283,Memphis Area Legal Services  Inc.,Memphis Area Legal Services Inc.,10,3,3,1,1,2,3,30.0
+2016,14-TN-284,Volunteer Behavioral Health Care System,Volunteer Behavioral Health Care System,2,0,0,0,0,2,2,100.0
+2016,14-TN-285,Operation Stand Down Tennessee,Operation Stand Down Tennessee,9,2,1,1,2,3,5,55.6
+2016,14-TN-287,Catholic Charities  Inc. (dba Catholic Charities of the Diocese of Memphis  Inc.),Catholic Charities Inc (dba Catholic Charities of the Diocese of Memphis Inc),2,0,1,0,1,0,1,50.0
+2016,14-TX-288,United States Veterans Initiative,United States Veterans Initiative,13,0,0,0,5,8,13,100.0
+2016,14-TX-290,Neighborhood Centers Inc.,Neighborhood Centers Inc.,20,0,3,11,2,4,6,30.0
+2016,14-TX-292,American GI Forum National Veterans Outreach Program  Inc.,American GI Forum National Veterans Outreach Program Inc.,26,1,3,8,3,11,14,53.8
+2016,14-TX-293,Sabine Valley Regional Mental Health Mental Retardation Center,Sabine Valley Regional Mental Health Mental Retardation Center,2,1,0,1,0,0,0,0.0
+2016,14-VA-294,Total Action Against Poverty In Roanoke Valley,Total Action Against Poverty In Roanoke Valley,6,1,0,1,4,0,4,66.7
+2016,14-VA-296,Office of Human Affairs  Inc.,Hampton Roads Community Action Program Inc.,4,0,0,0,0,4,4,100.0
+2016,14-VA-297,Virginia Beach Community Development Corporation,Virginia Beach Community Development Corporation,15,2,2,3,2,6,8,53.3
+2016,14-VA-298,Southeastern Tidewater Opportunity Project of Hampton Roads,STOP Incorporated,2,0,0,2,0,0,0,0.0
+2016,14-VI-299,The Methodist Training and Outreach Center  Inc.,The Methodist Training and Outreach Center Inc.,3,1,0,0,1,1,2,66.7
+2016,14-WA-300,Metropolitan Development Council,Metropolitan Development Council,6,0,0,0,1,5,6,100.0
+2016,14-WI-302,Indianhead Community Action Agency,Indianhead Community Action Agency,5,0,0,0,2,3,5,100.0
+2016,14-WV-303,The Greater Wheeling Coalition for the Homeless  Inc.,The Greater Wheeling Coalition for the Homeless Inc.,5,2,0,0,1,2,3,60.0
+2016,14-WV-304,Helping Heroes  Inc.,Helping Heroes Inc.,1,0,0,0,0,1,1,100.0
+2016,14-WV-305,West Virginia Community Action Partnerships,West Virginia Community Action Partnerships Inc,10,0,1,2,0,7,7,70.0
+2016,14-ZZ-153,United Way of Central Alabama,United Way of Central Alabama,17,0,5,2,6,4,10,58.8
+2016,14-ZZ-301,Goodwill Industries of the Inland Northwest,Goodwill Industries of The Inland Northwest,13,3,1,1,2,6,8,61.5
+2016,14-ZZ-308,Transitional Living Services  Inc.,Transitional Living Services Inc,5,0,0,0,4,1,5,100.0
+2016,14-ZZ-311,Together  Inc. of Metropolitan Omaha,"Together, Inc. of Metropolitan Omaha",1,0,0,0,0,1,1,100.0
+2016,14-ZZ-313,Housing Counseling Services,Housing Counseling Services Inc,13,0,0,2,2,9,11,84.6
+2016,14-ZZ-314,United States Veterans Initiative (dba U.S. VETS),United States Veterans Initiative,2,0,0,1,0,1,1,50.0
+2016,14-ZZ-317,Homeless Veterans Fellowship,Homeless Veterans Fellowship,9,0,0,0,1,8,9,100.0
+2016,14-ZZ-319,Community Action Partnership,Community Action Partnership,9,1,0,0,3,5,8,88.9
+2016,14-ZZ-321,Community Action Partnership,Community Action Partnership,16,1,2,4,6,3,9,56.3
+2016,15-CA-091,Swords to Plowshares Veterans Rights Organization,Swords to Plowshares Veterans Rights Organization,3,0,0,1,0,2,2,66.7
+2016,15-GA-325,Volunteers of America Southeast  Inc.,Volunteers of America Southeast Inc,2,0,0,1,1,0,1,50.0
+2016,15-GU-326,WestCare Pacific Islands  Inc.,WestCare Pacific Islands Inc,6,2,0,3,1,0,1,16.7
+2016,15-IA-192,Hawkeye Area Community Action Program  Inc.,Hawkeye Area Community Action Program Inc,12,1,0,2,5,4,9,75.0
+2016,15-IN-201,Volunteers of America of Indiana  Inc.,Volunteers of America of Indiana Inc,2,0,0,0,0,2,2,100.0
+2016,15-MI-328,Alger Marquette Community Action Board,Alger Marquette Community Action Board,5,0,0,1,1,3,4,80.0
+2016,15-MO-330,Catholic Charities of Southern Missouri  Inc.,Catholic Charities of Southern Missouri Inc,4,1,0,1,2,0,2,50.0
+2016,15-MS-331,PTEH  Inc.,PTEH  Inc.,3,1,0,0,0,2,2,66.7
+2016,15-NY-252,Black Veterans for Social Justice  Inc.,"Black Veterans for Social Justice, Inc.",5,1,2,1,1,0,1,20.0
+2016,15-OH-333,Lutheran Social Services of Central Ohio,Lutheran Social Services of Central Ohio,4,0,0,1,1,2,3,75.0
+2016,15-PA-068,Commission on Economic Opportunity,Commission on Economic Opportunity,3,1,0,0,1,1,2,66.7
+2016,15-PA-334,Veterans Multi-Service & Education Center  Inc.,Veterans Multi-Service Center Inc.,7,0,0,0,1,6,7,100.0
+2016,15-TX-141,West Central Texas Regional Foundation,West Central Texas Regional Foundation,13,1,1,1,3,7,10,76.9
+2016,15-UT-336,The Road Home,The Road Home,16,2,1,1,4,8,12,75.0
+2016,15-WA-338,HopeSource,HopeSource,12,2,1,2,4,3,7,58.3
+2016,15-ZZ-127,Transition Projects  Inc.,Transition Projects Inc.,5,0,0,0,4,1,5,100.0
+2016,15-ZZ-340,Chautauqua Opportunities  Inc.,Chautauqua Opportunities Inc.,3,0,0,0,0,3,3,100.0
+2016,16-CA-005,Mental Health America of Los Angeles,Mental Health America of Los Angeles,9,0,0,1,1,7,8,88.9
+2016,16-CA-008,United States Veterans Initiative,United States Veterans Initiative,12,1,0,3,5,3,8,66.7
+2016,16-CA-009,Vietnam Veterans of California  Inc. (Sacramento Veterans Resource),Vietnam Veterans of California Inc. (Sacramento Veterans Resource),15,3,3,2,2,5,7,46.7
+2016,16-FL-099,Society of St. Vincent de Paul  South Pinellas  Inc.,Society of St Vincent de Paul South Pinellas Inc,11,0,1,2,3,5,8,72.7
+2016,16-MO-048,St. Patrick Center,St Patrick Center,24,0,0,2,8,14,22,91.7
+2016,16-NC-237,Volunteers of America of the Carolinas  Inc.,"Volunteers of America of the Carolinas, Inc.",25,3,1,6,8,7,15,60.0
+2016,16-NE-341,Central Nebraska Community Services,Central Nebraska Community Services,6,0,0,2,2,2,4,66.7
+2016,16-NJ-054,Community Hope  Inc.,Community Hope Inc,7,0,2,2,1,2,3,42.9
+2016,16-NY-057,Veterans Outreach Center  Inc.,"Veterans Outreach Center, Inc.",32,1,1,6,12,12,24,75.0
+2016,16-NY-062,"Services for the UnderServed, Inc.","Services for the UnderServed, Inc.",10,0,0,0,2,8,10,100.0
+2016,16-TX-074,Family Endeavors  Inc.,Family Endeavors Inc.,33,8,4,4,12,5,17,51.5
+2016,16-WY-342,Volunteers of America Northern Rockies,Volunteers of America Northern Rockies,27,2,3,2,5,15,20,74.1
+2016,16-ZZ-036,Salvation Army  an Illinois Corporation,Salvation Army an Illinois Corporation,12,1,1,1,2,7,9,75.0
+2016,16-ZZ-037,"Volunteers of America Mid-States, Inc.",Volunteers of America Mid-States Inc,7,1,1,3,0,2,2,28.6
+2016,16-ZZ-058,Soldier On  Inc.,Soldier On Inc,1,0,0,0,0,1,1,100.0
+2016,16-ZZ-278,Veterans Multi-Service,Veterans Multi-Service Center Inc.,6,1,4,0,1,0,1,16.7
+2016,C15-CA-500A,HomeFirst Services of Santa Clara County (formerly EHC LifeBuilders),HomeFirst Services of Santa Clara County (formerly EHC LifeBuilders),4,0,0,1,2,1,3,75.0
+2016,C15-CA-501A,Swords to Plowshares Veterans Rights Organization,Swords to Plowshares Veterans Rights Organization,1,0,1,0,0,0,0,0.0
+2016,C15-CA-506A,Housing Resource Center of Monterey County,Housing Resource Center of Monterey County,4,0,0,1,1,2,3,75.0
+2016,C15-CA-514B,WestCare California  Inc.,"WestCare California, Inc.",16,1,2,3,6,4,10,62.5
+2016,C15-CA-601A,Vietnam Veterans of San Diego,Vietnam Veterans of San Diego,25,4,3,5,2,11,13,52.0
+2016,C15-CA-602B,Volunteers of America of Los Angeles  Inc.,Volunteers of America of Los Angeles Inc,2,0,0,0,0,2,2,100.0
+2016,C15-CA-604A,California Veterans Assistance Foundation  Inc.,California Veterans Assistance Foundation Inc.,2,0,1,1,0,0,0,0.0
+2016,C15-CA-606A,United States Veterans Initiative,United States Veterans Initiative (U.S.VETS-Long Beach),1,0,0,0,1,0,1,100.0
+2016,C15-CA-608A,United States Veterans Initiative,United States Veterans Initiative,3,0,1,0,0,2,2,66.7
+2016,C15-CA-608B,Lighthouse Treatment Center,Lighthouse Treatment Center,4,3,0,1,0,0,0,0.0
+2016,C15-CA-609A,United States Veterans Initiative,United States Veterans Initiative,5,1,0,2,1,1,2,40.0
+2016,C15-CA-614A,Community Action Partnership of San Luis Obispo County  Inc.,"Community Action Partnership of San Luis Obispo County, Inc.",2,0,0,0,1,1,2,100.0
+2016,C15-CO-503A,"Volunteers of America Colorado Branch, Inc.","Volunteers of America Colorado Branch, Inc.",12,1,0,2,4,5,9,75.0
+2016,C15-CO-504A,Rocky Mountain Human Services (dba Denver Options  Inc.),Denver Options Inc. dba Rocky Mountain Human Services,10,1,0,1,5,3,8,80.0
+2016,C15-FL-501B,Tampa CrossRoads,Tampa CrossRoads,11,1,1,2,3,4,7,63.6
+2016,C15-FL-502A,Society of St. Vincent de Paul  South Pinellas  Inc.,Society of St Vincent de Paul South Pinellas Inc,25,0,0,1,11,13,24,96.0
+2016,C15-FL-504A,Salvation Army  a Georgia Corporation,Salvation Army  a Georgia Corporation,1,1,0,0,0,0,0,0.0
+2016,C15-FL-513A,Volunteers of America of Florida  Inc.,"Volunteers of America of Florida, Inc.",3,0,0,1,1,1,2,66.7
+2016,C15-FL-600A,Carrfour Supportive Housing  Inc.,"Carrfour Supportive Housing, Inc.",31,1,1,1,9,19,28,90.3
+2016,C15-GA-500A,Project Community Connections  Inc.,"Project Community Connections, Inc.",6,0,0,0,2,4,6,100.0
+2016,C15-GA-500B,Travelers Aid of Metropolitan Atlanta  Inc.,Travelers Aid of Metropolitan Atlanta Inc.,7,0,1,1,2,3,5,71.4
+2016,C15-GA-508A,Project Community Connections  Inc.,"Project Community Connections, Inc.",5,0,0,1,0,4,4,80.0
+2016,C15-GA-508B,Travelers Aid of Metropolitan Atlanta  Inc.,"Travelers Aid of Metropolitan Atlanta, Inc.",3,0,1,1,1,0,1,33.3
+2016,C15-HI-501A,United States Veterans Initiative,United States Veterans Initiative,3,1,0,0,1,1,2,66.7
+2016,C15-IL-511A,Catholic Charities of the Archdiocese of Chicago,Catholic Charities of the Archdiocese of Chicago,6,0,0,1,2,3,5,83.3
+2016,C15-IN-503A,United Way of Central Indiana  Inc.,"United Way of Central Indiana, Inc.",5,1,0,0,3,1,4,80.0
+2016,C15-KS-501A,ReStart  Inc.,ReStart  Inc.,18,0,0,3,5,10,15,83.3
+2016,C15-KS-501B,Salvation Army  an Illinois Corporation,"Salvation Army, an Illinois Corporation",1,0,0,0,0,1,1,100.0
+2016,C15-KY-501A,Volunteers of America Mid-States  Inc.,"Volunteers of America Mid-States, Inc.",6,1,1,1,0,3,3,50.0
+2016,C15-MA-500A,New England Center and Home for Veterans,Vietnam Veterans Workshop Inc.,4,0,0,0,1,3,4,100.0
+2016,C15-MA-506A,Veterans  Inc.,Veterans Inc.,6,0,0,2,1,3,4,66.7
+2016,C15-MI-501A,Volunteers of America Michigan,Volunteers of America Michigan Inc.,2,0,0,0,0,2,2,100.0
+2016,C15-MO-604A,Salvation Army  an Illinois Corporation,"Salvation Army, an Illinois Corporation",7,0,0,2,2,3,5,71.4
+2016,C15-MO-604B,ReStart  Inc.,"ReStart, Inc.",9,1,0,0,3,5,8,88.9
+2016,C15-NC-501A,Homeward Bound of Western North Carolina,Homeward Bound of Western North Carolina,14,0,1,0,2,11,13,92.9
+2016,C15-NC-507A,Volunteers of America of the Carolinas  Inc.,Volunteers of America of the Carolinas Inc.,8,0,0,1,1,6,7,87.5
+2016,C15-NC-511B,Family Endeavors  Inc.,Family Endeavors Inc.,8,2,1,2,2,1,3,37.5
+2016,C15-NV-500B,U.S.VETS  Las Vegas,United States Veterans Initiative,4,0,0,0,4,0,4,100.0
+2016,C15-NY-600A,Services for the UnderServed  Inc.,"Services for the UnderServed, Inc.",9,3,1,2,3,0,3,33.3
+2016,C15-NY-600B,HELP Social Service Corporation,HELP Social Service Corporation,5,0,0,0,2,3,5,100.0
+2016,C15-NY-603A,Services for the UnderServed  Inc.,"Services for the UnderServed, Inc.",10,0,2,2,1,5,6,60.0
+2016,C15-OH-500B,Talbert House  Inc.,Talbert House Inc.,6,0,1,0,5,0,5,83.3
+2016,C15-OH-502B,Volunteers of America of Greater Ohio,Volunteers of America of Greater Ohio,9,2,1,0,4,2,6,66.7
+2016,C15-OH-505A,Volunteers of America of Greater Ohio,Volunteers of America of Greater Ohio,1,0,0,0,0,1,1,100.0
+2016,C15-OR-500A,St. Vincent de Paul Society of Lane County  Inc.,St. Vincent de Paul Society of Lane County Inc.,22,0,0,2,5,15,20,90.9
+2016,C15-OR-501A,Transition Projects  Inc.,"Transition Projects, Inc.",3,0,0,0,1,2,3,100.0
+2016,C15-PA-500A,Impact Services Corporation,Impact Services Corporation,4,1,0,0,3,0,3,75.0
+2016,C15-PR-503A,Casa del Peregrino Aguadilla  Inc.,"Casa del Peregrino Aguadilla, Inc.",1,0,0,0,0,1,1,100.0
+2016,C15-SC-503A,Eastern Carolina Homeless Organization  Inc.,"Eastern Carolina Homeless Organization, Inc.",8,1,1,3,2,1,3,37.5
+2016,C15-TN-504A,Centerstone of Tennessee  Inc.,Centerstone of Tennessee Inc.,2,0,0,0,1,1,2,100.0
+2016,C15-TX-601A,Family Endeavors   Inc.,Family Endeavors Inc.,7,0,1,3,3,0,3,42.9
+2016,C15-TX-603A,American GI Forum National Veterans Outreach Program  Inc.,"American GI Forum National Veterans Outreach Program, Inc.",10,1,0,0,1,8,9,90.0
+2016,C15-WA-500A,Community Psychiatric Clinic,Community Psychiatric Clinic,8,0,0,1,2,5,7,87.5
+2016,C15-WA-502A,Goodwill Industries of the Inland Northwest,Goodwill Industries of the Inland Northwest,13,1,1,1,3,7,10,76.9
+2016,C15-WA-503A,Catholic Community Services of Western Washington,Catholic Community Services of Western Washington,7,0,1,1,3,2,5,71.4
+2016,C15-WA-503B,Metropolitan Development Council,Metropolitan Development Council,5,0,0,0,0,5,5,100.0
+2016,C15-WI-501A,Center for Veterans Issues  Ltd.,Center for Veterans Issues Ltd.,1,0,0,0,0,1,1,100.0
+2016,C2015-CA-500B,Sunnyvale Community Services,Sunnyvale Community Services,1,0,0,0,0,1,1,100.0
+2016,C2015-CA-504A,Vietnam Veterans of California  Inc. (Sacramento Veterans Resource),"Vietnam Veterans of California, Inc. (Sacramento Veterans Resource)",15,0,0,4,7,4,11,73.3
+2016,C2015-CA-508A,Vietnam Veterans of California  Inc. (Sacramento Veterans Resource),"Vietnam Veterans of California, Inc. (Sacramento Veterans Resource)",1,0,0,0,0,1,1,100.0
+2016,C2015-CA-600A,"Volunteers of America of Los Angeles, Inc.",Volunteers of America of Los Angeles Inc.,7,2,0,1,1,3,4,57.1
+2016,C2015-CA-600B,New Directions  Inc.,"New Directions, Inc.",3,0,0,1,2,0,2,66.7
+2016,C2015-CA-600E,Mental Health America of Los Angeles,Mental Health America of Los Angeles,2,0,0,0,0,2,2,100.0
+2016,C2015-CA-600H,"Salvation Army, a California Corporation","Salvation Army, a California Corporation",17,0,1,3,7,6,13,76.5
+2016,C2015-CA-601B,Volunteers of America Southwest California Inc.,Volunteers of America Southwest California Inc.,2,0,1,0,0,1,1,50.0
+2016,C2015-CA-601D,Community Catalysts of California,Community Catalysts of California,3,0,1,1,0,1,1,33.3
+2016,C2015-DC-500B,Friendship Place,Friendship Place,11,1,1,4,2,3,5,45.5
+2016,C2015-FL-519A,Society of St. Vincent de Paul  South Pinellas  Inc.,Society of St Vincent de Paul South Pinellas Inc,8,0,1,1,2,4,6,75.0
+2016,C2015-IL-510F,Associates of Chicago Urban Day School Inc.,Associates of Chicago Urban Day School Inc.,3,0,0,0,1,2,3,100.0
+2016,C2015-MT-500B,Volunteers of America Northern Rockies,Volunteers of America Northern Rockies,25,1,2,2,10,10,20,80.0
+2016,C2015-NV-500E,U.S.VETS  Las Vegas,United States Veterans Initiative (dba U.S. VETS - Las Vegas),3,0,0,0,0,3,3,100.0
+2016,C2015-OR-502B,Access,Access,6,1,0,2,2,1,3,50.0
+2016,C2015-OR-505A,Community Action Partnership of Oregon (CAPO),Community Action Partnership of Oregon (CAPO),14,2,1,1,3,7,10,71.4
+2016,C2015-SC-502B,One-Eighty Place (formerly Crisis Ministries),One-Eighty Place (formerly Crisis Ministries),2,0,0,0,0,2,2,100.0
+2016,C2015-TX-607B,Volunteers of America,Volunteers of America Texas,1,0,0,0,1,0,1,100.0
+2016,C2015-TX-607G,Lubbock Regional Mental Health Mental Retardation Center (dba StarCare Specialty Health System),Lubbock Regional Mental Health Mental Retardation Center (dba StarCare Specialty Health System),1,0,0,0,0,1,1,100.0
+2016,C2015-TX-607H,"Family Endeavors, Inc.",Family Endeavors Inc.,22,1,1,3,4,13,17,77.3
+2016,C2015-WA-501E,Metropolitan Development Council,Metropolitan Development Council,4,0,0,0,1,3,4,100.0
