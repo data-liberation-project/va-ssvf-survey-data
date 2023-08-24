@@ -34,7 +34,7 @@ pdfs/
 This repository currently contains two pieces of Python code:
 
 - [`scripts/extract-pdf-tables.py`](scripts/extract-pdf-tables.py), which extracts the provider satisfaction table that spans on pages 21–25 of [`pdfs/VA SSVF Year End Report FY20.pdf`](pdfs/VA%20SSVF%20Year%20End%20Report%20FY20.pdf), and saves that data to [`data/from-pdfs/provider-satisfaction-fy20.csv`](data/from-pdfs/provider-satisfaction-fy20.csv). In the future, this script might be expanded to extract additional tables, and from additional PDFs.
-- [`notebooks/satisfaction-calculations.ipynb`](notebooks/satisfaction-calculations.ipynb), which checks that the raw survey data matches (in at least the tested aspects) with the results presented in the PDF table noted above, and generates [`data/output/provider-satisfaction-by-fiscal-year.csv`](data/output/provider-satisfaction-by-fiscal-year.csv)
+- [`notebooks/satisfaction-calculations.ipynb`](notebooks/satisfaction-calculations.ipynb), which checks that the raw survey data matches (in at least the tested aspects) with the results presented in the PDF table noted above, and generates [`data/output/provider-satisfaction-by-fiscal-year.csv`](data/output/provider-satisfaction-by-fiscal-year.csv).
 
 ## Output
 
